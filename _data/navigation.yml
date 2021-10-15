@@ -1,0 +1,86 @@
+﻿- title: Início
+  url: "/"
+  side: left
+
+- title: Chamada de Trabalhos
+  url: "/chamada/"
+  side: left
+
+- title: Artigos Aceitos
+  url: "/aceitos/"
+  side: left
+
+
+#- title: "Palestras e Minicursos"
+- title: "Palestras"
+  url: "/palestras/"
+  side: left
+#  dropdown:
+#  - title: "Palestras"
+#    url: "/palestras/"
+#  - title: "Minicursos"
+#    url: "/minicursos/"
+
+#- title: "Oficinas e Painel"
+#  url: ""
+#  side: left
+#  dropdown:
+#  - title: "Oficina Engenheiras de Software"
+#    url: "/oficina_engenheiras/"
+#  - title: "Oficina Ensino/Aprendizagem de Engenharia de Software"
+#    url: "/oficina_ensino/"
+#  - title: "Painel Currículo de Engenharia de Software"
+#    url: "/painel/"
+
+
+- title: "Programação"
+  url: "/programacao/"
+  side: left
+
+- title: "Inscrições"
+  url: "/inscricoes/"
+  side: left
+
+- title: "Organização"
+  url: ""
+  side: left
+  dropdown:
+  - title: "Coordenação Geral"
+    url: "/coordenacao_geral/"
+  - title: "Coordenadores dos Fóruns"
+    url: "/coordenacao_eventos/"
+  - title: "Comitê Científico"
+    url: "/comite_cientifico/"
+#  - title: "Comitê Diretivo"
+#    url: "/comite_diretivo/"
+#  - title: "Voluntários"
+#    url: "/voluntarios/"
+
+
+#- title: "Local do Evento"
+#  url: "/local_evento/"
+#  side: left
+#  dropdown:
+#  - title: "UEM"
+#    url: "/uem/"
+#  - title: "Como Chegar à ERES"
+#    url: "/como_chegar/"
+#  - title: "Hospedagem"
+#    url: "/hospedagem/"
+#  - title: "Refeições"
+#    url: "/refeicoes/"
+#  - title: "Sobre Maringá"
+#    url: "/maringa/"
+
+
+- title: "Contato"
+  url: "/contato/"
+  side: left
+
+- title: "Edições Anteriores"
+  url: "/edicoes_anteriores/"
+  side: left
+
+- title: "Anais"
+  url: "/anais/"
+  side: left
