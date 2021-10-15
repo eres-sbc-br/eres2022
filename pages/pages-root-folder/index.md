@@ -20,8 +20,6 @@ header:
 
 <p>A realização da ERES 2021 oferecerá aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de engenharia de software por meio da apresentação de palestras ministradas por pesquisadores renomados. O evento também intenciona oferecer uma atualização tecnológica por meio de minicursos apresentados por pesquisadores ou profissionais experientes e qualificados. Ainda, oficinas e um painel serão realizados. Dessa forma, este evento irá possibilitar a divulgação de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando assim o gosto pela pesquisa científica aos participantes.</p>
 
-<p>A Programação do ERES está sendo elaborada com palestras de profissionais da indústria, palestras da academia e submissões de artigos para serem apresentados em fóruns de graduação, pós-graduação, e indústria.</p>
-
 <p>A programação da ERES 2021 está sendo elaborada com palestras e submissões de artigos para serem apresentados em um Fórum de Graduação, um Fórum para Pós-Graduação e Trilha da Indústria.</p>
 
 <h3>Fórum para Graduação</h3>
