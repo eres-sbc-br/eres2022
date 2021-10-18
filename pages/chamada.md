@@ -36,7 +36,7 @@ header:
 
 <h2>Datas Importantes</h2>
 <ul>
-  <li><strong>Submissão de artigos:</strong> 18 de outubro de 2021 até as 23h:55m (horário de Brasília)</li>
+  <li><strong>Submissão de artigos:</strong> <strike>18 de outubro de 2021</strike> 28 de outubro de 2021 até as 23h:55m (horário de Brasília)</li>
   <li><strong>Notificação aos autores:</strong> 10 de novembro de 2021</li>
   <li><strong>Envio da versão final:</strong> 15 de novembro de 2021</li>
 </ul>
