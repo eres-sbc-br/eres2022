@@ -224,7 +224,7 @@ header:
 
 <h2>Política de Cancelamento de Inscrições</h2>
 
-<p>Até o dia <span class="color:red"><strong>24/Nov/2021</strong></span> pode-se fazer uma devolução de <span class="color:red"><strong>50%</strong></span> do valor pago pela inscrição na ERES 2021. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para <a href="mailto:faturamento@sbc.org.br">faturamento@sbc.org.br</a></p>
+<p>Até o dia <span style="color:red"><strong>24/Nov/2021</strong></span> pode-se fazer uma devolução de <span style="color:red"><strong>50%</strong></span> do valor pago pela inscrição na ERES 2021. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para <a href="mailto:faturamento@sbc.org.br">faturamento@sbc.org.br</a></p>
 
 
 <h2>Por que ser associado à SBC?</h2>
