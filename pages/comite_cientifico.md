@@ -5,7 +5,7 @@ subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.Universidade Estadual de Maringá (UEM)@gmail.com"
 permalink: "/comite_cientifico/"
 header:
-  image_fullwidth: banner_eres2020.png
+  image_fullwidth: banner_eres2021.png
 ---
 
 
@@ -101,4 +101,4 @@ header:
 <li> Rodrigo Pereira dos Santos - Universidade Federal do Estado do Rio de Janeiro (UNIRIO) </li>
 <li> Simone do Rocio Senger de Souza - Universidade de São Paulo (ICMC/USP) </li>
 <li> Thais Christina Webber dos Santos - University of St. Andrews, UK </li>
-</ul> 
+</ul>
