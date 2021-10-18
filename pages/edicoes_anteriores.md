@@ -9,7 +9,7 @@ header:
 
 <div class="medium-8 columns t30">      
 	<b>Maringá-PR 2020</b>
-	<a href="http://eres.sbc.org.br/2019" target="_blank">
+	<a href="http://eres.sbc.org.br/2020" target="_blank">
 		<img src="{{ site.urlimg }}banner_eres2020.png" alt="">
 	</a>
 </div>
