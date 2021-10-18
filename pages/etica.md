@@ -6,7 +6,7 @@ subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/etica/"
 header:
-   image_fullwidth: banner_eres2020.png
+   image_fullwidth: banner_eres2021.png
 ---
 
 <h2>Código de Ética da ERES 2020</h2>
