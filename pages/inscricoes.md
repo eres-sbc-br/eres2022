@@ -146,17 +146,17 @@ header:
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td bgcolor="#d3d3d3" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>: inscrição no evento + associação quadrimestral à SBC)</td>
-  <td bgcolor="#d3d3d3">R$ 103,00</td>
-  <td bgcolor="#d3d3d3">R$ 108,00</td>
-  <td bgcolor="#d3d3d3">R$ 113,00</td>
+  <td bgcolor="#d3d3d3">R$ TBA*</td>
+	<td bgcolor="#d3d3d3">R$ TBA*</td>
+	<td bgcolor="#d3d3d3">R$ TBA*</td>
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td bgcolor="#FFFFFF" valign="middle">Profissional não associado à SBC (Somente inscrição no evento) </td>
-  <td bgcolor="#FFFFFF">R$ 290,00</td>
-  <td bgcolor="#FFFFFF">R$ 296,00</td>
-  <td bgcolor="#FFFFFF">R$ 301,00</td>
+	<td bgcolor="#FFFFFF">R$ TBA*</td>
+	<td bgcolor="#FFFFFF">R$ TBA*</td>
+	<td bgcolor="#FFFFFF">R$ TBA*</td>
   </tr>
 
  <tr>
