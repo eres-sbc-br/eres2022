@@ -169,39 +169,39 @@ header:
 
   <tr align="center" bgcolor="#d3d3d3">
     <td style="text-align:center" style="vertical-align:middle" width="10%" rowspan="5" ><b>Professor de Educação Básica</b></td>
-	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
+ <td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
+ <td bgcolor="#FFFFFF">R$ 5,00</td>
+ <td bgcolor="#FFFFFF">R$ 6,50</td>
+ <td bgcolor="#FFFFFF">R$ 8,00</td>
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-    <td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
+    <td bgcolor="#d3d3d3">R$ 103,00</td>
+   <td bgcolor="#d3d3d3">R$ 104,50</td>
+   <td bgcolor="#d3d3d3">R$ 106,00</td>
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-    <td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
+    <td bgcolor="#FFFFFF">R$ 103,00</td>
+   <td bgcolor="#FFFFFF">R$ 104,50</td>
+   <td bgcolor="#FFFFFF">R$ 106,00</td>
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b> inscrição no evento + associação quadrimestral à SBC)</td>
-  <td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
+     <td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
+     <td bgcolor="#d3d3d3">R$ 104,00</td>
+     <td bgcolor="#d3d3d3">R$ 106,00</td>
+     <td bgcolor="#d3d3d3">R$ 107,00</td>
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
+     <td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b> inscrição no evento + associação quadrimestral à SBC)</td>
+      <td bgcolor="#FFFFFF">R$ 37,67</td>
+     <td bgcolor="#FFFFFF">R$ 39,17</td>
+     <td bgcolor="#FFFFFF">R$ 40,67</td>
   </tr>
 </table>
 
