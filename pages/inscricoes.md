@@ -16,10 +16,6 @@ header:
 
 <p>Será exigido no momento da inscrição no sistema ECOS, para as categorias que necessitam de algum tipo comprovação, o upload de um documento que ateste a categoria escolhida. A verificação desse documento pode levar até 1 dia útil. Logo, sugerimos que para evitar algum transtorno não deixe para o último dia da faixa de inscrição. Somente após a validação pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição dele na ERES 2021.</p>
 
-
-<h4>*TBA: To be announced; os valores serão divulgados em breve</h4>
-<table style="width:100%" border="1" align="center">
-
   <tr bgcolor="#FFFF00">
 	<th style="text-align:center" style="vertical-align:middle" width="20%" colspan="2">CATEGORIAS</th>
     <th width="5%">Até 12/11/2021</th>
@@ -30,43 +26,41 @@ header:
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="20%" rowspan="5" ><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
 	<td bgcolor="#FFFFFF">Estudante associado à SBC com anuidade vigente</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
+	<td bgcolor="#FFFFFF">R$ 5,00</td>
+	<td bgcolor="#FFFFFF">R$ 6,50</td>
+	<td bgcolor="#FFFFFF">R$ 8,00</td>
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Estudante associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-    <td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
+    <td bgcolor="#d3d3d3">R$ 29,00</td>
+  	<td bgcolor="#d3d3d3">R$ 30,50</td>
+  	<td bgcolor="#d3d3d3">R$ 32,00</td>
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td valign="middle" bgcolor="#FFFFFF">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-    <td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
+    <td bgcolor="#FFFFFF">R$ 29,00</td>
+  	<td bgcolor="#FFFFFF">R$ 30,50</td>
+  	<td bgcolor="#FFFFFF">R$ 32,00</td>
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-  	<td bgcolor="#d3d3d3" valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>  inscrição no evento + associação quadrimestral à SBC) </td>
-    <td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
+  	<td bgcolor="#d3d3d3" valign="middle">Estudante não associado à SBC (Somente inscrição no evento) </td>
+  	<td bgcolor="#d3d3d3">R$ 30,00</td>
+  	<td bgcolor="#d3d3d3">R$ 32,00</td>
+  	<td bgcolor="#d3d3d3">R$ 33,00</td>
   </tr>
+
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#FFFFFF" valign="middle">Estudante não associado à SBC (Somente inscrição no evento) </td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
+  	<td bgcolor="#FFFFFF" valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>  inscrição no evento + associação quadrimestral à SBC) </td>
+    <td bgcolor="#FFFFFF">R$ 13,00</td>
+  	<td bgcolor="#FFFFFF">R$ 14,50</td>
+  	<td bgcolor="#FFFFFF">R$ 16,00</td>
   </tr>
-
-
-
 
 
  <tr>
@@ -81,39 +75,86 @@ header:
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="5" ><b>Estudante de Pós-Graduação</b></td>
 	<td bgcolor="#FFFFFF" valign="middle" >Estudante de pós-graduação associado à SBC com anuidade vigente</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
+	<td bgcolor="#FFFFFF">R$ 5,00</td>
+	<td bgcolor="#FFFFFF">R$ 6,50</td>
+	<td bgcolor="#FFFFFF">R$ 8,00</td>
   </tr>
 
   <tr bgcolor="#d3d3d3" align="center">
     <td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-    <td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
+    <td bgcolor="#d3d3d3">R$ 103,00</td>
+  	<td bgcolor="#d3d3d3">R$ 104,50</td>
+  	<td bgcolor="#d3d3d3">R$ 106,00</td>
   </tr>
 
 
   <tr align="center">
     <td bgcolor="#FFFFFF" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-    <td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>	  	  
+    <td bgcolor="#FFFFFF">R$ 103,00</td>
+  	<td bgcolor="#FFFFFF">R$ 104,50</td>
+  	<td bgcolor="#FFFFFF">R$ 106,00</td>	  	  
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b> inscrição no evento + associação quadrimestral à SBC) </td>
-  <td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
+  	<td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)  </td>
+  	<td bgcolor="#d3d3d3">R$ 104,00</td>
+  	<td bgcolor="#d3d3d3">R$ 106,00</td>
+  	<td bgcolor="#d3d3d3">R$ 107,00</td>
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-  	<td bgcolor="#FFFFFF" valign="middle">Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)  </td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
+  	<td bgcolor="#FFFFFF" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b> inscrição no evento + associação quadrimestral à SBC) </td>
+    <td bgcolor="#FFFFFF">R$ 37,67</td>
+  	<td bgcolor="#FFFFFF">R$ 39,17</td>
+  	<td bgcolor="#FFFFFF">R$ 40,67</td>
   </tr>
+
+
+  <tr>
+   	<td height="15" bgcolor="#000000"></td>
+   	<td bgcolor="#000000"></td>
+   	<td bgcolor="#000000"></td>
+   	<td bgcolor="#000000"></td>
+   	<td bgcolor="#000000"></td>					
+   </tr>
+
+   <tr align="center" bgcolor="#d3d3d3">
+     <td style="text-align:center" style="vertical-align:middle" width="10%" rowspan="5" ><b>Professor de Educação Básica</b></td>
+ 	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
+ 	<td bgcolor="#FFFFFF">R$ 5,00</td>
+ 	<td bgcolor="#FFFFFF">R$ 6,50</td>
+ 	<td bgcolor="#FFFFFF">R$ 8,00</td>
+   </tr>
+
+   <tr align="center" bgcolor="#d3d3d3">
+     <td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
+     <td bgcolor="#d3d3d3">R$ 103,00</td>
+   	<td bgcolor="#d3d3d3">R$ 104,50</td>
+   	<td bgcolor="#d3d3d3">R$ 106,00</td>
+   </tr>
+
+
+   <tr align="center" bgcolor="#d3d3d3">
+     <td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
+     <td bgcolor="#FFFFFF">R$ 103,00</td>
+   	<td bgcolor="#FFFFFF">R$ 104,50</td>
+   	<td bgcolor="#FFFFFF">R$ 106,00</td>
+   </tr>
+
+   <tr align="center" bgcolor="#d3d3d3">
+    	<td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
+    	<td bgcolor="#d3d3d3">R$ 104,00</td>
+    	<td bgcolor="#d3d3d3">R$ 106,00</td>
+    	<td bgcolor="#d3d3d3">R$ 107,00</td>
+   </tr>
+
+   <tr align="center" bgcolor="#d3d3d3">
+ 	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b> inscrição no evento + associação quadrimestral à SBC)</td>
+   <td bgcolor="#FFFFFF">R$ 37,67</td>
+ 	<td bgcolor="#FFFFFF">R$ 39,17</td>
+ 	<td bgcolor="#FFFFFF">R$ 40,67</td>
+   </tr>
+
 
   <tr>
  	<td height="15" bgcolor="#000000"></td>
@@ -127,85 +168,40 @@ header:
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="5"><b>Profissionais/Efetivos</b></td>
 	<td bgcolor="#FFFFFF" valign="middle">Profissional associado à SBC com anuidade vigente</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ R$ TBA*</td>
+	<td bgcolor="#FFFFFF">R$ 10,00</td>
+	<td bgcolor="#FFFFFF">R$ 15,00</td>
+	<td bgcolor="#FFFFFF">R$ 20,00</td>
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Profissional associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC) </td>
-    <td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
+    <td bgcolor="#d3d3d3">R$ 289,00/td>
+  	<td bgcolor="#d3d3d3">R$ 294,00</td>
+  	<td bgcolor="#d3d3d3">R$ 299,00</td>
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)  </td>
-    <td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>	  	  	
+    <td bgcolor="#FFFFFF">R$ 289,00/td>
+  	<td bgcolor="#FFFFFF">R$ 294,00</td>
+  	<td bgcolor="#FFFFFF">R$ 299,00</td> 	  	
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#d3d3d3" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>: inscrição no evento + associação quadrimestral à SBC)</td>
-  <td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
-  </tr>
-
-
-  <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#FFFFFF" valign="middle">Profissional não associado à SBC (Somente inscrição no evento) </td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  </tr>
-
- <tr>
-	<td height="15" bgcolor="#000000"></td>
-	<td bgcolor="#000000"></td>
-	<td bgcolor="#000000"></td>
-	<td bgcolor="#000000"></td>
-	<td bgcolor="#000000"></td>					
+  	<td bgcolor="#d3d3d3" valign="middle">Profissional não associado à SBC (Somente inscrição no evento) </td>
+  	<td bgcolor="#d3d3d3">R$ 290,00</td>
+  	<td bgcolor="#d3d3d3">R$ 296,00</td>
+  	<td bgcolor="#d3d3d3">R$ 301,00</td>
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-    <td style="text-align:center" style="vertical-align:middle" width="10%" rowspan="5" ><b>Professor de Educação Básica</b></td>
-	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
+  	<td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>: inscrição no evento + associação quadrimestral à SBC)</td>
+    <td bgcolor="#FFFFFF">R$ 103,00</td>
+  	<td bgcolor="#FFFFFF">R$ 108,00</td>
+  	<td bgcolor="#FFFFFF">R$ 113,00</td>
   </tr>
-
-  <tr align="center" bgcolor="#d3d3d3">
-    <td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-    <td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
-  	<td bgcolor="#d3d3d3">R$ TBA*</td>
-  </tr>
-
-
-  <tr align="center" bgcolor="#d3d3d3">
-    <td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-    <td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  </tr>
-
-  <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b> inscrição no evento + associação quadrimestral à SBC)</td>
-  <td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
-  </tr>
-
-  <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-  </tr>
+  
 </table>
 
 
