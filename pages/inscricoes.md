@@ -131,7 +131,7 @@ header:
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Profissional associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC) </td>
-    <td bgcolor="#d3d3d3">R$ 289,00/td>
+    <td bgcolor="#d3d3d3">R$ 289,00</td>
   	<td bgcolor="#d3d3d3">R$ 294,00</td>
   	<td bgcolor="#d3d3d3">R$ 299,00</td>
   </tr>
@@ -139,24 +139,24 @@ header:
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)  </td>
-    <td bgcolor="#FFFFFF">R$ 289,00/td>
+    <td bgcolor="#FFFFFF">R$ 289,00</td>
   	<td bgcolor="#FFFFFF">R$ 294,00</td>
   	<td bgcolor="#FFFFFF">R$ 299,00</td> 		  	  	
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td bgcolor="#d3d3d3" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>: inscrição no evento + associação quadrimestral à SBC)</td>
-  <td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
-	<td bgcolor="#d3d3d3">R$ TBA*</td>
+  <td bgcolor="#d3d3d3">R$ 103,00</td>
+  <td bgcolor="#d3d3d3">R$ 108,00</td>
+  <td bgcolor="#d3d3d3">R$ 113,00</td>
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td bgcolor="#FFFFFF" valign="middle">Profissional não associado à SBC (Somente inscrição no evento) </td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
-	<td bgcolor="#FFFFFF">R$ TBA*</td>
+  <td bgcolor="#FFFFFF">R$ 290,00</td>
+  <td bgcolor="#FFFFFF">R$ 296,00</td>
+  <td bgcolor="#FFFFFF">R$ 301,00</td>
   </tr>
 
  <tr>
