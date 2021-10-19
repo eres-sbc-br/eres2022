@@ -16,6 +16,7 @@ header:
 
 <p>Será exigido no momento da inscrição no sistema ECOS, para as categorias que necessitam de algum tipo comprovação, o upload de um documento que ateste a categoria escolhida. A verificação desse documento pode levar até 1 dia útil. Logo, sugerimos que para evitar algum transtorno não deixe para o último dia da faixa de inscrição. Somente após a validação pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição dele na ERES 2021.</p>
 
+<table style="width:100%" border="1" align="center">
   <tr bgcolor="#FFFF00">
 	<th style="text-align:center" style="vertical-align:middle" width="20%" colspan="2">CATEGORIAS</th>
     <th width="5%">Até 12/11/2021</th>
