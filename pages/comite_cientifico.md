@@ -41,22 +41,26 @@ header:
 <h3>Santa Catarina:</h3>
 
 <ul>
-<li> Adilson Vahldick - UDESC</li>
-<li> Andreia Sabedra Bordin - Universidade Federal de Santa Catarina UFSC) </li>
+<li> Adilson Vahldick - Universidade do Estado de Santa Catarina (UDESC)</li>
+<li> Andreia Sabedra Bordin - Universidade Federal de Santa Catarina UFSC) </li><!--?-->
 <li> Carlos Alberto Barth - Universidade do Estado de Santa Catarina (UDESC) </li>
-<li> Daniel Gomes Soares - Instituto Federal Catarinense (IFC) </li>
+<li> Cristiano Roberto Franco - Uniasselvi / Hering </li>
 <li> Everaldo Artur Grahl - Fundação Universidade Regional de Blumenau (FURB) </li>
-<li> Fabiane Benitti - Universidade Federal de Santa Catarina (UFSC) </li>
-<!--<li> Fernando dos Santos - Universidade do Estado de Santa Catarina (UDESC) </li>-->
+<li> Fabiane Benitti - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
+<li> Felipe Taliar Giuntini - Sidia Instituto de Ciência e Tecnologia </li>
+<!--<li> Fernando dos Santos - Universidade do Estado de Santa Catarina (UDESC) -->
 <li> Marcela Leite - Instituto Federal Catarinense (IFC) </li>
+<li> Márcio José Mantau - Universidade do Estado de Santa Catarina (UDESC) </li>
 <li> Marilia Guterres Ferreira - Universidade do Estado de Santa Catarina (UDESC) </li>
-<li> Maurício F. Galimberti - Universidade Federal de Santa Catarina (UFSC) </li>
-<li> Odorico Machado Mendizabal - Universidade Federal de Santa Catarina (UFSC) </li>
-<!--<li> Pablo Schoeffel - UDESC</li>-->
-<li> Patrícia Vilain - Universidade Federal de Santa Catarina (UFSC) </li>
-<li> Raul Sidnei Wazlawick Brasil - Universidade Federal de Santa Catarina (UFSC) </li>
-<li> Ricardo Pereira e Silva - Universidade Federal de Santa Catarina (UFSC) </li>
-<li> Rodrigo Curvêllo - Instituto Federal Catarinense (IFC) </li>
+<li> Maurício F. Galimberti - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
+<li> Jean Carlo Rossa Hauck - Universidade Federal de Santa Catarina (UFSC) </li>
+<li> Odorico Machado Mendizabal - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
+<!--<li> Pablo Schoeffel - Universidade do Estado de Santa Catarina (UDESC)</li>-->
+<li> Patrícia Blini Estivalete - Instituto Federal Catarinense (IFC) </li>
+<li> Patrícia Vilain - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
+<li> Paulo Roberto Farah - Universidade Federal de Santa Catarina (UFSC) </li>
+<li> Raul Sidnei Wazlawick Brasil - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
+<li> Ricardo Pereira e Silva - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
 </ul>
 
 
