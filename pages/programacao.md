@@ -23,7 +23,7 @@ header:
         <td>
             13:30 - 14:00
         </td>
-            <td bgcolor=''#d3d3d3'>
+            <td bgcolor='#d3d3d3'>
                 Abertura
             </td>
         </tr>
@@ -47,7 +47,7 @@ header:
             <td>
                 17:15 - 19:00
             </td>
-            <td bgcolor=''#d3d3d3'>
+            <td bgcolor='#d3d3d3'>
                 Intervalo
             </td>
         </tr>
@@ -63,7 +63,7 @@ header:
             <td>
                 20:30 - 20:45
             </td>
-            <td  bgcolor=''#d3d3d3'>
+            <td  bgcolor='#d3d3d3'>
                 Intervalo
             </td>
         </tr>
