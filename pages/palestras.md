@@ -8,7 +8,13 @@ header:
 ---
 
 
-<div class="row t30">
+<h2>Palestra A</h2>
+<div class="row t30" id="palestra_a">
+<p>(a definir)</p>
+</div>
+
+<h2>Palestra B</h2>
+<div class="row t30" id="palestra_b">
 	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}wangham.jpg" alt="" align="center"><br>
         <b>Profa. Dra. Michelle Silva Wangham (UNIVALI)</b><br>		
@@ -23,8 +29,8 @@ header:
     </div>
 </div>
 
-
-<div class="row t30">
+<h2>Palestra C</h2>
+<div class="row t30" id="palestra_c">
 	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}kalinowski.jpg" alt="" align="center"><br>
         <b>Prof. Dr. Marcos Kalinowski (PUC-RIO)</b><br>		
