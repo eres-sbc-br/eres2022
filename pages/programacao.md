@@ -419,7 +419,7 @@ header:
           <strong>Data:</strong>
         </td>
         <td colspan='2'>
-          05/12 - Quinta-feira
+          02/12 - Quinta-feira
         </td>
       </tr>
       <tr>
