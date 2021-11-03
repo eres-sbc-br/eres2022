@@ -15,7 +15,7 @@ header:
     <thead>
         <tr>
             <th bgcolor='#ffffff'>Horário</th>
-            <th bgcolor='#ffffff'>Quarta (01/12)</th>
+            <th bgcolor='#ffffff'>Atividade</th>
         </tr>
     </thead>
     <tbody>
@@ -64,7 +64,7 @@ header:
                 19:00 - 20:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='/palestras'>Palestra</a></br> <strong>Título</strong> </br>Palestrante</br> (<strong>Anfitrião: </strong> (a definir))
+                <a href='../palestras'>Palestra</a><br> <strong>Título</strong> <br>Palestrante<br> (<strong>Anfitrião: </strong> (a definir))
             </td>           
         </tr>
         <tr>
@@ -86,4 +86,4 @@ header:
     </tbody>
 </table>
 
-</br>
+<br>
