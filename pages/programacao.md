@@ -236,8 +236,8 @@ header:
 <br>
 <h2>Sessões Técnicas</h2>
 
-<section>
-  <h4 id='sessao_tecnica_1'>Sessão Técnica 1</h4>
+<section id='sessao_tecnica_1'>
+  <h4>Sessão Técnica 1</h4>
   <table>
     <tbody>
       <tr>
@@ -311,6 +311,93 @@ header:
       <tr>
         <td>
           <strong>15:00</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+    </tbody>
+      </table>
+</section>
+
+<section>
+  <h4 id='sessao_tecnica_2'>Sessão Técnica 2</h4>
+  <table>
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+          01/12 - Quarta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir))
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário:</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>15:45</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>16:05</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>16:25</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>16:45</strong>
         </td>
         <td>
           (a definir)
