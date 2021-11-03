@@ -323,8 +323,8 @@ header:
       </table>
 </section>
 
-<section>
-  <h4 id='sessao_tecnica_2'>Sessão Técnica 2</h4>
+<section id='sessao_tecnica_2'>
+  <h4>Sessão Técnica 2</h4>
   <table>
     <tbody>
       <tr>
@@ -333,6 +333,354 @@ header:
         </td>
         <td colspan='2'>
           01/12 - Quarta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir))
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário:</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>15:45</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>16:05</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>16:25</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>16:45</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+    </tbody>
+      </table>
+</section>
+
+<section id='sessao_tecnica_3'>
+  <h4>Sessão Técnica 3</h4>
+  <table>
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+          05/12 - Quinta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir))
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário:</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>14:00</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>14:20</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>14:40</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>15:00</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+    </tbody>
+      </table>
+</section>
+
+<section id='sessao_tecnica_4'>
+  <h4>Sessão Técnica 4</h4>
+  <table>
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+          02/12 - Quinta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir))
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário:</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>15:45</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>16:05</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>16:25</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>16:45</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+    </tbody>
+      </table>
+</section>
+
+<section id='sessao_tecnica_5'>
+  <h4>Sessão Técnica 5</h4>
+  <table>
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+          03/12 - Sexta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir))
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário:</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>14:00</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>14:20</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>14:40</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>15:00</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+    </tbody>
+      </table>
+</section>
+
+<section id='sessao_tecnica_6'>
+  <h4>Sessão Técnica 6</h4>
+  <table>
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+          03/12 - Sexta-feira
         </td>
       </tr>
       <tr>
