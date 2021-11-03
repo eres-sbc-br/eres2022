@@ -7,8 +7,7 @@ header:
    image_fullwidth: banner_eres2021.png
 ---
 
-<h1>Programação Preliminar</h1>
-<h5>(sujeita a alterações)</h5>
+<h3> Preliminar (sujeita a alterações)</h3>
 
 <h3>01/12 - Quarta-feira</h3>
 
@@ -235,3 +234,91 @@ header:
     </tbody>
 </table>
 <br>
+<h2>Sessões Técnicas</h2>
+
+<section>
+  <h4 id='sessao_tecnica_1'>Sessão Técnica 1</h4>
+  <table>
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+          01/12 - Quarta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir))
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário:</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>14:00</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>14:20</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>14:40</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>15:00</strong>
+        </td>
+        <td>
+          (a definir)
+        </td>
+        <td>
+          (a definir)
+        </td>
+      </tr>
+    </tbody>
+      </table>
+</section>
