@@ -12,7 +12,7 @@ header:
 <h2>Palestra A</h2>
 
 <div class="medium-16 columns">
-      <img src="{{ site.urlimg }}wangham.jpg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}ulisses.jpg" alt="" align="center"><br>
       <b>Ulisses Telemaco Neto (OWSE Ltda)</b><br>		
   <a href="http://lattes.cnpq.br/6570508446384648" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: AgileKIP Process Automation Platform: uma agenda acadêmica que virou empresa!</h4><br>		
