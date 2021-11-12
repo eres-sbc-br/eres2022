@@ -84,14 +84,16 @@ header:
                 (<strong>Anfitrião: </strong> (a definir))
             </td>
         </tr>
-        <td bgcolor='#ffffff'>
-        </td>
-        <td bgcolor='#ffffff'>
-            <strong>IPM Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
-            <strong>Zallpy Digital Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
-            <strong>AmbevTech</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
-            <strong>Considerações finais</strong>: a indústria de software no pós-pandemia</strong>
-        </td>
+        <tr>
+          <td bgcolor='#ffffff'>
+          </td>
+          <td bgcolor='#ffffff'>
+              <strong>IPM Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+              <strong>Zallpy Digital Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+              <strong>AmbevTech</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+              <strong>Considerações finais</strong>: a indústria de software no pós-pandemia</strong>
+          </td>
+        </tr>
     </tr>
     </tbody>
 </table>
