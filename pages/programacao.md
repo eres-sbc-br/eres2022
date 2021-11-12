@@ -20,14 +20,6 @@ header:
     </thead>
     <tbody>
         <tr>
-        <td bgcolor='#d3d3d3'>
-            13:30 - 14:00
-        </td>
-        <td bgcolor='#d3d3d3'>
-            Abertura
-        </td>
-        </tr>
-        <tr>
             <td bgcolor='#ffffff'>
                 14:00 - 15:30
             </td>
@@ -40,7 +32,7 @@ header:
                 15:30 - 15:45
             </td>
             <td  bgcolor='#d3d3d3'>
-                Intervalo
+                <i>Intervalo</i>
             </td>
         </tr>
         <tr>
@@ -56,15 +48,15 @@ header:
                 17:15 - 18:30
             </td>
             <td bgcolor='#d3d3d3'>
-                Intervalo
+                <i>Intervalo</i>
             </td>
         </tr>
         <tr>
-          <td bgcolor='#d3d3d3'>
+          <td bgcolor='#ffffff'>
               18:30 - 19:00
           </td>
-          <td bgcolor='#d3d3d3'>
-              Abertura
+          <td bgcolor='#ffffff'>
+              <strong>Abertura</strong>
           </td>
         </tr>
         <tr>
@@ -88,9 +80,19 @@ header:
                 20:30 - 22:00
             </td>
             <td bgcolor='#ffffff'>
-                (a definir)
+                <i><strong>Mini-talks com a indústria</strong></i><br>
+                (<strong>Anfitrião: </strong> (a definir))
             </td>
         </tr>
+        <td bgcolor='#ffffff'>
+        </td>
+        <td bgcolor='#ffffff'>
+            <strong>IPM Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+            <strong>Zallpy Digital Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+            <strong>AmbevTech</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+            <strong>Considerações finais</strong>: a indústria de software no pós-pandemia</strong>
+        </td>
+    </tr>
     </tbody>
 </table>
 
