@@ -53,15 +53,23 @@ header:
         </tr>
         <tr>
             <td bgcolor='#d3d3d3'>
-                17:15 - 19:00
+                17:15 - 18:30
             </td>
             <td bgcolor='#d3d3d3'>
                 Intervalo
             </td>
         </tr>
         <tr>
+          <td bgcolor='#d3d3d3'>
+              18:30 - 19:00
+          </td>
+          <td bgcolor='#d3d3d3'>
+              Abertura
+          </td>
+        </tr>
+        <tr>
             <td bgcolor='#ffffff'>
-                19:00 - 20:30
+                19:00 - 20:15
             </td>
             <td bgcolor='#ffffff'>
                 <a href='../palestras#palestra_a'>Palestra A</a><br> <strong>Título</strong> <br>Palestrante<br> (<strong>Anfitrião: </strong> (a definir))
@@ -69,7 +77,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#d3d3d3'>
-                20:30 - 20:45
+                20:15 - 20:30
             </td>
             <td  bgcolor='#d3d3d3'>
                 Intervalo
