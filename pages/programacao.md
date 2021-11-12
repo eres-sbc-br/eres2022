@@ -77,7 +77,6 @@ header:
         </tr>
         <tr>
             <td bgcolor='#ffffff'>
-                20:30 - 22:00
             </td>
             <td bgcolor='#ffffff'>
                 <i><strong>Mini-talks com a indústria</strong></i><br>
@@ -86,15 +85,36 @@ header:
         </tr>
         <tr>
           <td bgcolor='#ffffff'>
+            <!--20:30 - 21:00-->
           </td>
           <td bgcolor='#ffffff'>
-              <strong>IPM Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
-              <strong>Zallpy Digital Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
-              <strong>AmbevTech</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
-              <strong>Considerações finais</strong>: a indústria de software no pós-pandemia</strong>
+              <strong>IPM Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong>
           </td>
         </tr>
-    </tr>
+        <tr>
+          <td bgcolor='#ffffff'>
+            <!--21:00 - 21:30-->
+          </td>
+          <td bgcolor='#ffffff'>
+              <strong>Zallpy Digital Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor='#ffffff'>
+            <!--21:30 - 21:45-->
+          </td>
+          <td bgcolor='#ffffff'>
+              <strong>AmbevTech</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor='#ffffff'>
+            <!--21:45 - 22:00-->
+          </td>
+          <td bgcolor='#ffffff'>
+              <strong>Considerações finais</strong>: indústria de software no pós-pandemia</strong>
+          </td>
+        </tr>
     </tbody>
 </table>
 
