@@ -79,7 +79,7 @@ header:
             <td bgcolor='#ffffff'>
             </td>
             <td bgcolor='#ffffff'>
-                <i><strong>Mini-talks com a indústria</strong></i><br>
+                <i><strong>Mini-talks da Indústria de Software</strong></i><br>
                 (<strong>Anfitrião: </strong> (a definir))
             </td>
         </tr>
