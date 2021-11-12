@@ -97,7 +97,7 @@ header:
             <!--21:00 - 21:30-->
           </td>
           <td bgcolor='#ffffff'>
-              <strong>Zallpy Digital Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+              <strong>Zallpy Digital</strong> <br>Título<br> <strong>Palestrante: </strong><br>
           </td>
         </tr>
         <tr>
@@ -105,7 +105,7 @@ header:
             <!--21:30 - 21:45-->
           </td>
           <td bgcolor='#ffffff'>
-              <strong>AmbevTech</strong> <br>Título<br> <strong>Palestrante: </strong><br><br>
+              <strong>AmbevTech</strong> <br>Título<br> <strong>Palestrante: </strong><br>
           </td>
         </tr>
         <tr>
@@ -113,7 +113,7 @@ header:
             <!--21:45 - 22:00-->
           </td>
           <td bgcolor='#ffffff'>
-              <strong>Considerações finais</strong>: indústria de software no pós-pandemia</strong>
+              <strong>Considerações finais</strong>: visão da indústria de software sobre o pós-pandemia
           </td>
         </tr>
     </tbody>
