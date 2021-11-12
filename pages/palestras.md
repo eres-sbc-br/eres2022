@@ -10,7 +10,21 @@ header:
 
 <div class="row t30" id="palestra_a">
 <h2>Palestra A</h2>
-<p>(a definir)</p>
+
+<div class="medium-16 columns">
+      <img src="{{ site.urlimg }}wangham.jpg" alt="" align="center"><br>
+      <b>Ulisses Telemaco Neto (OWSE Ltda)</b><br>		
+  <a href="http://lattes.cnpq.br/6570508446384648" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: AgileKIP Process Automation Platform: uma agenda acadêmica que virou empresa!</h4><br>		
+  <b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
+  <b>Hora:</b> 19:00 - 20:15 <br>
+  <br>
+  <p><b>Resumo:</b> A ideia da palestra é explorar em detalhes a nossa solução entitulada AgileKIP PAP (Process Automation Platform) explicando os seus três pilares que são: (a) uma arquitetura de referência, (b) um gerador de código, e (c) um processo de desenvolvimento da empresa que foi adaptado para esse contexto (SCRUB4PA - SCRUB for Process Automation). A plataforma surgiu de uma agenda acadêmica. A partir de uma parceria indústria/academia, conseguimos desenvolver a solução. Temos alguns processos já implementados e em produção e também criamos uma empresa com foco exclusivo em oferecer esse serviço. O site oficial da documentação da plataforma é <a href="https://agilekip.github.io/pap-documentation/" target="_blank">https://agilekip.github.io/pap-documentation/</a>.</p>
+  <br><br>
+  <p><b>Bio:</b> Pós-doutorando na University of Wasterloo (Canadá) e é chefe de tecnologia da OWSE Ltda (empresa que ajudou a fudar). Com mais de 20 anos de experiência trabalhando como arquiteto de software, Ulisses é também PhD em Engenharia de Software pela Universidade Federal do Rio de Janeiro, e seus interesses de pesquisa incluem Knowledge Intensive Processes (KIP), Agile Software Development, Agility Assessment e Process-Aware Applications. Ele está atualmente trabalhando na agenda de pesquisa AgileKIP (<a href="www.agilekip.com" target="_blank">www.agilekip.com</a>) com o objetivo de desenvolver uma ferramenta para geração código para Process-Aware Information Systems.</p>
+  </div>
+</div>
+
 </div>
 
 <div class="row t30" id="palestra_b">
