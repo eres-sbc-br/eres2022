@@ -77,6 +77,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#ffffff'>
+              20:30 - 22:00
             </td>
             <td bgcolor='#ffffff'>
                 <i><strong>Mini-talks da Indústria de Software</strong></i><br>
