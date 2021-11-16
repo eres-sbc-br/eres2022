@@ -187,7 +187,10 @@ header:
                 20:30 - 22:00
             </td>
             <td bgcolor='#ffffff'>
-                (a definir)
+            <a href='../palestras#palestra_c'>Palestra C</a><br>
+            <strong>Título a definir</strong><br>
+            Professor Isidro<br>
+            (<strong>Anfitrião: </strong> a definir)
             </td>
         </tr>
     </tbody>
@@ -241,7 +244,7 @@ header:
                 19:00 - 20:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../palestras#palestra_c'>Palestra C</a><br>
+                <a href='../palestras#palestra_d'>Palestra D</a><br>
                 <strong>Engenharia de Sistemas de Software Inteligentes</strong><br>
                 Prof. Dr. Marcos Kalinowski (PUC-RIO)<br>
                 (<strong>Anfitrião: </strong> (a definir))

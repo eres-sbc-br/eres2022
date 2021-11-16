@@ -46,6 +46,22 @@ header:
 <div class="row t30" id="palestra_c">
 <h2>Palestra C</h2>
 	<div class="medium-16 columns">
+        <img src="{{ site.urlimg }}isidro.jpg" alt="" align="center"><br>
+        <b>Professor Isidro</b><br>		
+		<a href="https://www.linkedin.com/in/professor-isidro-phd-8a85a979?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDUdH8dwVSICM1ftln7CpLw%3D%3D" target="_blank">Linkedin</a><br>		
+		<h4>Título: a definir</h4><br>		
+		<b>Data:</b> 02/Dez/2021 (Sexta-Feira) <br>
+		<b>Hora:</b> 20:30 - 22:00 <br>
+		<br>
+		<p><b>Resumo:</b> a definir.</p>
+		<br><br>
+		<p><b>Bio:</b> a definir.</p>
+    </div>
+</div>
+
+<div class="row t30" id="palestra_d">
+<h2>Palestra D</h2>
+	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}kalinowski.jpg" alt="" align="center"><br>
         <b>Prof. Dr. Marcos Kalinowski (PUC-RIO)</b><br>		
 		<a href="http://lattes.cnpq.br/1095304607841635" target="_blank">Currículo Lattes</a><br>		
