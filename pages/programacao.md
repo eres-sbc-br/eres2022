@@ -77,7 +77,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#ffffff'>
-              20:30 - 22:00
+              <!--20:30 - 22:00-->
             </td>
             <td bgcolor='#ffffff'>
                 <i><strong>Mini-talks da Indústria de Software</strong></i><br>
@@ -86,7 +86,7 @@ header:
         </tr>
         <tr>
           <td bgcolor='#ffffff'>
-            <!--20:30 - 21:00-->
+            20:30 - 21:00
           </td>
           <td bgcolor='#ffffff'>
               <strong>IPM Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong>
@@ -94,7 +94,7 @@ header:
         </tr>
         <tr>
           <td bgcolor='#ffffff'>
-            <!--21:00 - 21:30-->
+            21:00 - 21:30
           </td>
           <td bgcolor='#ffffff'>
               <strong>Zallpy Digital</strong> <br>Título<br> <strong>Palestrante: </strong><br>
@@ -102,7 +102,7 @@ header:
         </tr>
         <tr>
           <td bgcolor='#ffffff'>
-            <!--21:30 - 21:45-->
+            21:30 - 21:45
           </td>
           <td bgcolor='#ffffff'>
               <strong>AmbevTech</strong> <br>Título<br> <strong>Palestrante: </strong><br>
@@ -110,7 +110,7 @@ header:
         </tr>
         <tr>
           <td bgcolor='#ffffff'>
-            <!--21:45 - 22:00-->
+            21:45 - 22:00
           </td>
           <td bgcolor='#ffffff'>
               <strong>Considerações finais</strong>: visão da indústria de software sobre o pós-pandemia
