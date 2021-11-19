@@ -89,7 +89,8 @@ header:
             20:30 - 21:00
           </td>
           <td bgcolor='#ffffff'>
-              <strong>IPM Sistemas</strong> <br>Título<br> <strong>Palestrante: </strong>
+            <a href='../palestras#minitalk_a'>Mini-talk 1</a><br>
+              <strong>IPM Sistemas</strong> <br>A Engenharia de Software em um Ecossistema Data Science para Cidades Inteligentes.<br> <strong>Palestrante: </strong>Marco Aurélio Butzke
           </td>
         </tr>
         <tr>
