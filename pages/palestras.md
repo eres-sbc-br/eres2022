@@ -65,9 +65,9 @@ header:
 <h2>Mini-talk da Indústria 3 : AmbevTech</h2>
 
 <div class="medium-16 columns">
-      <!--<img src="{{ site.urlimg }}boccaletti.jpg" alt="" align="center"><br> -->
-      <b>Palestrante a definir</b><br>
-      Cargo do palestrante<br>
+      <img src="{{ site.urlimg }}boccaletti.jpg" alt="" align="center"><br>
+      <b>Paulo Cezar Boccaletti Junior </b><br>
+      AmbevTech<br>
   <a href="https://www.linkedin.com/in/paulo-boccaletti/" target="_blank">Linkedin</a><br>		
   <h4>Título: Design de Código</h4><br>		
   <b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
