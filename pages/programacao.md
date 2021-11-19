@@ -89,8 +89,8 @@ header:
             20:30 - 21:00
           </td>
           <td bgcolor='#ffffff'>
-            <a href='../palestras#minitalk_a'>Mini-talk 1</a><br>
-              <strong>IPM Sistemas</strong> <br>A Engenharia de Software em um Ecossistema Data Science para Cidades Inteligentes.<br> <strong>Palestrante: </strong>Marco Aurélio Butzke
+            <a href='../palestras#minitalk_1'>Mini-talk 1 : IPM Sistemas</a><br>
+              <strong>A Engenharia de Software em um Ecossistema Data Science para Cidades Inteligentes</strong><br> Marco Aurélio Butzke
           </td>
         </tr>
         <tr>
@@ -98,7 +98,8 @@ header:
             21:00 - 21:30
           </td>
           <td bgcolor='#ffffff'>
-              <strong>Zallpy Digital</strong> <br>Título<br> <strong>Palestrante: </strong><br>
+            <a href='../palestras#minitalk_2'>Mini-talk 2 : Zallpy digital</a><br>
+              <strong>Titulo</strong> <br> Palestrante<br>
           </td>
         </tr>
         <tr>
@@ -106,7 +107,8 @@ header:
             21:30 - 21:45
           </td>
           <td bgcolor='#ffffff'>
-              <strong>AmbevTech</strong> <br>Título<br> <strong>Palestrante: </strong><br>
+            <a href='../palestras#minitalk_3'>Mini-talk 3 : AmbevTech</a><br>
+              <strong>Design de Código</strong><br> Paulo Cezar Boccaletti Junior<br>
           </td>
         </tr>
         <tr>

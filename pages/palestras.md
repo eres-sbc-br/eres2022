@@ -26,7 +26,7 @@ header:
 </div>
 
 <div class="row t30" id="minitalk_1">
-<h2>Mini-talk da Indústria 1</h2>
+<h2>Mini-talk da Indústria 1 : IPM Sistemas</h2>
 
 <div class="medium-16 columns">
       <img src="{{ site.urlimg }}marco-butzke.jpg" alt="" align="center"><br>
@@ -40,6 +40,42 @@ header:
   <p><b>Resumo:</b> Em um mundo focado em smarts cities e com o desafio de avaliar as ferramentas adequadas para construir um ecossistema de data science para implantar soluções inteligentes, o núcleo de data science buscou encontrar alternativas viáveis para atender ao volume e variabilidade dos dados e gerar velocidade necessária para atender os cidadãos por meio dos sistemas da IPM. A criação do ecossistema para data science possibilita integrar informações inteligentes ao processo de negócio do ERP e se consolida como base para o uso de soluções IoT migrando de forma natural de um Big Data para um Data Lake. Neste contexto, os processos de Engenharia de Software são fundamentais para consolidar a base de conhecimento e aplicação de modelo de inteligência que servirão para auxiliar no processo de tomada de decisão dos gestores públicos.</p>
   <br><br>
   <p><b>Bio:</b> Atualmente coordena o núcleo de data science na área de pesquisa e tecnologia da IPM Sistemas e atua como professor no curso de sistemas de informação nas disciplinas de banco de dados e data science na Unidavi. Leciona em cursos de graduação desde 1997 com formação de doutorado na área de Administração na Univali em processos de tomada de decisão com publicações em eventos como EURAM e AOM e revista científica IJIL. Também é mestre na área de sistemas de informação pela UFSC.</p>
+  </div>
+</div>
+
+<div class="row t30" id="minitalk_2">
+<h2>Mini-talk da Indústria 2 : Zallpy Digital</h2>
+
+<div class="medium-16 columns">
+      <!--<img src="{{ site.urlimg }}marco-butzke.jpg" alt="" align="center"><br> -->
+      <b>Palestrante a definir</b><br>
+      Cargo do palestrante<br>
+  <a href="https://www.linkedin.com/" target="_blank">Linkedin</a><br>		
+  <h4>Título: a definir</h4><br>		
+  <b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
+  <b>Hora:</b> 21:00 - 21:30 <br>
+  <br>
+  <p><b>Resumo:</b> a definir.</p>
+  <br><br>
+  <p><b>Bio:</b> a definir.</p>
+  </div>
+</div>
+
+<div class="row t30" id="minitalk_3">
+<h2>Mini-talk da Indústria 3 : AmbevTech</h2>
+
+<div class="medium-16 columns">
+      <!--<img src="{{ site.urlimg }}boccaletti.jpg" alt="" align="center"><br> -->
+      <b>Palestrante a definir</b><br>
+      Cargo do palestrante<br>
+  <a href="https://www.linkedin.com/in/paulo-boccaletti/" target="_blank">Linkedin</a><br>		
+  <h4>Título: Design de Código</h4><br>		
+  <b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
+  <b>Hora:</b> 21:30 - 21:45 <br>
+  <br>
+  <p><b>Resumo:</b> a definir.</p>
+  <br><br>
+  <p><b>Bio:</b> a definir.</p>
   </div>
 </div>
 
