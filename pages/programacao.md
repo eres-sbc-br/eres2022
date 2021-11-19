@@ -159,8 +159,16 @@ header:
             </td>
         </tr>
         <tr>
+            <td bgcolor='#ffffff'>
+                17:15 - 18:00
+            </td>
+            <td bgcolor='#ffffff'>
+                  <strong>Visita Técnica Virtual ao Centro de Tecnologia da IPM Sistemas</strong> <br> Link de acesso: (a definir)
+            </td>
+        </tr>
+        <tr>
             <td bgcolor='#d3d3d3'>
-                17:15 - 19:00
+                18:00 - 19:00
             </td>
             <td bgcolor='#d3d3d3'>
                 Intervalo
