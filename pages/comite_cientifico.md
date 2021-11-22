@@ -75,12 +75,14 @@ header:
 <li> André Luís Andrade Menolli - Universidade Estadual do Norte do Paraná (UENP) - Campus Luiz Meneghel </li>
 <li> André Takeshi Endo - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Andreia Malucelli - Pontifícia Universidade Católica do Paraná (PUCPR) </li>
+<li> Edson Oliveira Jr. - Universidade Estadual de Maringá (UEM) </li>
 <li> Gislaine Camila L. Leal - Universidade Estadual de Maringá (UEM) </li>
 <li> Igor Scaliante Wiese - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Igor Steinmacher - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Katia Romero Felizardo - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Marco Aurélio Graciotto Silva - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Natasha Valentim - Universidade Federal do Paraná (UFPR) </li>
+<li> Nelson Tenório - Universidade Cesumar (UniCesumar) </li>
 <li> Paulo Nardi - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Rafael Alves Paes de Oliveira - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Reginaldo Ré - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
@@ -90,6 +92,7 @@ header:
 <li> Silvia Regina Vergilio - Universidade Federal do Paraná (UFPR) </li>
 <li> Thelma Elita Colanzi - DIN/Universidade Estadual de Maringá (UEM) </li>
 <li> Wesley Klewerton Guêz Assunção - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
+<li> Willian Marques Freire - Universidade Estadual de Maringá (UEM) </li>
 <li> Willian Watanabe - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 </ul>
 
