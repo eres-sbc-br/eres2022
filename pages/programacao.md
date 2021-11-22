@@ -199,9 +199,9 @@ header:
             </td>
             <td bgcolor='#ffffff'>
             <a href='../palestras#palestra_c'>Palestra C</a><br>
-            <strong>Título a definir</strong><br>
+            <strong>Levei a Faculdade daquele jeito. E agora?</strong><br>
             Professor Isidro<br>
-            (<strong>Anfitrião: </strong> a definir)
+            (<strong>Anfitrião: </strong>Fernando dos Santos)
             </td>
         </tr>
     </tbody>
