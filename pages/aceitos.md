@@ -13,33 +13,6 @@ header:
 <p> As instruções para elaboração das apresentações, vídeos, e participação nas sessões técnicas foram enviadas por e-mail aos autores </p>
 
 <h2> Fórum de Pós-Graduação [PG]</h2>
-<h4> Título do artigo </h4>
-<ul>
-	<li> Autor 1</li>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-</ul>
-
-<h2> Fórum de Pós-Graduação [PG]</h2>
-<h4> Título do artigo </h4>
-<ul>
-	<li> Autor 1</li>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-</ul>
-
-<h2> Fórum de Pós-Graduação [PG]</h2>
-<h4> Título do artigo </h4>
-<ul>
-	<li> Autor 1</li>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-</ul>
-
-<h2> Fórum de Pós-Graduação [PG]</h2>
 <p></p>
 <h4>Combinando Planning Poker e Aprendizado de Máquina para estimar esforço de software</h4>
 <ul>
@@ -109,7 +82,7 @@ header:
 	<li>Edson Tavares de Camargo</li>
 </ul>
 
-<h4>Avaliação de Usabilidade do app <OMITIDO> </h4>
+<h4>Avaliação de Usabilidade do app <i>"OMITIDO"</i> </h4>
 <ul>
 	<li>Marina Otokovieski</li>
 	<li>Amanda Melo</li>
@@ -130,14 +103,14 @@ header:
 	<li>Edson OliveiraJr</li>
 </ul>
 
-<h4><OMITIDO>: Plataforma crowdsourcing para testes funcionais</h4>
+<h4><i>"OMITIDO"</i>: Plataforma crowdsourcing para testes funcionais</h4>
 <ul>
 	<li>Camila Munzlinger</li>
 	<li>Mateus Dal Forno</li>
 	<li>Tobias de Vargas</li>
 </ul>
 
-<h4>Avaliação Remota de Usabilidade do Site do Campus OMITIDO</h4>
+<h4>Avaliação Remota de Usabilidade do Site do Campus <i>"OMITIDO</i></h4>
 <ul>
 	<li>Ícaro Crespo</li>
 	<li>Marina Otokovieski</li>
