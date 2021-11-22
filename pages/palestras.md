@@ -100,14 +100,15 @@ header:
 	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}isidro.jpg" alt="" align="center"><br>
         <b>Professor Isidro</b><br>		
-		<a href="https://www.linkedin.com/in/professor-isidro-phd-8a85a979?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDUdH8dwVSICM1ftln7CpLw%3D%3D" target="_blank">Linkedin</a><br>		
-		<h4>Título: a definir</h4><br>		
+		<a href="https://www.linkedin.com/in/professor-isidro-phd-8a85a979" target="_blank">Linkedin</a><br>
+    <a href="https://www.professorisidro.com.br/"	target="_blank">https://www.professorisidro.com.br/</a><br>
+		<h4>Título: Levei a Faculdade daquele jeito. E agora?</h4><br>		
 		<b>Data:</b> 02/Dez/2021 (Quinta-Feira) <br>
 		<b>Hora:</b> 20:30 - 22:00 <br>
 		<br>
-		<p><b>Resumo:</b> a definir.</p>
+		<p><b>Resumo:</b> quantas e quantas vezes na graduação nós nos deparamos com matérias ou assuntos que pensamos "não fazer a menor ideia porque estudamos". Pois bem muitos assuntos que achamos até inúteis durante a graduação podem e irão efetivamente fazer diferença na sua vida profissional.</p>
 		<br><br>
-		<p><b>Bio:</b> a definir.</p>
+		<p><b>Bio:</b> Francisco Isidro Massetto é professor universitário da UFABC, palestrante e pesquisador. Desenvolve trabalhos junto à comunidade de desenvolvedores a fim de fortalecer fundamentos e aplicações práticas de conceitos, formando melhores profissionais para atuarem no mercado de trabalho. Em suas redes sociais (YouTube e Instagram ) ministra cursos e palestras virtuais para ajudar principalmente a galera que está iniciando na carreira.</p>
     </div>
 </div>
 
