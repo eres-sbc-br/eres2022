@@ -12,6 +12,8 @@ header:
 
 <p> Cada artigo foi revisado por pelo menos 2 revisores.</p>
 
+<p> As instruções para elaboração das apresentações, vídeos, e participação nas sessões técnicas foram enviadas por e-mail aos autores </p>
+
 <h2> Fórum de Pós-Graduação [PG]</h2>
 <h4> Título do artigo </h4>
 <ul>
