@@ -8,9 +8,7 @@ header:
 ---
 <p> Todos os artigos passaram por um processo de avaliação <i>double-blind</i> em que os autores não conhecem os revisores e nem os revisores conhecem os autores dos artigos. </p>
 
-<p> As avaliações são realizadas pelos membros do Comitê Científico.</p>
-
-<p> Cada artigo foi revisado por pelo menos 2 revisores.</p>
+<p> As avaliações são realizadas pelos membros do Comitê Científico. Cada artigo foi revisado por pelo menos 2 revisores.</p>
 
 <p> As instruções para elaboração das apresentações, vídeos, e participação nas sessões técnicas foram enviadas por e-mail aos autores </p>
 
