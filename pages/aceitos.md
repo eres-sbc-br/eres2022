@@ -40,24 +40,6 @@ header:
 </ul>
 
 <h2> Fórum de Pós-Graduação [PG]</h2>
-<h4> Título do artigo </h4>
-<ul>
-	<li> Autor 1</li>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-</ul>
-
-<h2> Fórum de Pós-Graduação [PG]</h2>
-<h4> Título do artigo </h4>
-<ul>
-	<li> Autor 1</li>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-</ul>
-
-<h2> Fórum de Pós-Graduação [PG]</h2>
 <p></p>
 <h4>Combinando Planning Poker e Aprendizado de Máquina para estimar esforço de software</h4>
 <ul>
