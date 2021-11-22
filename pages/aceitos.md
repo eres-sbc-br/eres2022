@@ -6,4 +6,36 @@ permalink: "/aceitos/"
 header:
    image_fullwidth: banner_eres2021.png
 ---
-<h1>Em elaboração </h1>
+<p> Todos os artigos passaram por um processo de avaliação <i>double-blind</i> em que os autores não conhecem os revisores e nem os revisores conhecem os autores dos artigos. </p>
+
+<p> As avaliações são realizadas pelos membros do Comitê Científico.</p>
+
+<p> Cada artigo foi revisado por pelo menos 2 revisores.</p>
+
+<h2> Fórum de Pós-Graduação [PG]</h2>
+<h4> Título do artigo </h4>
+<ul>
+	<li> Autor 1</li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+</ul>
+
+
+<h2> Fórum de Graduação [Gr]</h2>
+<h4> Título do artigo </h4>
+<ul>
+	<li> Autor 1</li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+</ul>
+
+<h2> Trilha da Indústria [IN]</h2>
+<h4> Título do artigo </h4>
+<ul>
+	<li> Autor 1</li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+</ul>
