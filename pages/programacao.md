@@ -23,23 +23,24 @@ header:
     <tbody>
         <tr>
             <td bgcolor='#ffffff'>
-                14:00 - 15:30
+                14:00 - 16:00
             </td>
             <td bgcolor='#ffffff'>
                 <a href='#sessao_tecnica_1'>Sessão Técnica 1</a>
             </td>
         </tr>
-        <tr>
+<!--       <tr>
             <td bgcolor='#d3d3d3'>
-                15:30 - 15:45
+                16:30 - 15:45
             </td>
             <td  bgcolor='#d3d3d3'>
                 <i>Intervalo</i>
             </td>
         </tr>
+-->
         <tr>
             <td bgcolor='#ffffff'>
-                15:45 - 17:15
+                16:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
                 <a href='#sessao_tecnica_2'>Sessão Técnica 2</a>
@@ -47,7 +48,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#d3d3d3'>
-                17:15 - 18:30
+                18:00 - 18:30
             </td>
             <td bgcolor='#d3d3d3'>
                 <i>Intervalo</i>
@@ -148,7 +149,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#d3d3d3'>
-                15:30 - 15:45
+                15:30 - 16:00
             </td>
             <td  bgcolor='#d3d3d3'>
                 Intervalo
@@ -156,7 +157,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#ffffff'>
-                15:45 - 17:15
+                16:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
                 <a href='#sessao_tecnica_4'>Sessão Técnica 4</a>
@@ -164,7 +165,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#ffffff'>
-                17:15 - 18:00
+                17:30 - 18:15
             </td>
             <td bgcolor='#ffffff'>
                   <strong>Visita Técnica Virtual ao Centro de Tecnologia da IPM Sistemas</strong> <br> Link de acesso: (a definir)
@@ -172,7 +173,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#d3d3d3'>
-                18:00 - 19:00
+                18:15 - 19:00
             </td>
             <td bgcolor='#d3d3d3'>
                 Intervalo
@@ -234,7 +235,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#d3d3d3'>
-                15:30 - 15:45
+                15:30 - 16:00
             </td>
             <td  bgcolor='#d3d3d3'>
                 Intervalo
@@ -242,7 +243,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#ffffff'>
-                15:45 - 17:15
+                16:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
                 <a href='#sessao_tecnica_6'>Sessão Técnica 6</a>
@@ -250,7 +251,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#d3d3d3'>
-                17:15 - 19:00
+                17:30 - 19:00
             </td>
             <td bgcolor='#d3d3d3'>
                 Intervalo
@@ -299,8 +300,8 @@ header:
 <section id='sessao_tecnica_1'>
   <h4>Sessão Técnica 1</h4>
   <table width="100%">
-    <col style="width:15%">
-  	<col style="width:50%">
+    <col style="width:10%">
+  	<col style="width:65%">
     <col style="width:35%">
     <tbody>
       <tr>
