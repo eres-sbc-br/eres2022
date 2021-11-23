@@ -29,15 +29,6 @@ header:
                 <a href='#sessao_tecnica_1'>Sessão Técnica 1</a>
             </td>
         </tr>
-<!--       <tr>
-            <td bgcolor='#d3d3d3'>
-                16:30 - 15:45
-            </td>
-            <td  bgcolor='#d3d3d3'>
-                <i>Intervalo</i>
-            </td>
-        </tr>
--->
         <tr>
             <td bgcolor='#ffffff'>
                 16:00 - 17:30
