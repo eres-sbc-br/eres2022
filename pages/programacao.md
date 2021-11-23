@@ -12,10 +12,9 @@ header:
 <h3>01/12 - Quarta-feira</h3>
 
 <table width="100%">
-  <col style="width:10%">
-	<col style="width:60%">
-	<col style="width:30%">
-    <thead>
+  <col style="width:30%">
+	<col style="width:70%">
+	  <thead>
         <tr>
             <th bgcolor='#ffffff'>Horárioo</th>
             <th bgcolor='#ffffff'>Atividade</th>
