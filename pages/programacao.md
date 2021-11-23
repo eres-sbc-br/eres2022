@@ -378,7 +378,10 @@ header:
 
 <section id='sessao_tecnica_2'>
   <h4>Sessão Técnica 2</h4>
-  <table>
+  <table width="100%">
+    <col style="width:7%">
+  	<col style="width:65%">
+    <col style="width:38%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -454,7 +457,10 @@ header:
 
 <section id='sessao_tecnica_3'>
   <h4>Sessão Técnica 3</h4>
-  <table>
+  <table width="100%">
+    <col style="width:7%">
+  	<col style="width:65%">
+    <col style="width:38%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -530,7 +536,10 @@ header:
 
 <section id='sessao_tecnica_4'>
   <h4>Sessão Técnica 4</h4>
-  <table>
+  <table width="100%">
+    <col style="width:7%">
+  	<col style="width:65%">
+    <col style="width:38%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -606,7 +615,10 @@ header:
 
 <section id='sessao_tecnica_5'>
   <h4>Sessão Técnica 5</h4>
-  <table>
+  <table width="100%">
+    <col style="width:7%">
+  	<col style="width:65%">
+    <col style="width:38%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -682,7 +694,10 @@ header:
 
 <section id='sessao_tecnica_6'>
   <h4>Sessão Técnica 6</h4>
-  <table>
+  <table width="100%">
+    <col style="width:7%">
+  	<col style="width:65%">
+    <col style="width:38%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
