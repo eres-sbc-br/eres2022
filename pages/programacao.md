@@ -7,8 +7,6 @@ header:
    image_fullwidth: banner_eres2021.png
 ---
 
-<h3> Preliminar (sujeita a alterações)</h3>
-
 <h3>01/12 - Quarta-feira</h3>
 
 <table width="100%">
@@ -291,9 +289,9 @@ header:
 <section id='sessao_tecnica_1'>
   <h4>Sessão Técnica 1</h4>
   <table width="100%">
-    <col style="width:10%">
+    <col style="width:7%">
   	<col style="width:65%">
-    <col style="width:35%">
+    <col style="width:38%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
