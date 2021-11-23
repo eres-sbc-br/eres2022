@@ -11,7 +11,7 @@ header:
 
 <h3>01/12 - Quarta-feira</h3>
 
-<table class='centered'>
+<table style="margin-left: auto; margin-right: auto;">
     <thead>
         <tr>
             <th bgcolor='#ffffff'>Horário</th>
