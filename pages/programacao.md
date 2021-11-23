@@ -282,6 +282,13 @@ header:
 </table>
 <br>
 <h2>Sessões Técnicas</h2>
+<p>Legenda:</p>
+<ul>
+  <li> <strong>[Gr]</strong> = Fórum de Graduação </li>
+  <li> <strong>[PG]</strong> = Fórum de Pós-Graduação</li>
+  <li> <strong>[IN]</strong> = Trilha da Indústria</li>
+</ul>
+<p></p>
 
 <section id='sessao_tecnica_1'>
   <h4>Sessão Técnica 1</h4>
@@ -300,7 +307,7 @@ header:
           <strong>Tema:</strong>
         </td>
         <td colspan='2'>
-          (a definir))
+          Teste de Software e Segurança
         </td>
       </tr>
       <tr>
@@ -327,7 +334,7 @@ header:
           <strong>14:00</strong>
         </td>
         <td>
-          (a definir)
+          [PG] TestView App: Ferramenta para reduzir o esforço de teste de software
         </td>
         <td>
           (a definir)
@@ -335,21 +342,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>14:20</strong>
+          <strong>14:30</strong>
         </td>
         <td>
-          (a definir)
-        </td>
-        <td>
-          (a definir)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <strong>14:40</strong>
-        </td>
-        <td>
-          (a definir)
+          [Gr] <i>"OMITIDO"</i>: Plataforma crowdsourcing para testes funcionais
         </td>
         <td>
           (a definir)
@@ -360,7 +356,18 @@ header:
           <strong>15:00</strong>
         </td>
         <td>
+          [IN] Comparação de ferramentas de análise estática para detecção de defeitos de software usando mutante
+        </td>
+        <td>
           (a definir)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>15:30</strong>
+        </td>
+        <td>
+          [IN] Segurança da Informação e LGPD Aplicado no Desenvolvimento de Software
         </td>
         <td>
           (a definir)
@@ -387,7 +394,7 @@ header:
           <strong>Tema:</strong>
         </td>
         <td colspan='2'>
-          (a definir))
+          Usabilidade
         </td>
       </tr>
       <tr>
@@ -411,21 +418,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>15:45</strong>
+          <strong>16:00</strong>
         </td>
         <td>
-          (a definir)
-        </td>
-        <td>
-          (a definir)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <strong>16:05</strong>
-        </td>
-        <td>
-          (a definir)
+          [Gr] Avaliação de Usabilidade do app <i>"OMITIDO"</i>
         </td>
         <td>
           (a definir)
@@ -433,10 +429,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>16:25</strong>
+          <strong>16:30</strong>
         </td>
         <td>
-          (a definir)
+          [Gr] Avaliação Remota de Usabilidade do Site do Campus <i>"OMITIDO"</i>
         </td>
         <td>
           (a definir)
@@ -444,10 +440,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>16:45</strong>
+          <strong>17:00</strong>
         </td>
         <td>
-          (a definir)
+          [Gr] Uma Proposta de Ferramenta de Apoio ao Processo de Avaliação de Usabilidade em Linguagens Específicas de Domínio
         </td>
         <td>
           (a definir)
@@ -474,7 +470,7 @@ header:
           <strong>Tema:</strong>
         </td>
         <td colspan='2'>
-          (a definir))
+          Engenharia de Software para Bancos de Dados e Repositórios de Dados
         </td>
       </tr>
       <tr>
@@ -501,7 +497,7 @@ header:
           <strong>14:00</strong>
         </td>
         <td>
-          (a definir)
+          [PG] Multivocal Literature Mapping on DSLs and Tools for Entity-Relationship Modeling
         </td>
         <td>
           (a definir)
@@ -509,21 +505,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>14:20</strong>
+          <strong>14:30</strong>
         </td>
         <td>
-          (a definir)
-        </td>
-        <td>
-          (a definir)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <strong>14:40</strong>
-        </td>
-        <td>
-          (a definir)
+          [Gr] Estudo de Eficiência de Arquitetura Distribuída Utilizando Bancos de Dados Relacionais, Não-Relacionais e Cache em Memória
         </td>
         <td>
           (a definir)
@@ -534,7 +519,7 @@ header:
           <strong>15:00</strong>
         </td>
         <td>
-          (a definir)
+          [Gr] Comparing Open Data Repositories
         </td>
         <td>
           (a definir)
@@ -561,7 +546,7 @@ header:
           <strong>Tema:</strong>
         </td>
         <td colspan='2'>
-          (a definir))
+          Processo de Software e Requisitos
         </td>
       </tr>
       <tr>
@@ -585,21 +570,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>15:45</strong>
+          <strong>16:00</strong>
         </td>
         <td>
-          (a definir)
-        </td>
-        <td>
-          (a definir)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <strong>16:05</strong>
-        </td>
-        <td>
-          (a definir)
+          [PG] Documentando requisitos de sistemas legados: um estudo de caso utilizando técnicas da Engenharia de Requisitos Orientada a Objetivos
         </td>
         <td>
           (a definir)
@@ -607,10 +581,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>16:25</strong>
+          <strong>16:30</strong>
         </td>
         <td>
-          (a definir)
+          [PG] BPMN, SPEM e Essence como Linguagens para Modelagem de Processos: uma Revisão Sistemática da Literatura
         </td>
         <td>
           (a definir)
@@ -618,10 +592,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>16:45</strong>
+          <strong>17:00</strong>
         </td>
         <td>
-          (a definir)
+          [Gr] Experiência do Projeto "Fábrica de Software" em um Curso de Engenharia de Software
         </td>
         <td>
           (a definir)
@@ -648,7 +622,7 @@ header:
           <strong>Tema:</strong>
         </td>
         <td colspan='2'>
-          (a definir))
+          Métodos Ágeis
         </td>
       </tr>
       <tr>
@@ -675,7 +649,7 @@ header:
           <strong>14:00</strong>
         </td>
         <td>
-          (a definir)
+          [Gr] Uso de quadros kanban virtuais sob as lentes do DX: um estudo com profissionais de startups de software
         </td>
         <td>
           (a definir)
@@ -683,21 +657,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>14:20</strong>
+          <strong>14:30</strong>
         </td>
         <td>
-          (a definir)
-        </td>
-        <td>
-          (a definir)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <strong>14:40</strong>
-        </td>
-        <td>
-          (a definir)
+          [Gr] Construção e Implantação de uma Metodologia Ágil no Processo de Desenvolvimento de Software de uma Organização Pública: Uma Pesquisa-Ação
         </td>
         <td>
           (a definir)
@@ -708,7 +671,7 @@ header:
           <strong>15:00</strong>
         </td>
         <td>
-          (a definir)
+          [PG] Combinando Planning Poker e Aprendizado de Máquina para estimar esforço de software
         </td>
         <td>
           (a definir)
@@ -735,7 +698,7 @@ header:
           <strong>Tema:</strong>
         </td>
         <td colspan='2'>
-          (a definir))
+          Desenvolvimento de Software
         </td>
       </tr>
       <tr>
@@ -759,21 +722,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>15:45</strong>
+          <strong>16:00</strong>
         </td>
         <td>
-          (a definir)
-        </td>
-        <td>
-          (a definir)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <strong>16:05</strong>
-        </td>
-        <td>
-          (a definir)
+          [PG] Explorando a Integração de Ferramentas para a Engenharia de Software Contínua com o OSLC e Eclipse Lyo
         </td>
         <td>
           (a definir)
@@ -781,10 +733,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>16:25</strong>
+          <strong>16:30</strong>
         </td>
         <td>
-          (a definir)
+          [Gr] Desenvolvimento Seguro de Sistemas Web: Uma Revisão Sistemática
         </td>
         <td>
           (a definir)
@@ -792,10 +744,10 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>16:45</strong>
+          <strong>17:00</strong>
         </td>
         <td>
-          (a definir)
+          [Gr] Um Estudo Exploratório do Cooja para Simulação de Cenário em Internet das Coisas
         </td>
         <td>
           (a definir)
