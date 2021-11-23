@@ -12,8 +12,8 @@ header:
 <h3>01/12 - Quarta-feira</h3>
 
 <table width="100%">
-  <col style="width:30%">
-	<col style="width:70%">
+  <col style="width:15%">
+	<col style="width:85%">
 	  <thead>
         <tr>
             <th bgcolor='#ffffff'>Horárioo</th>
@@ -339,7 +339,7 @@ header:
           [PG] TestView App: Ferramenta para reduzir o esforço de teste de software
         </td>
         <td>
-          (a definir)
+          Eduardo Mascari Filho
         </td>
       </tr>
       <tr>
@@ -350,7 +350,7 @@ header:
           [Gr] <i>"OMITIDO"</i>: Plataforma crowdsourcing para testes funcionais
         </td>
         <td>
-          (a definir)
+          Camila Munzlinger, Mateus Dal Forno, Tobias de Vargas
         </td>
       </tr>
       <tr>
@@ -361,7 +361,7 @@ header:
           [IN] Comparação de ferramentas de análise estática para detecção de defeitos de software usando mutante
         </td>
         <td>
-          (a definir)
+        Yury Lima, Maicon Bernardino, Elder Rodrigues, Jonas M. Chagas, João Pablo S. da Silva, Igor Fonseca
         </td>
       </tr>
       <tr>
@@ -372,7 +372,7 @@ header:
           [IN] Segurança da Informação e LGPD Aplicado no Desenvolvimento de Software
         </td>
         <td>
-          (a definir)
+          Cleber Nardelli
         </td>
       </tr>
     </tbody>
@@ -426,7 +426,7 @@ header:
           [Gr] Avaliação de Usabilidade do app <i>"OMITIDO"</i>
         </td>
         <td>
-          (a definir)
+          Marina Otokovieski, Amanda Melo, Ícaro Crespo
         </td>
       </tr>
       <tr>
@@ -437,7 +437,7 @@ header:
           [Gr] Avaliação Remota de Usabilidade do Site do Campus <i>"OMITIDO"</i>
         </td>
         <td>
-          (a definir)
+          Ícaro Crespo, Marina Otokovieski, Amanda Melo
         </td>
       </tr>
       <tr>
@@ -448,7 +448,7 @@ header:
           [Gr] Uma Proposta de Ferramenta de Apoio ao Processo de Avaliação de Usabilidade em Linguagens Específicas de Domínio
         </td>
         <td>
-          (a definir)
+          Allan Pedroso, Ildevana Poltronieri, Maicon Bernardino
         </td>
       </tr>
     </tbody>
@@ -502,7 +502,7 @@ header:
           [PG] Multivocal Literature Mapping on DSLs and Tools for Entity-Relationship Modeling
         </td>
         <td>
-          (a definir)
+          Maicon Bernardino, Jonnathan Lopes, Fábio Basso, Elder Rodrigues
         </td>
       </tr>
       <tr>
@@ -513,7 +513,7 @@ header:
           [Gr] Estudo de Eficiência de Arquitetura Distribuída Utilizando Bancos de Dados Relacionais, Não-Relacionais e Cache em Memória
         </td>
         <td>
-          (a definir)
+          Josué Cardoso, Márcio Sembay, Willen Leolatto Carneiro
         </td>
       </tr>
       <tr>
@@ -524,7 +524,7 @@ header:
           [Gr] Comparing Open Data Repositories
         </td>
         <td>
-          (a definir)
+        Pedro Costa, André F. R. Cordeiro, Edson OliveiraJr
         </td>
       </tr>
     </tbody>
@@ -578,7 +578,7 @@ header:
           [PG] Documentando requisitos de sistemas legados: um estudo de caso utilizando técnicas da Engenharia de Requisitos Orientada a Objetivos
         </td>
         <td>
-          (a definir)
+          Renato Fritola, Victor Santander
         </td>
       </tr>
       <tr>
@@ -589,7 +589,7 @@ header:
           [PG] BPMN, SPEM e Essence como Linguagens para Modelagem de Processos: uma Revisão Sistemática da Literatura
         </td>
         <td>
-          (a definir)
+          Igor Fonseca, Luiz Fritsch, Maicon Bernardino, Fábio Basso
         </td>
       </tr>
       <tr>
@@ -600,7 +600,7 @@ header:
           [Gr] Experiência do Projeto "Fábrica de Software" em um Curso de Engenharia de Software
         </td>
         <td>
-          (a definir)
+          Alexandro Santos, Matheus Oliveira, Yuri Rodrigues, Nisio Oliveira,  Daniel Kuhn, Gustavo Santos, Rodolfo Silva
         </td>
       </tr>
     </tbody>
@@ -654,7 +654,7 @@ header:
           [Gr] Uso de quadros kanban virtuais sob as lentes do DX: um estudo com profissionais de startups de software
         </td>
         <td>
-          (a definir)
+          Crismerlyn Pereira, Angelica dos Santos, Luciana Zaina
         </td>
       </tr>
       <tr>
@@ -665,7 +665,7 @@ header:
           [Gr] Construção e Implantação de uma Metodologia Ágil no Processo de Desenvolvimento de Software de uma Organização Pública: Uma Pesquisa-Ação
         </td>
         <td>
-          (a definir)
+        Jessica Garcia, Joyce Aline Marins, Vanice Cunha, Aline Wollinger, Giulla Araújo
         </td>
       </tr>
       <tr>
@@ -676,7 +676,7 @@ header:
           [PG] Combinando Planning Poker e Aprendizado de Máquina para estimar esforço de software
         </td>
         <td>
-          (a definir)
+          Doglas Finco, Laudelino Cordeiro Bastos, Adolfo Neto
         </td>
       </tr>
     </tbody>
@@ -730,7 +730,7 @@ header:
           [PG] Explorando a Integração de Ferramentas para a Engenharia de Software Contínua com o OSLC e Eclipse Lyo
         </td>
         <td>
-          (a definir)
+        Bruno Ferreira, Fábio Basso
         </td>
       </tr>
       <tr>
@@ -741,7 +741,7 @@ header:
           [Gr] Desenvolvimento Seguro de Sistemas Web: Uma Revisão Sistemática
         </td>
         <td>
-          (a definir)
+        Gustavo Malacarne, Edson Tavares de Camargo
         </td>
       </tr>
       <tr>
@@ -752,7 +752,7 @@ header:
           [Gr] Um Estudo Exploratório do Cooja para Simulação de Cenário em Internet das Coisas
         </td>
         <td>
-          (a definir)
+          Dienefer Fialho dos Santos, Fábio Basso, Marcelo Caggiani Luizelli, Saimon Martins Cabrera
         </td>
       </tr>
     </tbody>
