@@ -18,6 +18,11 @@
   class: icon-linkedin
   title: "ERES no Linkedin"
 
+  name: YouTube
+  url: https://www.youtube.com/channel/UCuLpDadoilW8sZXuzgpHJzA
+  class: icon-youtube
+  title: "ERES no YouTube"
+
 #- name: Pinterest
 #  url: http://www.pinterest.com/
 #  class: icon-pinterest
