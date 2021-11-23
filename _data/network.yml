@@ -1,9 +1,9 @@
 ﻿- menu_name: "Agradecimentos"
 
-- name: "Banner ERES por Ricardo Geraldi"
-  url: "http://ricardogeraldi.com.br"
+- name: "Banner ERES por João Victor Santos da Costa"
+  #url: "http://ricardogeraldi.com.br"
   class: "network-entypo"
-  title: "Banner ERES por Ricardo Geraldi"
+  title: "Banner ERES por João Victor Santos da Costa"
 
 - name: "Ícones de Daniel Bruce"
   url: "http://entypo.com/"
