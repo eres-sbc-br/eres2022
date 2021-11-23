@@ -12,8 +12,8 @@ header:
 <h3>01/12 - Quarta-feira</h3>
 
 <table width="100%">
-  <col style="width:10%">
-	<col style="width:90%">
+  <col style="width:15%">
+	<col style="width:85%">
 	  <thead>
         <tr>
             <th bgcolor='#ffffff'>Horário</th>
@@ -129,8 +129,8 @@ header:
 <h3>02/12 - Quinta-feira</h3>
 
 <table width="100%">
-  <col style="width:10%">
-	<col style="width:90%">
+  <col style="width:15%">
+  <col style="width:85%">
     <thead>
         <tr>
             <th bgcolor='#ffffff'>Horário</th>
@@ -215,8 +215,8 @@ header:
 <h3>03/12 - Sexta-feira</h3>
 
 <table width="100%">
-  <col style="width:10%">
-	<col style="width:90%">
+  <col style="width:15%">
+  <col style="width:85%">
     <thead>
         <tr>
             <th bgcolor='#ffffff'>Horário</th>
@@ -299,8 +299,8 @@ header:
 <section id='sessao_tecnica_1'>
   <h4>Sessão Técnica 1</h4>
   <table width="100%">
-    <col style="width:10%">
-  	<col style="width:65%">
+    <col style="width:15%">
+  	<col style="width:50%">
     <col style="width:35%">
     <tbody>
       <tr>
@@ -329,7 +329,7 @@ header:
       </tr>
       <tr>
         <td bgcolor='#d3d3d3'>
-          <strong>Horário:</strong>
+          <strong>Horário</strong>
         </td>
         <td bgcolor='#d3d3d3'>
           <strong>Artigo</strong>
@@ -416,7 +416,7 @@ header:
       </tr>
       <tr>
         <td bgcolor='#d3d3d3'>
-          <strong>Horário:</strong>
+          <strong>Horário</strong>
         </td>
         <td bgcolor='#d3d3d3'>
           <strong>Artigo</strong>
@@ -492,7 +492,7 @@ header:
       </tr>
       <tr>
         <td bgcolor='#d3d3d3'>
-          <strong>Horário:</strong>
+          <strong>Horário</strong>
         </td>
         <td bgcolor='#d3d3d3'>
           <strong>Artigo</strong>
@@ -568,7 +568,7 @@ header:
       </tr>
       <tr>
         <td bgcolor='#d3d3d3'>
-          <strong>Horário:</strong>
+          <strong>Horário</strong>
         </td>
         <td bgcolor='#d3d3d3'>
           <strong>Artigo</strong>
@@ -644,7 +644,7 @@ header:
       </tr>
       <tr>
         <td bgcolor='#d3d3d3'>
-          <strong>Horário:</strong>
+          <strong>Horário</strong>
         </td>
         <td bgcolor='#d3d3d3'>
           <strong>Artigo</strong>
@@ -720,7 +720,7 @@ header:
       </tr>
       <tr>
         <td bgcolor='#d3d3d3'>
-          <strong>Horário:</strong>
+          <strong>Horário</strong>
         </td>
         <td bgcolor='#d3d3d3'>
           <strong>Artigo</strong>
