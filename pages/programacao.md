@@ -189,7 +189,7 @@ header:
         </tr>
         <tr>
             <td bgcolor='#ffffff'>
-                20:30 - 22:00
+                20:45 - 22:00
             </td>
             <td bgcolor='#ffffff'>
             <a href='../palestras#palestra_c'>Palestra C</a><br>
