@@ -81,8 +81,8 @@ header:
             20:30 - 21:00
           </td>
           <td bgcolor='#ffffff'>
-            <a href='../palestras#minitalk_1'>Mini-talk 1 : IPM Sistemas</a><br>
-              <strong>A Engenharia de Software em um Ecossistema Data Science para Cidades Inteligentes</strong><br> Marco Aurélio Butzke
+            <a href='../palestras#minitalk_1'>Mini-talk 1 : Zallpy digital</a><br>
+              <strong>Titulo</strong> <br> Palestrante<br>
           </td>
         </tr>
         <tr>
@@ -90,8 +90,8 @@ header:
             21:00 - 21:30
           </td>
           <td bgcolor='#ffffff'>
-            <a href='../palestras#minitalk_2'>Mini-talk 2 : Zallpy digital</a><br>
-              <strong>Titulo</strong> <br> Palestrante<br>
+            <a href='../palestras#minitalk_2'>Mini-talk 2 : IPM Sistemas</a><br>
+              <strong>A Engenharia de Software em um Ecossistema Data Science para Cidades Inteligentes</strong><br> Marco Aurélio Butzke
           </td>
         </tr>
         <tr>
