@@ -56,7 +56,7 @@ header:
                 19:00 - 20:15
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../palestras#palestra_a'>Palestra A</a><br> <strong>AgileKIP Process Automation Platform: uma agenda acadêmica que virou empresa!</strong> <br>Ulisses Telemaco Neto (OWSE Ltda)<br> (<strong>Anfitrião: </strong> (a definir))
+                <a href='../palestras#palestra_a'>Palestra A</a><br> <strong>AgileKIP Process Automation Platform: uma agenda acadêmica que virou empresa!</strong> <br>Ulisses Telemaco Neto (OWSE Ltda)<br> (<strong>Anfitrião: </strong> Prof. Dr. Maicon Bernardino)
             </td>           
         </tr>
         <tr>
