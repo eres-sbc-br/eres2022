@@ -102,7 +102,7 @@ header:
 <li> Silvia Regina Vergilio - Universidade Federal do Paraná (UFPR) </li>
 <li> Thelma Elita Colanzi - DIN/Universidade Estadual de Maringá (UEM) </li>
 <li> Thiago Colleti - Universidade Estadual do Norte do Paraná (UEMP) </li>
-<li> Wesley Klewerton Guêz Assunção - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
+<li> Wesley Klewerton Guêz Assunção - Universidade Estadual do Oeste do Paraná (UNIOESTE) </li>
 <li> Willian Marques Freire - Universidade Estadual de Maringá (UEM) </li>
 <li> Willian Watanabe - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 </ul>
