@@ -21,7 +21,7 @@ header:
     <tbody>
         <tr>
             <td bgcolor='#ffffff'>
-                14:00 - 16:00
+                14:00 - 15:30
             </td>
             <td bgcolor='#ffffff'>
                 <a href='#sessao_tecnica_1'>Sessão Técnica 1</a>
