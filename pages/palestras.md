@@ -38,7 +38,7 @@ header:
   <br>
   <p><b>Resumo:</b> Como a BMW se posicionou para continuar inovando no mundo.</p>
   <br><br>
-  <p><b>Bio:</b> rofissional com 16 anos de experiência em empresa multinacional com grandes projetos implementados na área de inovação, ferramentas ágeis e desenvolvimento de pessoas, melhorando o resultado dos negócios sempre com foco na gestão e desenvolvimento de talentos, e inclusão da diversidade nas organizações. Atualmente como Líder de Operações da Zallpy na BMW...</p>
+  <p><b>Bio:</b> Profissional com 16 anos de experiência em empresa multinacional com grandes projetos implementados na área de inovação, ferramentas ágeis e desenvolvimento de pessoas, melhorando o resultado dos negócios sempre com foco na gestão e desenvolvimento de talentos, e inclusão da diversidade nas organizações. Atualmente como Líder de Operações da Zallpy na BMW...</p>
   </div>
 </div>
 
@@ -106,7 +106,7 @@ header:
 		<b>Data:</b> 02/Dez/2021 (Quinta-Feira) <br>
 		<b>Hora:</b> 20:30 - 22:00 <br>
 		<br>
-		<p><b>Resumo:</b> quantas e quantas vezes na graduação nós nos deparamos com matérias ou assuntos que pensamos "não fazer a menor ideia porque estudamos". Pois bem muitos assuntos que achamos até inúteis durante a graduação podem e irão efetivamente fazer diferença na sua vida profissional.</p>
+		<p><b>Resumo:</b> Quantas e quantas vezes na graduação nós nos deparamos com matérias ou assuntos que pensamos "não fazer a menor ideia porque estudamos". Pois bem muitos assuntos que achamos até inúteis durante a graduação podem e irão efetivamente fazer diferença na sua vida profissional.</p>
 		<br><br>
 		<p><b>Bio:</b> Francisco Isidro Massetto é professor universitário da UFABC, palestrante e pesquisador. Desenvolve trabalhos junto à comunidade de desenvolvedores a fim de fortalecer fundamentos e aplicações práticas de conceitos, formando melhores profissionais para atuarem no mercado de trabalho. Em suas redes sociais (YouTube e Instagram ) ministra cursos e palestras virtuais para ajudar principalmente a galera que está iniciando na carreira.</p>
     </div>
