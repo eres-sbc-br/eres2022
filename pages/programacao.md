@@ -82,7 +82,7 @@ header:
           </td>
           <td bgcolor='#ffffff'>
             <a href='../palestras#minitalk_1'>Mini-talk 1 : Zallpy digital</a><br>
-              <strong>Titulo</strong> <br> Palestrante<br>
+              <strong>Transformação Digital na BMW</strong> <br> Mikael Noramberg
           </td>
         </tr>
         <tr>
@@ -100,7 +100,7 @@ header:
           </td>
           <td bgcolor='#ffffff'>
             <a href='../palestras#minitalk_3'>Mini-talk 3 : AmbevTech</a><br>
-              <strong>Design de Código</strong><br> Paulo Cezar Boccaletti Junior<br>
+              <strong>Design de Código</strong><br> Paulo Cezar Boccaletti Junior
           </td>
         </tr>
         <tr>

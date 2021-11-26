@@ -29,17 +29,16 @@ header:
 <h2>Mini-talk da Indústria 1 : Zallpy Digital</h2>
 
 <div class="medium-16 columns">
-      <!--<img src="{{ site.urlimg }}marco-butzke.jpg" alt="" align="center"><br> -->
-      <b>Palestrante a definir</b><br>
-      Cargo do palestrante<br>
-  <a href="https://www.linkedin.com/" target="_blank">Linkedin</a><br>		
-  <h4>Título: a definir</h4><br>		
+      <!--<img src="{{ site.urlimg }}mikael.jpg" alt="" align="center"><br> -->
+      <b>Mikael Noramberg</b><br>      
+  <a href="https://www.linkedin.com/in/mikaelnoremberg/" target="_blank">Linkedin</a><br>		
+  <h4>Título: Transformação Digital na BMW</h4><br>		
   <b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
   <b>Hora:</b> 20:30 - 21:00 <br>
   <br>
-  <p><b>Resumo:</b> a definir.</p>
+  <p><b>Resumo:</b> Como a BMW se posicionou para continuar inovando no mundo.</p>
   <br><br>
-  <p><b>Bio:</b> a definir.</p>
+  <p><b>Bio:</b> rofissional com 16 anos de experiência em empresa multinacional com grandes projetos implementados na área de inovação, ferramentas ágeis e desenvolvimento de pessoas, melhorando o resultado dos negócios sempre com foco na gestão e desenvolvimento de talentos, e inclusão da diversidade nas organizações. Atualmente como Líder de Operações da Zallpy na BMW.</p>
   </div>
 </div>
 
