@@ -38,7 +38,7 @@ header:
   <br>
   <p><b>Resumo:</b> Como a BMW se posicionou para continuar inovando no mundo.</p>
   <br><br>
-  <p><b>Bio:</b> rofissional com 16 anos de experiência em empresa multinacional com grandes projetos implementados na área de inovação, ferramentas ágeis e desenvolvimento de pessoas, melhorando o resultado dos negócios sempre com foco na gestão e desenvolvimento de talentos, e inclusão da diversidade nas organizações. Atualmente como Líder de Operações da Zallpy na BMW.</p>
+  <p><b>Bio:</b> rofissional com 16 anos de experiência em empresa multinacional com grandes projetos implementados na área de inovação, ferramentas ágeis e desenvolvimento de pessoas, melhorando o resultado dos negócios sempre com foco na gestão e desenvolvimento de talentos, e inclusão da diversidade nas organizações. Atualmente como Líder de Operações da Zallpy na BMW...</p>
   </div>
 </div>
 
