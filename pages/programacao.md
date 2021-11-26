@@ -28,6 +28,14 @@ header:
             </td>
         </tr>
         <tr>
+            <td bgcolor='#d3d3d3'>
+                15:30 - 16:00
+            </td>
+            <td  bgcolor='#d3d3d3'>
+                Intervalo
+            </td>
+        </tr>
+        <tr>
             <td bgcolor='#ffffff'>
                 16:00 - 17:30
             </td>
@@ -333,17 +341,6 @@ header:
           <strong>14:00</strong>
         </td>
         <td>
-          [PG] TestView App: Ferramenta para reduzir o esforço de teste de software
-        </td>
-        <td>
-          Eduardo Mascari Filho
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <strong>14:30</strong>
-        </td>
-        <td>
           [Gr] <i>"OMITIDO"</i>: Plataforma crowdsourcing para testes funcionais
         </td>
         <td>
@@ -352,7 +349,7 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>15:00</strong>
+          <strong>14:30</strong>
         </td>
         <td>
           [IN] Comparação de ferramentas de análise estática para detecção de defeitos de software usando mutante
@@ -363,7 +360,7 @@ header:
       </tr>
       <tr>
         <td>
-          <strong>15:30</strong>
+          <strong>15:00</strong>
         </td>
         <td>
           [IN] Segurança da Informação e LGPD Aplicado no Desenvolvimento de Software
