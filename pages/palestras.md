@@ -29,7 +29,7 @@ header:
 <h2>Mini-talk da Indústria 1 : Zallpy Digital</h2>
 
 <div class="medium-16 columns">
-      <!--<img src="{{ site.urlimg }}mikael.jpeg" alt="" align="center"><br> -->
+      <!--<img src="{{ site.urlimg }}mikael.png" alt="" align="center"><br> -->
       <b>Mikael Noramberg</b><br>      
   <a href="https://www.linkedin.com/in/mikaelnoremberg/" target="_blank">Linkedin</a><br>		
   <h4>Título: Transformação Digital na BMW</h4><br>		
