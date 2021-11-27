@@ -21,11 +21,6 @@ header:
 	<li>Adolfo Neto</li>
 </ul>
 
-<h4>TestView App: Ferramenta para reduzir o esforço de teste de software</h4>
-<ul>
-	<li>Eduardo Mascari Filho</li>
-</ul>
-
 <h4>Multivocal Literature Mapping on DSLs and Tools for Entity-Relationship Modeling</h4>
 <ul>
 	<li>Maicon Bernardino</li>
