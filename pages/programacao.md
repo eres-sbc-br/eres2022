@@ -81,7 +81,7 @@ header:
             </td>
             <td bgcolor='#ffffff'>
                 <i><strong>Mini-talks da Indústria de Software</strong></i><br>
-                (<strong>Anfitrião: </strong> (a definir))
+                (<strong>Anfitriões: </strong> Professores Edson, Fernando, e Maicon)
             </td>
         </tr>
         <tr>
