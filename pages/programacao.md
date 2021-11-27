@@ -333,7 +333,7 @@ header:
           <strong>14:00</strong>
         </td>
         <td>
-          [Gr] <i>"OMITIDO"</i>: Plataforma crowdsourcing para testes funcionais
+          [Gr] Test.wiki: Plataforma crowdsourcing para testes funcionais
         </td>
         <td>
           Camila Munzlinger, Mateus Dal Forno, Tobias de Vargas
@@ -412,7 +412,7 @@ header:
           <strong>16:00</strong>
         </td>
         <td>
-          [Gr] Avaliação de Usabilidade do app <i>"OMITIDO"</i>
+          [Gr] Avaliação de Usabilidade do app ParecerEdu
         </td>
         <td>
           Marina Otokovieski, Amanda Melo, Ícaro Crespo
@@ -423,7 +423,7 @@ header:
           <strong>16:30</strong>
         </td>
         <td>
-          [Gr] Avaliação Remota de Usabilidade do Site do Campus <i>"OMITIDO"</i>
+          [Gr] Avaliação Remota de Usabilidade do Site do Campus Alegrete da Unipampa
         </td>
         <td>
           Ícaro Crespo, Marina Otokovieski, Amanda Melo

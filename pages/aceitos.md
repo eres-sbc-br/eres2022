@@ -77,7 +77,7 @@ header:
 	<li>Edson Tavares de Camargo</li>
 </ul>
 
-<h4>Avaliação de Usabilidade do app <i>"OMITIDO"</i> </h4>
+<h4>Avaliação de Usabilidade do app ParecerEdu </h4>
 <ul>
 	<li>Marina Otokovieski</li>
 	<li>Amanda Melo</li>
@@ -98,14 +98,14 @@ header:
 	<li>Edson OliveiraJr</li>
 </ul>
 
-<h4><i>"OMITIDO"</i>: Plataforma crowdsourcing para testes funcionais</h4>
+<h4>Test.wiki: Plataforma crowdsourcing para testes funcionais</h4>
 <ul>
 	<li>Camila Munzlinger</li>
 	<li>Mateus Dal Forno</li>
 	<li>Tobias de Vargas</li>
 </ul>
 
-<h4>Avaliação Remota de Usabilidade do Site do Campus <i>"OMITIDO"</i></h4>
+<h4>Avaliação Remota de Usabilidade do Site do Campus Alegrete da Unipampa</i></h4>
 <ul>
 	<li>Ícaro Crespo</li>
 	<li>Marina Otokovieski</li>
