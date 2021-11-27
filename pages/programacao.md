@@ -266,14 +266,6 @@ header:
             </td>           
         </tr>
         <tr>
-            <td bgcolor='#d3d3d3'>
-                20:30 - 20:45
-            </td>
-            <td  bgcolor='#d3d3d3'>
-                Intervalo
-            </td>
-        </tr>
-        <tr>
             <td bgcolor='#ffffff'>
                 20:30 - 22:00
             </td>
