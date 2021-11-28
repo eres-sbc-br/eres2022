@@ -274,7 +274,7 @@ header:
                 Prof. Dr. Marcos Kalinowski (PUC-RIO)<br>
                 (<strong>Anfitrião: </strong> (a definir))<br>
                 <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
-                <a href="https://youtu.be/6vM39YTrTdU" target="_blank" style="hover: none;focus: none;active: none;">https://youtu.be/6vM39YTrTdU</a>
+                <a href="https://youtu.be/6vM39YTrTdU" target="_blank" style="border-bottom: none;">https://youtu.be/6vM39YTrTdU</a>
             </td>           
         </tr>
         <tr>
