@@ -57,7 +57,7 @@ header:
           </td>
           <td bgcolor='#ffffff'>
               <strong>Abertura</strong><br>
-              <a href="https://youtu.be/BxOV2wzM5l4" target="_blank"><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
+              <a href="https://youtu.be/BxOV2wzM5l4" target="_blank" class="null"><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
           </td>
         </tr>
         <tr>
