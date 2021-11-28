@@ -85,7 +85,9 @@ header:
             </td>
             <td bgcolor='#ffffff'>
                 <i><strong>Mini-talks da Indústria de Software</strong></i><br>
-                (<strong>Anfitriões: </strong> Professores Edson, Fernando, e Maicon)
+                (<strong>Anfitriões: </strong> Professores Edson, Fernando, e Maicon)<br>
+                <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
+                <a href="https://youtu.be/e5D5eDNwocI" target="_blank" class="null">https://youtu.be/e5D5eDNwocI</a>
             </td>
         </tr>
         <tr>
@@ -188,7 +190,9 @@ header:
                 <a href='../palestras#palestra_b'>Palestra B</a><br>
                 <strong>Desafios e Oportunidades Decorrentes da Lei Geral de Proteção de Dados Pessoais (LGPD) para a Área de Engenharia de Software</strong><br>
                 Profª. Drª. Michelle Silva Wangham (UNIVALI)<br>
-                (<strong>Anfitrião: </strong> Prof. Dr. Edson OliveiraJr)
+                (<strong>Anfitrião: </strong> Prof. Dr. Edson OliveiraJr)<br>
+                <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
+                <a href="https://youtu.be/8NIIW3cxKKM" target="_blank" class="null">https://youtu.be/8NIIW3cxKKM</a>
             </td>           
         </tr>
         <tr>
@@ -207,7 +211,9 @@ header:
             <a href='../palestras#palestra_c'>Palestra C</a><br>
             <strong>Levei a Faculdade daquele jeito. E agora?</strong><br>
             Professor Isidro<br>
-            (<strong>Anfitrião: </strong>Fernando dos Santos)
+            (<strong>Anfitrião: </strong>Fernando dos Santos)<br>
+            <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
+            <a href="https://youtu.be/9YtpIYZFriY" target="_blank" class="null">https://youtu.be/9YtpIYZFriY</a>
             </td>
         </tr>
     </tbody>
@@ -266,7 +272,9 @@ header:
                 <a href='../palestras#palestra_d'>Palestra D</a><br>
                 <strong>Engenharia de Sistemas de Software Inteligentes</strong><br>
                 Prof. Dr. Marcos Kalinowski (PUC-RIO)<br>
-                (<strong>Anfitrião: </strong> (a definir))
+                (<strong>Anfitrião: </strong> (a definir))<br>
+                <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
+                <a href="https://youtu.be/6vM39YTrTdU" target="_blank" class="null">https://youtu.be/6vM39YTrTdU</a>
             </td>           
         </tr>
         <tr>
@@ -275,7 +283,9 @@ header:
             </td>
             <td bgcolor='#ffffff'>
                 Encerramento<br>
-                Premiações
+                Premiações<br>
+                <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
+                <a href="https://youtu.be/MyYpjVEpyVo" target="_blank" class="null">https://youtu.be/MyYpjVEpyVo</a>
             </td>
         </tr>
     </tbody>
