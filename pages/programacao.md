@@ -57,8 +57,7 @@ header:
           </td>
           <td bgcolor='#ffffff'>
               <strong>Abertura</strong><br>
-              <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
-              <a href="https://youtu.be/BxOV2wzM5l4" target="_blank" class="null">https://youtu.be/BxOV2wzM5l4</a>
+              <a href="https://youtu.be/BxOV2wzM5l4" target="_blank" style="border-bottom: none;><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
           </td>
         </tr>
         <tr>
@@ -67,8 +66,7 @@ header:
             </td>
             <td bgcolor='#ffffff'>
                 <a href='../palestras#palestra_a'>Palestra A</a><br> <strong>AgileKIP Process Automation Platform: uma agenda acadêmica que virou empresa!</strong> <br>Ulisses Telemaco Neto (OWSE Ltda)<br> (<strong>Anfitrião: </strong> Prof. Dr. Maicon Bernardino)<br>
-                <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
-                <a href="https://youtu.be/8jv15fz2h5o" target="_blank" class="null">https://youtu.be/8jv15fz2h5o</a>
+                <a href="https://youtu.be/8jv15fz2h5o" target="_blank" style="border-bottom: none;><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
             </td>           
         </tr>
         <tr>
@@ -86,8 +84,7 @@ header:
             <td bgcolor='#ffffff'>
                 <i><strong>Mini-talks da Indústria de Software</strong></i><br>
                 (<strong>Anfitriões: </strong> Professores Edson, Fernando, e Maicon)<br>
-                <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
-                <a href="https://youtu.be/e5D5eDNwocI" target="_blank" class="null">https://youtu.be/e5D5eDNwocI</a>
+                <a href="https://youtu.be/e5D5eDNwocI" target="_blank" style="border-bottom: none;><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
             </td>
         </tr>
         <tr>
@@ -191,8 +188,7 @@ header:
                 <strong>Desafios e Oportunidades Decorrentes da Lei Geral de Proteção de Dados Pessoais (LGPD) para a Área de Engenharia de Software</strong><br>
                 Profª. Drª. Michelle Silva Wangham (UNIVALI)<br>
                 (<strong>Anfitrião: </strong> Prof. Dr. Edson OliveiraJr)<br>
-                <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
-                <a href="https://youtu.be/8NIIW3cxKKM" target="_blank" class="null">https://youtu.be/8NIIW3cxKKM</a>
+                <a href="https://youtu.be/8NIIW3cxKKM" target="_blank" style="border-bottom: none;><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
             </td>           
         </tr>
         <tr>
@@ -212,8 +208,7 @@ header:
             <strong>Levei a Faculdade daquele jeito. E agora?</strong><br>
             Professor Isidro<br>
             (<strong>Anfitrião: </strong>Fernando dos Santos)<br>
-            <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
-            <a href="https://youtu.be/9YtpIYZFriY" target="_blank" class="null">https://youtu.be/9YtpIYZFriY</a>
+            <a href="https://youtu.be/9YtpIYZFriY" target="_blank" style="border-bottom: none;><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
             </td>
         </tr>
     </tbody>
@@ -283,8 +278,7 @@ header:
             <td bgcolor='#ffffff'>
                 Encerramento<br>
                 Premiações<br>
-                <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"><br>
-                <a href="https://youtu.be/MyYpjVEpyVo" target="_blank">https://youtu.be/MyYpjVEpyVo</a>
+                <a href="https://youtu.be/MyYpjVEpyVo" target="_blank" style="border-bottom: none;>  <img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
             </td>
         </tr>
     </tbody>
