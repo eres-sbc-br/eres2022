@@ -7,6 +7,8 @@ header:
    image_fullwidth: banner_eres2021.png
 ---
 
+<p> Clique <a href="{{ site.urlimg }}ERES2021.ics">aqui</a> para baixar a agenda do Google Calendar com toda a programação da ERES 2021 </p>
+
 <h3>01/12 - Quarta-feira</h3>
 
 <table width="100%">
