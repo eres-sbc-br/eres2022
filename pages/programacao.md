@@ -592,7 +592,7 @@ header:
           <strong>16:30</strong>
         </td>
         <td>
-          [PG] BPMN, SPEM e Essence como Linguagens para Modelagem de Processos: uma Revisão Sistemática da Literatura
+          [PG] BPMN, SPEM e Essence no contexto da Modelagem de Processos de Software: uma Revisão Sistemática da Literatura
         </td>
         <td>
           Igor Fonseca, Luiz Fritsch, Maicon Bernardino, Fábio Basso

@@ -41,7 +41,7 @@ header:
 	<li>Victor Santander</li>
 </ul>
 
-<h4>BPMN, SPEM e Essence como Linguagens para Modelagem de Processos: uma Revisão Sistemática da Literatura</h4>
+<h4>BPMN, SPEM e Essence no contexto da Modelagem de Processos de Software: uma Revisão Sistemática da Literatura</h4>
 <ul>
 	<li>Igor Fonseca</li>
 	<li>Luiz Fritsch</li>
