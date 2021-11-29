@@ -321,7 +321,7 @@ header:
           <strong>Chair:</strong>
         </td>
         <td colspan='2'>
-          (a definir)
+          Aline M. M. M. Amaral (UEM)
         </td>
       </tr>
       <tr>
@@ -558,7 +558,7 @@ header:
           <strong>Chair:</strong>
         </td>
         <td colspan='2'>
-          Marília Guterres Ferreira (UDESC)
+          (a definir)
         </td>
       </tr>
       <tr>
