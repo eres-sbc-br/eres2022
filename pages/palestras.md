@@ -75,7 +75,7 @@ header:
   <br>
   <p><b>Resumo:</b> a definir.</p>
   <br><br>
-  <p><b>Bio:</b> a definir.</p>
+  <p><b>Bio:</b> Resolvedor de problemas na Ambev Tech e Coordenador nos maiores eventos de TI do Brasil, como The Developers Conference, Campus Party, Jornada Summit e Cloud Conference Day. Utilizo Gestão Ágil para obtenção de times de alta performance e ajudo profissionais de TI a evoluírem em suas carreiras.</p>
   </div>
 </div>
 
