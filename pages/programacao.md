@@ -170,7 +170,9 @@ header:
                 17:30 - 18:15
             </td>
             <td bgcolor='#ffffff'>
-                  <strong>Visita Técnica Virtual ao Centro de Tecnologia da IPM Sistemas</strong> <br> Link de acesso: (a definir)
+                  <strong>Visita Técnica Virtual ao Centro de Tecnologia da IPM Sistemas</strong> <br>
+                  Guia: Maiara Freitas (Coordenadora de RH)<br>
+                  <a href="https://youtu.be/5sUoXHYQdLE" target="_blank" style="border-bottom: none;"><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
             </td>
         </tr>
         <tr>
