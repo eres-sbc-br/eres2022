@@ -8,9 +8,6 @@ header:
   image_fullwidth: banner_eres2021.png
 ---
 
-
-<hr>
-
 <h1>Comitê Científico:</h1>
 
 <h3>Rio Grande do Sul:</h3>

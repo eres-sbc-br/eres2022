@@ -84,3 +84,7 @@
 - title: "Anais"
   url: "/anais/"
   side: left
+
+- title: "Downloads"
+  url: "/downloads/"
+  side: left
