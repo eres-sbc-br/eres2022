@@ -20,7 +20,6 @@ header:
 
 <h4>Vídeo de Fundo</h4>
 <p>Vídeo de fundo para uso nas videoconferências (clique <a href="{{ site.urlimg }}/eres2021-background-video.mp4">aqui</a> para baixar)</p>
-
 <div class="row">
   <video class="small-12 large-3 columns" width="320" height="240" controls>
    <source src="{{ site.urlimg }}/eres2021-background-video.mp4" type="video/mp4">
