@@ -400,7 +400,7 @@ header:
           <strong>Chair:</strong>
         </td>
         <td colspan='2'>
-          (a definir)
+          Williamson Silva (UNIPAMPA)
         </td>
       </tr>
       <tr>
@@ -558,7 +558,7 @@ header:
           <strong>Chair:</strong>
         </td>
         <td colspan='2'>
-          (a definir)
+          Marília Guterres Ferreira (UDESC)
         </td>
       </tr>
       <tr>
