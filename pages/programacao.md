@@ -562,7 +562,7 @@ header:
           <strong>Chair:</strong>
         </td>
         <td colspan='2'>
-          (a definir)
+          Marília Guterres Ferreira (UDESC)
         </td>
       </tr>
       <tr>
