@@ -369,7 +369,7 @@ header:
           [IN] Segurança da Informação e LGPD Aplicado no Desenvolvimento de Software
         </td>
         <td>
-          Cleber Nardelli
+          Cleber Nardelli (IPM Sistemas)
         </td>
       </tr>
     </tbody>
