@@ -483,7 +483,7 @@ header:
           <strong>Chair:</strong>
         </td>
         <td colspan='2'>
-          (a definir)
+          Fábio Basso (UNIPAMPA)
         </td>
       </tr>
       <tr>
