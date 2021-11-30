@@ -347,7 +347,7 @@ header:
           [Gr] Test.wiki: Plataforma crowdsourcing para testes funcionais
         </td>
         <td>
-          Camila Munzlinger, Mateus Dal Forno, Tobias de Vargas
+          Camila Munzlinger (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha), Mateus Dal Forno (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha), Tobias de Vargas (Instituto Federal Farroupilha Campus Frederico Westphalen)
         </td>
       </tr>
       <tr>
@@ -426,7 +426,7 @@ header:
           [Gr] Avaliação de Usabilidade do app ParecerEdu
         </td>
         <td>
-          Marina Otokovieski, Amanda Melo, Ícaro Crespo
+          Marina Otokovieski (Universidade Federal do Pampa), Amanda Melo (Universidade Federal do Pampa), Ícaro Crespo (Universidade Federal do Pampa)
         </td>
       </tr>
       <tr>
@@ -437,7 +437,7 @@ header:
           [Gr] Avaliação Remota de Usabilidade do Site do Campus Alegrete da Unipampa
         </td>
         <td>
-          Ícaro Crespo, Marina Otokovieski, Amanda Melo
+          Ícaro Crespo (Universidade Federal do Pampa), Marina Otokovieski (Universidade Federal do Pampa), Amanda Melo (Universidade Federal do Pampa)
         </td>
       </tr>
       <tr>
@@ -448,7 +448,7 @@ header:
           [Gr] Uma Proposta de Ferramenta de Apoio ao Processo de Avaliação de Usabilidade em Linguagens Específicas de Domínio
         </td>
         <td>
-          Allan Pedroso, Ildevana Poltronieri, Maicon Bernardino
+          Allan Pedroso (UNIPAMPA), Ildevana Poltronieri (Pontifícia Universidade Católica do Rio Grande do Sul), Maicon Bernardino (Universidade Federal do Pampa (Unipampa))
         </td>
       </tr>
     </tbody>
@@ -516,7 +516,7 @@ header:
           [Gr] Estudo de Eficiência de Arquitetura Distribuída Utilizando Bancos de Dados Relacionais, Não-Relacionais e Cache em Memória
         </td>
         <td>
-          Josué Cardoso, Márcio Sembay, Willen Leolatto Carneiro
+          Josué Cardoso (Centro Universitário Unifacvest - Brazil), Márcio Sembay (Centro Universitário Unifacvest), Willen Leolatto Carneiro (Unifacvest)
         </td>
       </tr>
       <tr>
@@ -527,7 +527,7 @@ header:
           [Gr] Comparing Open Data Repositories
         </td>
         <td>
-        Pedro Costa, André F. R. Cordeiro, Edson OliveiraJr
+          Pedro Costa (State University of Maringá), André F. R. Cordeiro (State University of Maringá), Edson OliveiraJr (Universidade Estadual de Maringá)
         </td>
       </tr>
     </tbody>
@@ -606,7 +606,7 @@ header:
           [Gr] Experiência do Projeto "Fábrica de Software" em um Curso de Engenharia de Software
         </td>
         <td>
-          Alexandro Santos, Matheus Oliveira, Yuri Rodrigues, Nisio Oliveira,  Daniel Kuhn, Gustavo Santos, Rodolfo Silva
+          Alexandro Santos (Universidade Tecnológica Federal do Paraná (UTFPR)), Matheus Oliveira (Universidade Tecnológica Federal do Paraná), Yuri Rodrigues (Universidade Tecnológica Federal do Paraná), Nisio Oliveira (Universidade Tecnológica Federal do Paraná), Daniel Kuhn (UTFPR), Gustavo Santos (Universidade Tecnológica Federal do Paraná - UTFPR-DV), Rodolfo Silva (Universidade Tecnológica Federal do Paraná)
         </td>
       </tr>
     </tbody>
@@ -663,7 +663,7 @@ header:
           [Gr] Uso de quadros kanban virtuais sob as lentes do DX: um estudo com profissionais de startups de software
         </td>
         <td>
-          Crismerlyn Pereira, Angelica dos Santos, Luciana Zaina
+        Crismerlyn Pereira (Universidade Federal de São Carlos), Angelica dos Santos (Universidade Federal de São Carlos), Luciana Zaina (UFSCAR)
         </td>
       </tr>
       <tr>
@@ -674,7 +674,7 @@ header:
           [Gr] Construção e Implantação de uma Metodologia Ágil no Processo de Desenvolvimento de Software de uma Organização Pública: Uma Pesquisa-Ação
         </td>
         <td>
-        Jessica Garcia, Joyce Aline Marins, Vanice Cunha, Aline Wollinger, Giulla Araújo
+        Jessica Garcia (Universidade Federal de Mato Grosso), Joyce Aline Marins (Universidade Federal de Mato Grosso), Vanice Cunha (Universidade Federal de Mato Grosso), Aline Wollinger (Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso - Campus Cuiabá),Giulla Araújo (TCEMT)
         </td>
       </tr>
       <tr>
@@ -753,7 +753,7 @@ header:
           [Gr] Desenvolvimento Seguro de Sistemas Web: Uma Revisão Sistemática
         </td>
         <td>
-        Gustavo Malacarne, Edson Tavares de Camargo
+          Gustavo Malacarne (Universidade Tecnológica Federal do Paraná - Brazil), Edson Tavares de Camargo (Universidade Tecnológica Federal do Paraná)
         </td>
       </tr>
       <tr>
@@ -764,7 +764,7 @@ header:
           [Gr] Um Estudo Exploratório do Cooja para Simulação de Cenário em Internet das Coisas
         </td>
         <td>
-          Dienefer Fialho dos Santos, Fábio Basso, Marcelo Caggiani Luizelli, Saimon Martins Cabrera
+          Dienefer Fialho dos Santos (Universidade Federal do Pampa), Fábio Basso (Universidade Federal do Pampa (Unipampa)), Marcelo Caggiani Luizelli (Federal University of Pampa), Saimon Martins Cabrera (Universidade Federal do Pampa)
         </td>
       </tr>
     </tbody>
