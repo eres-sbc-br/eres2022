@@ -347,7 +347,7 @@ header:
           [Gr] Test.wiki: Plataforma crowdsourcing para testes funcionais
         </td>
         <td>
-          Camila Munzlinger (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha)<br> Mateus Dal Forno (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha)<br> Tobias de Vargas (Instituto Federal Farroupilha Campus Frederico Westphalen)
+          &#8226;Camila Munzlinger (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha)<br> &#8226;Mateus Dal Forno (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha)<br> &#8226;Tobias de Vargas (Instituto Federal Farroupilha Campus Frederico Westphalen)
         </td>
       </tr>
       <tr>
