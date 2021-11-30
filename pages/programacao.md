@@ -641,7 +641,7 @@ header:
           <strong>Chair:</strong>
         </td>
         <td colspan='2'>
-          (a definir)
+         Ana Oran (UFAM)
         </td>
       </tr>
       <tr>
