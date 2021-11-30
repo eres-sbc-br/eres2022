@@ -720,7 +720,7 @@ header:
           <strong>Chair:</strong>
         </td>
         <td colspan='2'>
-          (a definir)
+          Gabriel Machado Lunardi (UNIPAMPA)
         </td>
       </tr>
       <tr>
