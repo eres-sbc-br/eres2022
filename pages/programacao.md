@@ -301,8 +301,8 @@ header:
   <h4>Sessão Técnica 1</h4>
   <table width="100%">
     <col style="width:7%">
-  	<col style="width:65%">
-    <col style="width:38%">
+    <col style="width:50%">
+    <col style="width:43%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -347,7 +347,7 @@ header:
           [Gr] Test.wiki: Plataforma crowdsourcing para testes funcionais
         </td>
         <td>
-          Camila Munzlinger (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha), Mateus Dal Forno (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha), Tobias de Vargas (Instituto Federal Farroupilha Campus Frederico Westphalen)
+          Camila Munzlinger (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha)<br> Mateus Dal Forno (Instituto Federal de Educação, Ciência e Tecnologia Farroupilha)<br> Tobias de Vargas (Instituto Federal Farroupilha Campus Frederico Westphalen)
         </td>
       </tr>
       <tr>
@@ -358,7 +358,7 @@ header:
           [IN] Comparação de ferramentas de análise estática para detecção de defeitos de software usando mutante
         </td>
         <td>
-        Yury Lima, Maicon Bernardino, Elder Rodrigues, Jonas M. Chagas, João Pablo S. da Silva, Igor Fonseca
+        Y ury Lima (Universidade Federal do Pampa-UNIPAMPA)<br> Maicon Bernardino (Universidade Federal do Pampa-Unipampa)<br> Elder Rodrigues (Universidade Federal do Pampa-UNIPAMPA Alegrete)<br> Jonas M. Chagas (Universidade Federal do Pampa)<br> João Pablo S. da Silva (Federal University of Pampa)<br> Igor Fonseca (Universidade Federal do Pampa)
         </td>
       </tr>
       <tr>
@@ -380,8 +380,8 @@ header:
   <h4>Sessão Técnica 2</h4>
   <table width="100%">
     <col style="width:7%">
-  	<col style="width:65%">
-    <col style="width:38%">
+    <col style="width:50%">
+    <col style="width:43%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -426,7 +426,7 @@ header:
           [Gr] Avaliação de Usabilidade do app ParecerEdu
         </td>
         <td>
-          Marina Otokovieski (Universidade Federal do Pampa), Amanda Melo (Universidade Federal do Pampa), Ícaro Crespo (Universidade Federal do Pampa)
+          Marina Otokovieski (Universidade Federal do Pampa)<br> Amanda Melo (Universidade Federal do Pampa)<br> Ícaro Crespo (Universidade Federal do Pampa)
         </td>
       </tr>
       <tr>
@@ -437,7 +437,7 @@ header:
           [Gr] Avaliação Remota de Usabilidade do Site do Campus Alegrete da Unipampa
         </td>
         <td>
-          Ícaro Crespo (Universidade Federal do Pampa), Marina Otokovieski (Universidade Federal do Pampa), Amanda Melo (Universidade Federal do Pampa)
+          Ícaro Crespo (Universidade Federal do Pampa)<br> Marina Otokovieski (Universidade Federal do Pampa)<br> Amanda Melo (Universidade Federal do Pampa)
         </td>
       </tr>
       <tr>
@@ -448,7 +448,7 @@ header:
           [Gr] Uma Proposta de Ferramenta de Apoio ao Processo de Avaliação de Usabilidade em Linguagens Específicas de Domínio
         </td>
         <td>
-          Allan Pedroso (UNIPAMPA), Ildevana Poltronieri (Pontifícia Universidade Católica do Rio Grande do Sul), Maicon Bernardino (Universidade Federal do Pampa (Unipampa))
+          Allan Pedroso (UNIPAMPA)<br> Ildevana Poltronieri (Pontifícia Universidade Católica do Rio Grande do Sul)<br> Maicon Bernardino (Universidade Federal do Pampa (Unipampa))
         </td>
       </tr>
     </tbody>
@@ -459,8 +459,8 @@ header:
   <h4>Sessão Técnica 3</h4>
   <table width="100%">
     <col style="width:7%">
-  	<col style="width:65%">
-    <col style="width:38%">
+    <col style="width:50%">
+    <col style="width:43%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -505,7 +505,7 @@ header:
           [PG] Multivocal Literature Mapping on DSLs and Tools for Entity-Relationship Modeling
         </td>
         <td>
-          Jonnathan Riquelmo (Universidade Federal do Pampa-UNIPAMPA), Maicon Bernardino (Universidade Federal do Pampa-UNIPAMPA), Fábio Basso (Universidade Federal do Pampa-UNIPAMPA), Elder Rodrigues (Universidade Federal do Pampa-UNIPAMPA)
+          Jonnathan Riquelmo (Universidade Federal do Pampa-UNIPAMPA)<br> Maicon Bernardino (Universidade Federal do Pampa-UNIPAMPA)<br> Fábio Basso (Universidade Federal do Pampa-UNIPAMPA)<br> Elder Rodrigues (Universidade Federal do Pampa-UNIPAMPA)
         </td>
       </tr>
       <tr>
@@ -516,7 +516,7 @@ header:
           [Gr] Estudo de Eficiência de Arquitetura Distribuída Utilizando Bancos de Dados Relacionais, Não-Relacionais e Cache em Memória
         </td>
         <td>
-          Josué Cardoso (Centro Universitário Unifacvest - Brazil), Márcio Sembay (Centro Universitário Unifacvest), Willen Leolatto Carneiro (Unifacvest)
+          Josué Cardoso (Centro Universitário Unifacvest - Brazil)<br> Márcio Sembay (Centro Universitário Unifacvest)<br> Willen Leolatto Carneiro (Unifacvest)
         </td>
       </tr>
       <tr>
@@ -527,7 +527,7 @@ header:
           [Gr] Comparing Open Data Repositories
         </td>
         <td>
-          Pedro Costa (State University of Maringá), André F. R. Cordeiro (State University of Maringá), Edson OliveiraJr (Universidade Estadual de Maringá)
+          Pedro Costa (State University of Maringá)<br> André F. R. Cordeiro (State University of Maringá)<br> Edson OliveiraJr (Universidade Estadual de Maringá)
         </td>
       </tr>
     </tbody>
@@ -538,8 +538,8 @@ header:
   <h4>Sessão Técnica 4</h4>
   <table width="100%">
     <col style="width:7%">
-  	<col style="width:65%">
-    <col style="width:38%">
+    <col style="width:50%">
+    <col style="width:43%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -584,7 +584,7 @@ header:
           [PG] Documentando requisitos de sistemas legados: um estudo de caso utilizando técnicas da Engenharia de Requisitos Orientada a Objetivos
         </td>
         <td>
-          Renato G. Fritola (Universidade Estadual do Oeste do Paraná - UNIOESTE), Victor F. A. Santander (Universidade Estadual do Oeste do Paraná-UNIOESTE)
+          Renato G. Fritola (Universidade Estadual do Oeste do Paraná - UNIOESTE)<br> Victor F. A. Santander (Universidade Estadual do Oeste do Paraná-UNIOESTE)
         </td>
       </tr>
       <tr>
@@ -595,7 +595,7 @@ header:
           [PG] BPMN, SPEM e Essence no contexto da Modelagem de Processos de Software: uma Revisão Sistemática da Literatura
         </td>
         <td>
-          Igor O. da Fonseca (Universidade Federal do Pampa-UNIPAMPA), Luiz Guilherme Fritsch (Universidade Federal do Pampa-UNIPAMPA), Maicon Bernardino (Universidade Federal do Pampa-UNIPAMPA), Fabio Basso (Universidade Federal do Pampa-UNIPAMPA)
+          Igor O. da Fonseca (Universidade Federal do Pampa-UNIPAMPA)<br> Luiz Guilherme Fritsch (Universidade Federal do Pampa-UNIPAMPA)<br> Maicon Bernardino (Universidade Federal do Pampa-UNIPAMPA)<br> Fabio Basso (Universidade Federal do Pampa-UNIPAMPA)
         </td>
       </tr>
       <tr>
@@ -606,7 +606,7 @@ header:
           [Gr] Experiência do Projeto "Fábrica de Software" em um Curso de Engenharia de Software
         </td>
         <td>
-          Alexandro Santos (Universidade Tecnológica Federal do Paraná (UTFPR)), Matheus Oliveira (Universidade Tecnológica Federal do Paraná), Yuri Rodrigues (Universidade Tecnológica Federal do Paraná), Nisio Oliveira (Universidade Tecnológica Federal do Paraná), Daniel Kuhn (UTFPR), Gustavo Santos (Universidade Tecnológica Federal do Paraná - UTFPR-DV), Rodolfo Silva (Universidade Tecnológica Federal do Paraná)
+          Alexandro Santos (Universidade Tecnológica Federal do Paraná-UTFPR)<br> Matheus Oliveira (Universidade Tecnológica Federal do Paraná)<br> Yuri Rodrigues (Universidade Tecnológica Federal do Paraná)<br> Nisio Oliveira (Universidade Tecnológica Federal do Paraná)<br> Daniel Kuhn (UTFPR)<br> Gustavo Santos (Universidade Tecnológica Federal do Paraná-UTFPR-DV)<br> Rodolfo Silva (Universidade Tecnológica Federal do Paraná)
         </td>
       </tr>
     </tbody>
@@ -617,8 +617,8 @@ header:
   <h4>Sessão Técnica 5</h4>
   <table width="100%">
     <col style="width:7%">
-  	<col style="width:65%">
-    <col style="width:38%">
+    <col style="width:50%">
+    <col style="width:43%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -663,7 +663,7 @@ header:
           [Gr] Uso de quadros kanban virtuais sob as lentes do DX: um estudo com profissionais de startups de software
         </td>
         <td>
-        Crismerlyn Pereira (Universidade Federal de São Carlos), Angelica dos Santos (Universidade Federal de São Carlos), Luciana Zaina (UFSCAR)
+        Crismerlyn Pereira (Universidade Federal de São Carlos)<br> Angelica dos Santos (Universidade Federal de São Carlos)<br> Luciana Zaina (UFSCAR)
         </td>
       </tr>
       <tr>
@@ -674,7 +674,7 @@ header:
           [Gr] Construção e Implantação de uma Metodologia Ágil no Processo de Desenvolvimento de Software de uma Organização Pública: Uma Pesquisa-Ação
         </td>
         <td>
-        Jessica Garcia (Universidade Federal de Mato Grosso), Joyce Aline Marins (Universidade Federal de Mato Grosso), Vanice Cunha (Universidade Federal de Mato Grosso), Aline Wollinger (Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso - Campus Cuiabá),Giulla Araújo (TCEMT)
+        Jessica Garcia (Universidade Federal de Mato Grosso)<br> Joyce Aline Marins (Universidade Federal de Mato Grosso)<br> Vanice Cunha (Universidade Federal de Mato Grosso)<br> Aline Wollinger (Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso - Campus Cuiabá)<br> Giulla Araújo (TCEMT)
         </td>
       </tr>
       <tr>
@@ -685,7 +685,7 @@ header:
           [PG] Combinando Planning Poker e Aprendizado de Máquina para estimar esforço de software
         </td>
         <td>
-          Doglas A. Finco (Universidade Tecnológica Federal do Paraná-UTFPR), Laudelino C. Bastos (Universidade Tecnológica Federal do Paraná-UTFPR), Adolfo G. S. S. Neto (Universidade Tecnológica Federal do Paraná-UTFPR)
+          Doglas A. Finco (Universidade Tecnológica Federal do Paraná-UTFPR)<br> Laudelino C. Bastos (Universidade Tecnológica Federal do Paraná-UTFPR)<br> Adolfo G. S. S. Neto (Universidade Tecnológica Federal do Paraná-UTFPR)
         </td>
       </tr>
     </tbody>
@@ -696,8 +696,8 @@ header:
   <h4>Sessão Técnica 6</h4>
   <table width="100%">
     <col style="width:7%">
-  	<col style="width:65%">
-    <col style="width:38%">
+  	<col style="width:50%">
+    <col style="width:43%">
     <tbody>
       <tr>
         <td bgcolor='#d3d3d3'>
@@ -742,7 +742,7 @@ header:
           [PG] Explorando a Integração de Ferramentas para a Engenharia de Software Contínua com o OSLC e Eclipse Lyo
         </td>
         <td>
-          Bruno Marcelo Soares Ferreira (Universidade Federal do Pampa-UNIPAMPA), Fábio Basso (Universidade Federal do Pampa-UNIPAMPA)
+          Bruno Marcelo Soares Ferreira (Universidade Federal do Pampa-UNIPAMPA)<br> Fábio Basso (Universidade Federal do Pampa-UNIPAMPA)
         </td>
       </tr>
       <tr>
@@ -753,7 +753,7 @@ header:
           [Gr] Desenvolvimento Seguro de Sistemas Web: Uma Revisão Sistemática
         </td>
         <td>
-          Gustavo Malacarne (Universidade Tecnológica Federal do Paraná - Brazil), Edson Tavares de Camargo (Universidade Tecnológica Federal do Paraná)
+          Gustavo Malacarne (Universidade Tecnológica Federal do Paraná - Brazil)<br> Edson Tavares de Camargo (Universidade Tecnológica Federal do Paraná)
         </td>
       </tr>
       <tr>
@@ -764,7 +764,7 @@ header:
           [Gr] Um Estudo Exploratório do Cooja para Simulação de Cenário em Internet das Coisas
         </td>
         <td>
-          Dienefer Fialho dos Santos (Universidade Federal do Pampa), Fábio Basso (Universidade Federal do Pampa (Unipampa)), Marcelo Caggiani Luizelli (Federal University of Pampa), Saimon Martins Cabrera (Universidade Federal do Pampa)
+          Dienefer Fialho dos Santos (Universidade Federal do Pampa)<br> Fábio Basso (Universidade Federal do Pampa (Unipampa))<br> Marcelo Caggiani Luizelli (Federal University of Pampa)<br> Saimon Martins Cabrera (Universidade Federal do Pampa)
         </td>
       </tr>
     </tbody>
