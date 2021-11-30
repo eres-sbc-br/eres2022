@@ -505,7 +505,7 @@ header:
           [PG] Multivocal Literature Mapping on DSLs and Tools for Entity-Relationship Modeling
         </td>
         <td>
-          Maicon Bernardino, Jonnathan Lopes, Fábio Basso, Elder Rodrigues
+          Jonnathan Riquelmo (Universidade Federal do Pampa-UNIPAMPA), Maicon Bernardino (Universidade Federal do Pampa-UNIPAMPA), Fábio Basso (Universidade Federal do Pampa-UNIPAMPA), Elder Rodrigues (Universidade Federal do Pampa-UNIPAMPA)
         </td>
       </tr>
       <tr>
@@ -584,7 +584,7 @@ header:
           [PG] Documentando requisitos de sistemas legados: um estudo de caso utilizando técnicas da Engenharia de Requisitos Orientada a Objetivos
         </td>
         <td>
-          Renato Fritola, Victor Santander
+          Renato G. Fritola (Universidade Estadual do Oeste do Paraná - UNIOESTE), Victor F. A. Santander (Universidade Estadual do Oeste do Paraná-UNIOESTE)
         </td>
       </tr>
       <tr>
@@ -595,7 +595,7 @@ header:
           [PG] BPMN, SPEM e Essence no contexto da Modelagem de Processos de Software: uma Revisão Sistemática da Literatura
         </td>
         <td>
-          Igor Fonseca, Luiz Fritsch, Maicon Bernardino, Fábio Basso
+          Igor O. da Fonseca (Universidade Federal do Pampa-UNIPAMPA), Luiz Guilherme Fritsch (Universidade Federal do Pampa-UNIPAMPA), Maicon Bernardino (Universidade Federal do Pampa-UNIPAMPA), Fabio Basso (Universidade Federal do Pampa-UNIPAMPA)
         </td>
       </tr>
       <tr>
@@ -685,7 +685,7 @@ header:
           [PG] Combinando Planning Poker e Aprendizado de Máquina para estimar esforço de software
         </td>
         <td>
-          Doglas Finco, Laudelino Cordeiro Bastos, Adolfo Neto
+          Doglas A. Finco (Universidade Tecnológica Federal do Paraná-UTFPR), Laudelino C. Bastos (Universidade Tecnológica Federal do Paraná-UTFPR), Adolfo G. S. S. Neto (Universidade Tecnológica Federal do Paraná-UTFPR)
         </td>
       </tr>
     </tbody>
@@ -742,7 +742,7 @@ header:
           [PG] Explorando a Integração de Ferramentas para a Engenharia de Software Contínua com o OSLC e Eclipse Lyo
         </td>
         <td>
-        Bruno Ferreira, Fábio Basso
+          Bruno Marcelo Soares Ferreira (Universidade Federal do Pampa-UNIPAMPA), Fábio Basso (Universidade Federal do Pampa-UNIPAMPA)
         </td>
       </tr>
       <tr>
