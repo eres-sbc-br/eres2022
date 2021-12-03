@@ -9,7 +9,9 @@ header:
    image_fullwidth: banner_eres2021.png
 
 ---
-<h5>Também estamos nas redes sociais</h5>
+<h5>Também estamos nas redes sociais:</h5>
+
+<p></p>
 
 <p><a href="https://www.facebook.com/eres.sbc.br" target="_blank" class="icon-facebook" title="ERES no Facebook">&nbsp; eres.sbc.br</a></p>
 
