@@ -192,7 +192,7 @@ header:
                 <strong>Desafios e Oportunidades Decorrentes da Lei Geral de Proteção de Dados Pessoais (LGPD) para a Área de Engenharia de Software</strong><br>
                 Profª. Drª. Michelle Silva Wangham (UNIVALI)<br>
                 (<strong>Anfitrião: </strong> Prof. Dr. Edson OliveiraJr)<br>
-                <a href="https://youtu.be/8NIIW3cxKKM" target="_blank" style="border-bottom: none;"><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>
+                <a href="https://youtu.be/8NIIW3cxKKM" target="_blank" style="border-bottom: none;"><img src="{{ site.urlimg }}youtube.png" alt="Transmissão no YouTube" align="center"></a>&nbsp;&nbsp; <img src="{{ site.urlimg }}pdf.png" alt="Slides" align="center"><a href="{{ site.urlimg }}slides-palestra-b.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>           
         </tr>
         <tr>
