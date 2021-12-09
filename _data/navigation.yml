@@ -52,6 +52,8 @@
     url: "/coordenacao_eventos/"
   - title: "Comitê Científico"
     url: "/comite_cientifico/"
+  - title: "Edições Anteriores"
+    url: "/edicoes_anteriores/"
 #  - title: "Comitê Diretivo"
 #    url: "/comite_diretivo/"
 #  - title: "Voluntários"
@@ -76,10 +78,6 @@
 
 - title: "Contato"
   url: "/contato/"
-  side: left
-
-- title: "Edições Anteriores"
-  url: "/edicoes_anteriores/"
   side: left
 
 - title: "Certificados"
