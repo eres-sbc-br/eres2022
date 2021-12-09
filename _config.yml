@@ -30,7 +30,7 @@ baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/santos-fernando/eres2021/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/eres-sbc-br/eres2021/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -39,6 +39,8 @@ improve_content: https://github.com/santos-fernando/eres2021/feeling-responsive/
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'https://eres-sbc-br.github.io/eres2021/images/'
+
+urlcertificados: 'https://eres-sbc-br.github.io/eres2021/certificados/'
 
 # Logo size is 600x80 pixels
 #logo: "logo_eres_2020.png"
