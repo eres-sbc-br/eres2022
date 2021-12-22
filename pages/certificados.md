@@ -9,6 +9,6 @@ header:
 
 <p> Os certificados de participação, de apresentação de artigo, e de atuação como <em>chair</em> estão disponíveis para <em>download</em> no Github.</p>
 
-<p><a href="https://github.com/eres-sbc-br/eres2021/tree/main/certificados/" target="_blank">https://github.com/eres-sbc-br/eres2021/tree/main/certificados/</a></p>.
+<p><a href="https://github.com/eres-sbc-br/eres2021/tree/main/certificados/" target="_blank">https://github.com/eres-sbc-br/eres2021/tree/main/certificados/</a></p>
 
 <p>Acesse o link acima e baixe o(s) seu(s) certificado(s).</p>
