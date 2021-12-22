@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Certificados de Participação na ERES 2021"
+title: "Certificados da ERES 2021"
 subheadline: ""
 permalink: "/certificados/"
 header:
