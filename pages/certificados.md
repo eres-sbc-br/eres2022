@@ -7,4 +7,4 @@ header:
    image_fullwidth: banner_eres2021.png
 ---
 
-<p> Os certificados estão disponíveis para <em>download</em> no <a href="https://github.com/eres-sbc-br/eres2021/tree/main/certificados/" target="_blank">Github</a>. Acesse e baixe o seu certificado.</p>
+<p> Os certificados de participação, de apresentação de artigo, e de atuação como <em>chair</em> estão disponíveis para <em>download</em> no <a href="https://github.com/eres-sbc-br/eres2021/tree/main/certificados/" target="_blank">Github</a>. Acesse e baixe o(s) seu(s) certificado(s).</p>
