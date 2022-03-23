@@ -8,7 +8,7 @@ header:
 ---
 
 EM BREVE!
-<!--
+<!---
 <p> Todos os artigos passaram por um processo de avaliação <i>double-blind</i> em que os autores não conhecem os revisores e nem os revisores conhecem os autores dos artigos. </p>
 
 <p> As avaliações são realizadas pelos membros do Comitê Científico. Cada artigo foi revisado por pelo menos 2 revisores.</p>
