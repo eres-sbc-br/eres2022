@@ -14,7 +14,7 @@ header:
 
 <h1>Início</h1>
 
-<p>A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A quinta edição da escola, a <b>ERES 2021</b>, ocorrerá <b>totalmente online</b>, no período de 01 a 03 de dezembro de 2021.</p>
+<p>A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A sexta edição da escola, a <b>ERES 2022</b>, ocorrerá <b>presencialmente</b>, no período de 01 a 03 de dezembro de 2021.</p>
 
 <p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2021 é um espaço regional para que possam ser apresentados os resultados de pesquisas de graduação e pós-graduação e relatos de experiência na indústria. Além disso, possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES nas instituições de ensino superior da Região Sul do Brasil.</p>
 
