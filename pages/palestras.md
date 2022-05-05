@@ -1,13 +1,13 @@
 ﻿---
 layout: page-fullwidth
-title: "Palestras da ERES 2021"
+title: "Palestras da ERES 2022"
 subheadline: ""
 permalink: "/palestras/"
 header:
    image_fullwidth: banner_eres2021.png
 ---
-
-
+<div class="row t30" id="palestra_a">
+<!--
 <div class="row t30" id="palestra_a">
 <h2>Palestra A</h2>
 
@@ -127,3 +127,4 @@ header:
 		<p><b>Bio:</b> Professor do Quadro Principal e Coordenador de Pós-Graduação do Departamento de Informática da PUC-Rio. Coordena o Software Science Lab do Departamento de Informática, onde orienta pesquisas de mestrado e doutorado nas áreas de Engenharia de Software e Ciência de Dados. Atua como um dos coordenadores na iniciativa de transformação digital ExACTa PUC-Rio. Atuou mais de 10 anos na indústria de software, desempenhando as funções de desenvolvedor, gerente, consultor e diretor. Forneceu treinamentos e consultorias em Engenharia de Software para diversas empresas de dentro e de fora do país. É Senior Advisor e avaliador líder do programa nacional <a href="http://mps.br/" target="_blank">MPS.BR</a> e conduziu avaliações oficiais de processos em dezenas de empresas de software Brasileiras. Tem publicado regularmente nos principais periódicos e conferências da área de Engenharia de Software. É membro da ISERN (International Software Engineering Research Network), principal comunidade internacional de pesquisa em Engenharia de Software Experimental. Está ativo em colaborações internacionais de pesquisa. Mais informações (incluindo cópias gratuitas de todas as publicações científicas) podem ser encontradas em <a href="http://www.inf.puc-rio.br/~kalinowski" target="_blank">http://www.inf.puc-rio.br/~kalinowski</a>.</p>
     </div>
 </div>
+-->
