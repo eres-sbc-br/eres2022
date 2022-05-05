@@ -10,36 +10,36 @@ header:
 ---
 <hr>
 
-<p>A ERES 2021 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em Engenharia de Software, desenvolvidos por acadêmicos de graduação, pós-graduação ou profissionais da indústria. </p>
+<p>A ERES 2022 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em Engenharia de Software, desenvolvidos por acadêmicos de graduação, pós-graduação ou profissionais da indústria. </p>
 
-<p>Os artigos devem possuir no mínimo 6 páginas e no máximo 10 páginas (incluindo as respectivas referências) em língua portuguesa ou inglesa. Os artigos aceitos deverão obrigatoriamente serem apresentados em Sessão de forma Oral, caso contrário não farão parte dos anais da ERES 2021. </p>
+<p>Os artigos devem possuir no mínimo 6 páginas e no máximo 10 páginas (incluindo as respectivas referências) em língua portuguesa ou inglesa. Os artigos aceitos deverão obrigatoriamente serem apresentados em Sessão de forma Oral, caso contrário não farão parte dos anais da ERES 2022. </p>
 
-<p>Os anais da ERES 2021 serão publicados pelo Portal de Publicações e Conteúdo Digital da SBC (SOL), em que cada artigo receberá um DOI.</p>
+<p>Os anais da ERES 2022 serão publicados pelo Portal de Publicações e Conteúdo Digital da SBC (SOL), em que cada artigo receberá um DOI.</p>
 
 <p><strong>Todos</strong> os artigos devem ser submetidos, <strong>SEM A IDENTIFICAÇÃO DOS AUTORES E DE SUAS INSTITUIÇÕES (DOUBLE-BLIND)</strong>, respeitando o formato de artigos para eventos da SBC, cujo template (Word e Latex) encontra-se em <a href="https://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos" target="_blank">https://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos</a>.
 
 <p>As submissões serão avaliadas pelos respectivos Comitês de Programa com base na clareza da proposta, relevância do tema e qualidade da apresentação.  Os melhores trabalhos de cada categoria receberão certificado de menção honrosa. Cada autor de artigo inscrito no evento poderá validar no máximo 2 artigos, independente do fórum ou trilha. Os melhores trabalhos de cada categoria e a melhor apresentação de pôster receberão certificado de menção honrosa. Os melhores revisores de cada fórum ou trilha também receberão certificado de "Melhor Revisor".</p>
 
-<p>Pelo menos 1 (um) dos autores de cada artigo aceito deve se inscrever e apresentar o trabalho no evento de <strong>forma virtual</strong>. Além disso, os autores com artigos aceitos na ERES 2021, também deverão enviar obrigatoriamente um vídeo de apresentação do artigo. Neste vídeo é importante incluir além da apresentação dos slides, o vídeo do apresentador (câmera ligada) em um dos cantos da apresentação. O tempo de apresentação será definido posteriormente e as instruções serão enviadas para os autores. Este vídeo será utilizado como backup pela organização da ERES, caso aconteça algum problema técnico ou de conexão durante a apresentação.</p>
+<p>Pelo menos 1 (um) dos autores de cada artigo aceito deve se inscrever e apresentar o trabalho no evento de <strong>forma virtual</strong>. Além disso, os autores com artigos aceitos na ERES 2022, também deverão enviar obrigatoriamente um vídeo de apresentação do artigo. Neste vídeo é importante incluir além da apresentação dos slides, o vídeo do apresentador (câmera ligada) em um dos cantos da apresentação. O tempo de apresentação será definido posteriormente e as instruções serão enviadas para os autores. Este vídeo será utilizado como backup pela organização da ERES, caso aconteça algum problema técnico ou de conexão durante a apresentação.</p>
 
 <h5>Observações Importantes</h5>
 <ul>
   <li>As submissões que não estiverem finalizadas de acordo com os dados solicitados pelo JEMS e os arquivos correspondentes devidamente postados segundo as regras estabelecidas nesta chamada serão imediatamente rejeitadas;</li>
   <li>Os melhores artigos do Fórum de Graduação poderão ser convidados para submeter uma versão estendida para uma edição especial da Revista Eletrônica de Iniciação Científica em Computação (REIC) da SBC;</li>
   <li>Os melhores artigos do Fórum de Pós-Graduação poderão ser convidados para submeter uma versão estendida para o Journal of Software Engineering Research and Development (JSERD) da SBC;</li>
-  <li>Os melhores revisores receberão um certificado de "Melhor Revisor da ERES 2021' como forma de reconhecimento por sua generosidade e dedicação em revisar voluntariamente os trabalhos submetidos ao ERES 2021.</li>
+  <li>Os melhores revisores receberão um certificado de "Melhor Revisor da ERES 2022' como forma de reconhecimento por sua generosidade e dedicação em revisar voluntariamente os trabalhos submetidos ao ERES 2021.</li>
   <li>Incentiva-se que os artigos da Trilha da Indústria tenham autores filiados à empresas, entidades governamentais ou associações que tem relação com o trabalho apresentado. Neste caso, as informações de filiação devem estar explícitas no cadastro dos autores no JEMS.</li>
 </ul>
 
 <h2>Link para Submissão</h2>
-<p>A submissão deve ser feita pela Plataforma JEMS, disponível no seguinte link: <a href="https://jems.sbc.org.br/eres2021" target="_blank">https://jems.sbc.org.br/eres2021</a>.</p>
+<p>A submissão deve ser feita pela Plataforma JEMS, disponível no seguinte link: <a href="https://jems.sbc.org.br/eres2021" target="_blank">https://jems.sbc.org.br/eres2022</a>.</p>
 
 <h2>Datas Importantes</h2>
 <ul>
-  <li><strong>Submissão de artigos:</strong> <strike>18 de outubro de 2021</strike> <strong>28 de outubro de 2021</strong> até as 23h:55m (horário de Brasília)</li>
-  <li><strong>Notificação aos autores:</strong><strike> 10 de novembro de 2021</strike> <strong> 22 de novembro de 2021</strong></li>
-  <li><strong>Envio da versão final:</strong><strike> 15 de novembro de 2021</strike> <strong> 25 de novembro de 2021</strong></li>
-  <li><strong>Envio do vídeo de apresentação:</strong> 28 de novembro de 2021</li>
+  <li><strong>Submissão de artigos:</strong> <strike>18 de outubro de 2022</strike> <strong>28 de outubro de 2022</strong> até as 23h:55m (horário de Brasília)</li>
+  <li><strong>Notificação aos autores:</strong><strike> 10 de novembro de 2022</strike> <strong> 22 de novembro de 2022</strong></li>
+  <li><strong>Envio da versão final:</strong><strike> 15 de novembro de 2022</strike> <strong> 25 de novembro de 2022</strong></li>
+  <li><strong>Envio do vídeo de apresentação:</strong> 28 de novembro de 2022</li>
 </ul>
 <!-- strike p/ riscar -->
 
