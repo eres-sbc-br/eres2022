@@ -126,4 +126,4 @@ header:
 </ul>
 
 
-<p>OBS: Sujeito à alterações.</p>
+<p><strong>OBS</strong>: Sujeito à alterações.</p>
