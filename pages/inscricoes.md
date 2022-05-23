@@ -12,10 +12,10 @@ header:
 
 <h2>Valores das Inscrições</h2>
 
-<p>Os valores de inscrição para a ERES 2022 estão listados abaixo. Destacamos que estudantes e profissionais que não são associados à SBC podem se associar (ou renovar a associação) no processo de inscrição. Inscrever-se com associação à SBC é a opção mais vantajosa para os não associados à SBC, confira os benefícios de se associar à SBC.</p>
+<p>Os valores de inscrição para a ERES 2022 serão listados em breve. Destacamos que estudantes e profissionais que não são associados à SBC podem se associar (ou renovar a associação) no processo de inscrição. Inscrever-se com associação à SBC é a opção mais vantajosa para os não associados à SBC, confira os benefícios de se associar à SBC.</p>
 
 <p>Será exigido no momento da inscrição no sistema ECOS, para as categorias que necessitam de algum tipo comprovação, o upload de um documento que ateste a categoria escolhida. A verificação desse documento pode levar até 1 dia útil. Logo, sugerimos que para evitar algum transtorno não deixe para o último dia da faixa de inscrição. Somente após a validação pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição dele na ERES 2022.</p>
-
+<!--
 <table style="width:100%" border="1" align="center">
   <tr bgcolor="#FFFF00">
 	<th style="text-align:center" style="vertical-align:middle" width="20%" colspan="2">CATEGORIAS</th>
@@ -204,25 +204,29 @@ header:
      <td bgcolor="#FFFFFF">R$ 40,67</td>
   </tr>
 </table>
-
+-->
 
 <h2>Inscrições para Autores</h2>
 
-<p>Para artigos aprovados é necessário que pelo menos 1 (um) autor tenha uma inscrição paga em qualquer categoria. O autor deverá submeter comprovante de inscrição pelo JEMS até dia 25/Nov/2022. </p>
+<p>Para artigos aprovados é necessário que pelo menos 1 (um) autor tenha uma inscrição paga em qualquer categoria. O autor deverá submeter comprovante de inscrição pelo JEMS <!--até dia 25/Nov/2022-->. </p>
 
 <p><strong>Cada autor inscrito pode validar no máximo 2 (dois) artigos.</strong></p>
 
 
 <h2>Formas de Pagamentos</h2>
 
-<p>O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições ECOS da SBC.<strong>Porém os pagamentos por débito e boleto encerram-se dia 29/11/2022</strong>. Após essa data será possível pagar por cartão de crédito, nota de empenho e faturamento pelo sistema de inscrições.</p>
+<p>O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições ECOS da SBC.
+	
+	<!--<strong>Porém os pagamentos por débito e boleto encerram-se dia 29/11/2022</strong>. Após essa data será possível pagar por cartão de crédito, nota de empenho e faturamento pelo sistema de inscrições.-->
+</p>
 
 <p>Inscrições por Nota de Empenho e Faturamento: O participante deverá acessar o sistema ECOS e realizar a inscrição, selecionando a forma de pagamento "nota de empenho" ou "faturamento" e clicar em pagar, o sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.</p>
 
 <h2>Política de Cancelamento de Inscrições</h2>
 
+<!--
 <p>Até o dia <span style="color:red"><strong>24/Nov/2022</strong></span> pode-se fazer uma devolução de <span style="color:red"><strong>50%</strong></span> do valor pago pela inscrição na ERES 2022. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para <a href="mailto:faturamento@sbc.org.br">faturamento@sbc.org.br</a></p>
-
+-->
 
 <h2>Por que ser associado à SBC?</h2>
 
