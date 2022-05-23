@@ -10,20 +10,20 @@ header:
 <div class="row">
 	<div class="small-12 large-4 columns">
         Fórum de Graduação<br>
-        <img src="{{ site.urlimg }}will.jpg" alt=""><br>
-        <b>Williamson Silva</b><br>
+        <img src="https://eres-sbc-br.github.io/eres2021/images/silveira.gif" alt=""><br>
+        <b>Prof. Dr. Maicon Bernardino</b><br>
 		    <b>UNIPAMPA</b>
   </div>
   <div class="small-12 large-4 columns">
          Fórum de Pós-Graduação<br>
-        <img src="{{ site.urlimg }}aline.gif" alt=""><br>
-        <b>Aline M. M. M. Amaral </b><br>
+        <img src="https://eres-sbc-br.github.io/eres2021/images/edson.jpg" alt=""><br>
+        <b>Prof. Dr. Edson Oliveira Junior</b><br>
 		    <b>UEM</b>
   </div>
   <div class="small-12 large-4 columns">
         Trilha da Indústria<br>
         <img src="{{ site.urlimg }}pablo.jpg" alt=""><br>
-        <b>Pablo Schoeffel</b><br>
+        <b>Prof. Dr. Pablo Schoeffel</b><br>
 		    <b>UDESC - Alto Vale</b>
   </div>  
 </div>
