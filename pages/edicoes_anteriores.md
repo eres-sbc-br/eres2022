@@ -8,6 +8,15 @@ header:
 ---
 
 <div class="medium-8 columns t30">      
+	<b>ERES 2021</b>
+	<a href="http://eres.sbc.org.br/2021" target="_blank">
+		<img src="https://eres-sbc-br.github.io/eres2021/images//banner_eres2021.png" alt="">
+	</a>
+</div>
+
+<br>
+
+<div class="medium-8 columns t30">      
 	<b>Maringá-PR 2020</b>
 	<a href="http://eres.sbc.org.br/2020" target="_blank">
 		<img src="{{ site.urlimg }}banner_eres2020.png" alt="">
