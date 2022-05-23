@@ -80,10 +80,10 @@
   url: "/contato/"
   side: left
 
-- title: "Certificados"
-  url: "/certificados/"
-  side: left
+#- title: "Certificados"
+#  url: "/certificados/"
+#  side: left
 
-- title: "Downloads"
-  url: "/downloads/"
-  side: left
+#- title: "Downloads"
+#  url: "/downloads/"
+#  side: left
