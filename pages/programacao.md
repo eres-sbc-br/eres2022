@@ -7,4 +7,4 @@ header:
    image_fullwidth: banner_eres2021.png
 ---
 
-<h1> EM BREVE! </h1>
+<center><img src="https://eres-sbc-br.github.io/eres2022/images/programacao-eres-2022.png" alt="Programação ERES 2022"></center>
