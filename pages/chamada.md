@@ -89,7 +89,7 @@ header:
 </ul>
 
 
-<h5>Organização</h5>
+<h2>Organização</h2>
 
 <p><strong>Coordenação Geral da ERES 2022:</strong></p>
 <p>Profa. Luciana Pereira de Araújo Kohler – FURB</p>
