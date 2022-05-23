@@ -124,3 +124,6 @@ header:
 <li> Thais Christina Webber dos Santos - University of St. Andrews, UK </li>
 <li> Walter Nakamura - Federal University of Amazonas (UFAM)</li>
 </ul>
+
+
+<p>OBS: Sujeito à alterações.</p>
