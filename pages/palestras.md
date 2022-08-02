@@ -40,6 +40,25 @@ header:
 </div>
 
 
+
+<div class="medium-16 columns">
+      <img src="https://eres-sbc-br.github.io/eres2022/images/img-christina.png" alt="" align="center"><br>
+      <b>Christina von Flach Garcia Chavez</b><br>		
+  <a href="http://lattes.cnpq.br/1827829018668226" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Software Livre: pré-requisito para a ciência aberta </h4>		
+  <!--<b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
+  <b>Hora:</b> 19:00 - 20:15 <br>-->
+  <br>
+  <p><b>Resumo:</b> Em breve.</p>
+  <br>
+  <p><b>Bio:</b> Em breve.</p>
+  </div>
+</div>
+
+
+
+
+
 <!--
 <div class="row t30" id="minitalk_1">
 <h2>Mini-talk da Indústria 1 : Zallpy Digital</h2>
