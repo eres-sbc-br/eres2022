@@ -12,7 +12,7 @@ header:
 <!--<h2>Palestra A</h2>-->
 
 <div class="medium-16 columns">
-      <img src="[{{ site.urlimg }}ulisses.jpg](https://eres-sbc-br.github.io/eres2022/images/img-raul.png)" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2022/images/img-raul.png" alt="" align="center"><br>
       <b>Raul Sidnei Wazlawick</b><br>		
   <a href="http://lattes.cnpq.br/7541399131195077" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</h4><br>		
