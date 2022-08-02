@@ -25,6 +25,7 @@ header:
   </div>
 </div>
 
+<br>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-monalessa.png" alt="" align="center"><br>
       <b>Monalessa Perini Barcellos</b><br>		
@@ -39,8 +40,7 @@ header:
   </div>
 </div>
 
-
-
+<br>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-christina.png" alt="" align="center"><br>
       <b>Christina von Flach Garcia Chavez</b><br>		
