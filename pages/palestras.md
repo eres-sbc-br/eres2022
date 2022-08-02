@@ -24,7 +24,7 @@ header:
   <p><b>Bio:</b> Professor Titular da UFSC em Engenharia de Software. Coordenador Geral do Laboratório Bridge. Bacharel e Mestre em Ciência da Computação e Doutor em Engenharia (1993). Vencedor do Prêmio Francisco Romeu Landi - Pesquisador Inovador no Setor Público (2021). Menção honrosa no Prêmio Luiz Fernando Gomes Soares – SBC (2021). Finalista do 59º Prêmio Jabuti (Excelência em Produção Literária Nacional) com o livro História da Computação (2017). Professor Honoris Causa pelo Centro de Instrução de Guerra Eletrônica do Exército Brasileiro (2013). Autor de cinco livros e mais de uma centena de artigos científicos.</p>
   </div>
 
-<br>
+<br><br>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-monalessa.png" alt="" align="center"><br>
       <b>Monalessa Perini Barcellos</b><br>		
@@ -38,7 +38,7 @@ header:
   <p><b>Bio:</b> Professora do Departamento de Informática da Universidade Federal do Espírito Santo, onde é membro sênior do Núcleo de Estudos em Modelagem Conceitual e Ontologias (NEMO) e coordenadora do Laboratório de Práticas em Engenharia de Software “Ricardo de Almeida Falbo” (LabES). É doutora em Engenharia de Sistemas e Computação pela COPPE/UFRJ. Atua como membro do comitê de programa de conferências nacionais e internacionais relevantes em sua área de atuação (ESEM, EASE, PROFES,  SBES, CIbSE, SBQS, ONTOBRAS, ACM SAC, entre outras), tendo sido coordenadora do comitê de programa em várias delas. Atualmente, é membro do comitê diretivo do SBQS, evento mais importante na área de qualidade de software no Brasil, do CIbSE, evento de referência em Engenharia de Software na Ibero-América, e do ONTOBRAS, evento de maior expressão para a pesquisa e aplicações em ontologias no Brasil. Também atua como revisora de diversos periódicos (Applied Ontology Journal, Empirical Software Engineering Journal, Journal of Software Evolution and Process, Journal of Systems and Software, Information and Software Technology, entre outros). Seus principais interesses de pesquisa incluem Engenharia de Software, Engenharia de Ontologias e Ontologias aplicadas à Engenharia de Software. Tópicos nos quais ela tem trabalhado nos últimos anos incluem, entre outros: Processo de Software, Qualidade de Software, Medição de Software, Gerenciamento de Projetos de Software, Desenvolvimento Ágil, Engenharia de Software Contínua, Ontologias aplicadas à Interação Humano-Computador, Interoperabilidade Semântica e Engenharia de Ontologias. Outras informações em: <a href="http://www.inf.ufes.br/~monalessa/">http://www.inf.ufes.br/~monalessa/</a>.</p>
   </div>
 
-<br>
+<br><br>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-christina.png" alt="" align="center"><br>
       <b>Christina von Flach Garcia Chavez</b><br>		
@@ -53,7 +53,7 @@ header:
   </div>
 
 	
-	<br>
+<br><br>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-italo.png" alt="" align="center"><br>
       <b>Ítalo Santos - Gerente de Engenharia/SRE na Loggi</b><br>		
@@ -67,7 +67,7 @@ header:
   <p><b>Bio:</b> Gerente Senior de Engenharia na Loggi e lidera a tribo de plataforma que contempla os times responsáveis pela construção da tecnologia base para todos os times de Engenharia e Dados da companhia. Com mais de 10 anos de experiência, é apaixonado por problemas e sistemas em produção.</p>
   </div>
 	
-		<br>
+<br><br>
 <div class="medium-16 columns">
   <!--    <img src="https://eres-sbc-br.github.io/eres2022/images/img-italo.png" alt="" align="center"><br> -->
       <b>José Carlos Maldonado (Loggi)</b><br>	
