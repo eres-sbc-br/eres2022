@@ -7,24 +7,26 @@ header:
    image_fullwidth: banner_eres2021.png
 ---
 <h2>Palestras Confirmadas:</h2>
-<!--
+
 <div class="row t30" id="palestra_a">
-<h2>Palestra A</h2>
+<!--<h2>Palestra A</h2>-->
 
 <div class="medium-16 columns">
-      <img src="{{ site.urlimg }}ulisses.jpg" alt="" align="center"><br>
-      <b>Ulisses Telemaco Neto (OWSE Ltda)</b><br>		
-  <a href="http://lattes.cnpq.br/6570508446384648" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: AgileKIP Process Automation Platform: uma agenda acadêmica que virou empresa!</h4><br>		
-  <b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
-  <b>Hora:</b> 19:00 - 20:15 <br>
+      <img src="[{{ site.urlimg }}ulisses.jpg](https://eres-sbc-br.github.io/eres2022/images/img-raul.png)" alt="" align="center"><br>
+      <b>Raul Sidnei Wazlawick</b><br>		
+  <a href="http://lattes.cnpq.br/7541399131195077" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</h4><br>		
+  <!--<b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
+  <b>Hora:</b> 19:00 - 20:15 <br>-->
   <br>
-  <p><b>Resumo:</b> A ideia da palestra é explorar em detalhes a nossa solução entitulada AgileKIP PAP (Process Automation Platform) explicando os seus três pilares que são: (a) uma arquitetura de referência, (b) um gerador de código, e (c) um processo de desenvolvimento da empresa que foi adaptado para esse contexto (SCRUB4PA - SCRUB for Process Automation). A plataforma surgiu de uma agenda acadêmica. A partir de uma parceria indústria/academia, conseguimos desenvolver a solução. Temos alguns processos já implementados e em produção e também criamos uma empresa com foco exclusivo em oferecer esse serviço. O site oficial da documentação da plataforma é <a href="https://agilekip.github.io/pap-documentation/" target="_blank">https://agilekip.github.io/pap-documentation/</a>.</p>
+  <p><b>Resumo:</b> Nesta palestra apresentamos um case de sucesso em engenharia de software, o Laboratório Bridge da UFSC, vencedor do Prêmio Labutantes - Melhor Laboratório de Inovação da Região Sul, e responsável por vários projetos de informatização do Ministério da Saúde desde 2013. Em especial, apresentaremos algumas das práticas de desenvolvimento ágil que permitiram que essa equipe de mais de 160 pessoas esteja criando produtos fabulosos para a gestão da saúde pública no Brasil, impactando mais de 650 mil usuários e 150 milhões de habitantes. <a href="www.bridge.ufsc.br" target="_blank">www.bridge.ufsc.br</a>.</p>
   <br><br>
-  <p><b>Bio:</b> Pós-doutorando na University of Wasterloo (Canadá) e é chefe de tecnologia da OWSE Ltda (empresa que ajudou a fudar). Com mais de 20 anos de experiência trabalhando como arquiteto de software, Ulisses é também PhD em Engenharia de Software pela Universidade Federal do Rio de Janeiro, e seus interesses de pesquisa incluem Knowledge Intensive Processes (KIP), Agile Software Development, Agility Assessment e Process-Aware Applications. Ele está atualmente trabalhando na agenda de pesquisa AgileKIP (<a href="www.agilekip.com" target="_blank">www.agilekip.com</a>) com o objetivo de desenvolver uma ferramenta para geração código para Process-Aware Information Systems.</p>
+  <p><b>Bio:</b> Professor Titular da UFSC em Engenharia de Software. Coordenador Geral do Laboratório Bridge. Bacharel e Mestre em Ciência da Computação e Doutor em Engenharia (1993). Vencedor do Prêmio Francisco Romeu Landi - Pesquisador Inovador no Setor Público (2021). Menção honrosa no Prêmio Luiz Fernando Gomes Soares – SBC (2021). Finalista do 59º Prêmio Jabuti (Excelência em Produção Literária Nacional) com o livro História da Computação (2017). Professor Honoris Causa pelo Centro de Instrução de Guerra Eletrônica do Exército Brasileiro (2013). Autor de cinco livros e mais de uma centena de artigos científicos.</p>
   </div>
 </div>
 
+
+<!--
 <div class="row t30" id="minitalk_1">
 <h2>Mini-talk da Indústria 1 : Zallpy Digital</h2>
 
