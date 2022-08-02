@@ -6,7 +6,7 @@ permalink: "/palestras/"
 header:
    image_fullwidth: banner_eres2021.png
 ---
-<h2>EM BREVE!</h2>
+<h2>Palestras Confirmadas:</h2>
 <!--
 <div class="row t30" id="palestra_a">
 <h2>Palestra A</h2>
