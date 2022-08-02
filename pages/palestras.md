@@ -66,6 +66,27 @@ header:
   <br>
   <p><b>Bio:</b> Gerente Senior de Engenharia na Loggi e lidera a tribo de plataforma que contempla os times responsáveis pela construção da tecnologia base para todos os times de Engenharia e Dados da companhia. Com mais de 10 anos de experiência, é apaixonado por problemas e sistemas em produção.</p>
   </div>
+	
+		<br>
+<div class="medium-16 columns">
+  <!--    <img src="https://eres-sbc-br.github.io/eres2022/images/img-italo.png" alt="" align="center"><br> -->
+      <b>José Carlos Maldonado (Loggi)</b><br>	
+	<b>Raul Sidney Waslawick (UFSC)</b><br>
+	<b>Bruno Tiergarten (BLUSOFT/ACATE)</b><br>
+
+  <h4>Debate: Relação Academia Empresa: um Ecossistema para Formação de Recursos Humanos, Pesquisa, Desenvolvimento e Inovação</h4>		
+  <!--<b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
+  <b>Hora:</b> 19:00 - 20:15 <br>-->
+  <br>
+	<!--
+  <p><b>Resumo:</b> Apesar do crescimento expressivo no Brasil, o setor de e-commerce ainda tem muito a melhorar quando comparado a grandes economias mundiais.  A Loggi, criada em 2013, é uma das empresas unicórnios no Brasil, com soluções inovadoras e relevantes no setor de logística, com forte base em tecnologias digitais. A Loggi tem se posicionado, de maneira inédita, para revolucionar o setor logístico no Brasil facilitando o crescimento de um novo comércio, com economia, agilidade e confiabilidade.   Nesta palestra daremos uma visão geral de SRE (Site Reliability Engineering) na Loggi, conceitos e  evolução da disciplina de SRE, exemplos de atividades de monitoramento e de métricas para apoiar o oferecimento de soluções de software e serviços de alta qualidade de forma a atender aos requisitos de qualidade no domínio de logística. Falaremos sobre as lições aprendidas e desafios. Para saber mais, acesse: <a href="loggi.com/venha">loggi.com/venha</a>.</p>
+  <br>
+  <p><b>Bio:</b> Gerente Senior de Engenharia na Loggi e lidera a tribo de plataforma que contempla os times responsáveis pela construção da tecnologia base para todos os times de Engenharia e Dados da companhia. Com mais de 10 anos de experiência, é apaixonado por problemas e sistemas em produção.</p>-->
+  </div>
+	
+	
+	
+	
 
 <!--
 <div class="row t30" id="minitalk_1">
