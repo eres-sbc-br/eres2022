@@ -70,6 +70,7 @@ header:
 <p>&nbsp;</p>
 <div class="medium-16 columns">
 	<h4>Debate: Relação Academia Empresa: um Ecossistema para Formação de Recursos Humanos, Pesquisa, Desenvolvimento e Inovação</h4>
+	<br>
   <!--    <img src="https://eres-sbc-br.github.io/eres2022/images/img-italo.png" alt="" align="center"><br> -->
       <b>José Carlos Maldonado (Loggi)</b><br>	
 	<b>Raul Sidney Waslawick (UFSC)</b><br>
