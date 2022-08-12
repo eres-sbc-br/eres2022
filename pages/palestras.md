@@ -101,10 +101,7 @@ header:
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
   <b>Hora:</b> 20:30 - 22:00 <br>
   <br>
-	<!--
-  <p><b>Resumo:</b> Apesar do crescimento expressivo no Brasil, o setor de e-commerce ainda tem muito a melhorar quando comparado a grandes economias mundiais.  A Loggi, criada em 2013, é uma das empresas unicórnios no Brasil, com soluções inovadoras e relevantes no setor de logística, com forte base em tecnologias digitais. A Loggi tem se posicionado, de maneira inédita, para revolucionar o setor logístico no Brasil facilitando o crescimento de um novo comércio, com economia, agilidade e confiabilidade. Nesta palestra daremos uma visão geral de SRE (Site Reliability Engineering) na Loggi, conceitos e  evolução da disciplina de SRE, exemplos de atividades de monitoramento e de métricas para apoiar o oferecimento de soluções de software e serviços de alta qualidade de forma a atender aos requisitos de qualidade no domínio de logística. Falaremos sobre as lições aprendidas e desafios.</p>
-  <br>
-  <p><b>Bio:</b> Gerente Senior de Engenharia na Loggi e lidera a tribo de plataforma que contempla os times responsáveis pela construção da tecnologia base para todos os times de Engenharia e Dados da companhia. Com mais de 10 anos de experiência, é apaixonado por problemas e sistemas em produção.</p>-->
+
   </div>
 	
 	
