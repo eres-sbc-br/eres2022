@@ -88,9 +88,9 @@ header:
 
 
 
-<p>&nbsp;</p>
+<h2>Painel</h2>
 <div class="medium-16 columns">
-	<h4>Painel: Relação Academia Empresa: um Ecossistema para Formação de Recursos Humanos, Pesquisa, Desenvolvimento e Inovação</h4>
+	<h4>Título: Relação Academia Empresa: um Ecossistema para Formação de Recursos Humanos, Pesquisa, Desenvolvimento e Inovação</h4>
 	<br>
   <!--    <img src="https://eres-sbc-br.github.io/eres2022/images/img-italo.png" alt="" align="center"><br> -->
       <b>José Carlos Maldonado (ICMC-USP)</b><br>	
