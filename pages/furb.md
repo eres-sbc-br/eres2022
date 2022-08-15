@@ -10,18 +10,14 @@ header:
 ---
 <hr>
 
-<p>A <strong>FURB</strong> é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A sexta edição da escola, a ERES 2022, ocorrerá de forma <strong>PRESENCIAL</strong>, no período de 18 a 20 de outubro de 2022 em Blumenau (SC) durante a realização da Oktoberfest, maior festa germânica das Américas. Blumenau é reconhecida nacionalmente por ser um Polo de Desenvolvimento de Software. Esta edição está sendo organizada pela Universidade Regional de Blumenau (FURB) em parceria com o Centro Universitário SENAI Blumenau </p>
+<p>A <strong>FURB</strong> é feita de pessoas. Cada uma delas - com a sua característica - acreditou e fez do sonho uma realidade que hoje encanta pela grandiosidade. Um universo de conhecimento que extrapola os limites das salas de aula e laboratórios e interfere diretamente em muitos lares, empresas e cidades.</p>
 
-<h5>Datas Importante - <strong>NOVAS DATAS</strong></h5>
-<ul>
-  <li><strong>Submissão de Abstract</strong>: 05 de setembro de 2022 até as 23h:55m (horário de Brasília).</li>
-  <li><strong>Submissão de artigos</strong>: 12 de setembro de 2022 até as 23h:55m (horário de Brasília).</li>
-  <li><strong>Notificação aos autores</strong>: 30 de setembro de 2022.</li>
-  <li><strong>Envio da versão final</strong>: 07 de outubro de 2022.</li>
-</ul>
+<p>É a primeira faculdade do interior do estado de Santa Catarina e foi criada em 1964, como fruto de um movimento comunitário, para tornar mais abrangente o acesso ao ensino superior. Objetivo que a Universidade Regional de Blumenau continua realizando ao longo da sua história e alcançado por mais de 40 mil profissionais graduados pela FURB.</p>
+ 
+<p>Em 13 de fevereiro de 1986, pela Portaria Ministerial nº 117, o Ensino Superior, mantido pela FURB, é reconhecido e credenciado pelo Ministério da Educação como Universidade.</p>
 
-<p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2022 é um espaço para que possam ser apresentados os resultados de pesquisas de graduação e pós-graduação e relatos de experiência na indústria. Além disso, a escola possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES nas instituições de ensino superior, especialmente da Região Sul do Brasil</p>
+<p>A partir de março de 1995, pela Lei Complementar Municipal nº 80, a Universidade Regional de Blumenau figura como Instituição de Ensino Superior criada e mantida pela Fundação Universidade Regional de Blumenau - FURB, incluída como órgão autônomo na estrutura administrativa do Poder Executivo Municipal, uma instituição oficial de direito público.</p>
+ 
+<p>Desde 19 de março de 2010, por meio da Lei Complementar Municipal nº 743, a FURB é uma autarquia municipal de regime especial, possuindo plena autonomia didático-científica, administrativa e de gestão financeira e patrimonial, conforme disciplina seu Estatuto, nos termos do art. 207 da Constituição Federal.</p>
 
-<p>A realização da ERES 2022 pretende oferecer aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de Engenharia de Software por meio da apresentação de palestras ministradas por pesquisadores e profissionais renomados da indústria. Dessa forma, este evento irá possibilitar a divulgação de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando, assim, o gosto pela pesquisa científica e prática de ES aos participantes.</p>
-
-<p>Esperamos vocês na ERES 2022!</p>
+<p>Saiba mais em: <a href="https://www.furb.br/web/1488/institucional/a-furb/apresentacao">www.furb.br</a>.
