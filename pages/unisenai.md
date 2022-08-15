@@ -10,18 +10,14 @@ header:
 ---
 <hr>
 
-<p>A <strong>UniSENAI</strong> é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A sexta edição da escola, a ERES 2022, ocorrerá de forma <strong>PRESENCIAL</strong>, no período de 18 a 20 de outubro de 2022 em Blumenau (SC) durante a realização da Oktoberfest, maior festa germânica das Américas. Blumenau é reconhecida nacionalmente por ser um Polo de Desenvolvimento de Software. Esta edição está sendo organizada pela Universidade Regional de Blumenau (FURB) em parceria com o Centro Universitário SENAI Blumenau </p>
+<p>O <strong>Ensino Superior do SENAI/SC</strong> visa oferecer à comunidade uma formação de alto nível, explorando metodologias ativas em seu processo de ensino e de aprendizagem. O foco está no desenvolvimento de projetos sociais para atender as necessidades da comunidade, suportar inovações de naturezas variadas e solucionar problemas complexos da indústria. Tudo isso sustentado na vivência prática em projetos de Pesquisa, Desenvolvimento e Inovação. Os cursos contam com a parceria de empresas e dos Institutos SENAI (de Inovação e de Tecnologia), além de uma moderna e diferenciada infraestrutura de laboratórios e de espaços de aprendizagem.</p>
 
-<h5>Datas Importante - <strong>NOVAS DATAS</strong></h5>
-<ul>
-  <li><strong>Submissão de Abstract</strong>: 05 de setembro de 2022 até as 23h:55m (horário de Brasília).</li>
-  <li><strong>Submissão de artigos</strong>: 12 de setembro de 2022 até as 23h:55m (horário de Brasília).</li>
-  <li><strong>Notificação aos autores</strong>: 30 de setembro de 2022.</li>
-  <li><strong>Envio da versão final</strong>: 07 de outubro de 2022.</li>
-</ul>
+<p>O Serviço Nacional de Aprendizagem Industrial de Santa Catarina, o SENAI/SC, é a instituição Mantenedora do Ensino Superior SENAI, formado por um Centro Universitário (Blumenau), e quatro Faculdades (Chapecó, Florianópolis, Jaraguá do Sul e Joinville). As instituições de Ensino Superior possuem nível de excelência credenciado pelo INEP/MEC desde 2000. Além dos cursos de graduação tecnológica e engenharias, o Ensino Superior também possui diversos cursos de pós-graduação lato sensu (Especializações, Master in Business Administration e Master in Business Innovation) e extensões profissionais.</p>
+ 
+<p>O Ensino Superior essencialmente praticado até 2018 foi o da oferta de cursos de Tecnólogo em várias áreas industriais, além de cursos de especialização em gestão voltados para vários setores industriais, incluindo o movimento 4.0. A partir de 2018, foi iniciada a oferta de cursos de Engenharia, marcando assim uma segunda fase no Ensino Superior SENAI/SC.</p>
 
-<p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2022 é um espaço para que possam ser apresentados os resultados de pesquisas de graduação e pós-graduação e relatos de experiência na indústria. Além disso, a escola possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES nas instituições de ensino superior, especialmente da Região Sul do Brasil</p>
+<p>A partir de março de 1995, pela Lei Complementar Municipal nº 80, a Universidade Regional de Blumenau figura como Instituição de Ensino Superior criada e mantida pela Fundação Universidade Regional de Blumenau - FURB, incluída como órgão autônomo na estrutura administrativa do Poder Executivo Municipal, uma instituição oficial de direito público.</p>
+ 
+<p>Estamos na terceira fase, com a criação de um Ensino Superior integrado para ofertar cursos de graduação, pós-graduação e extensão que impactem positivamente todo o estado de Santa Catarina. Iniciando pela indústria e estendendo-se até serviços (de apoio à indústria) e a todos os atores relevantes dos ecossistemas industriais que formam o estado de SC.</p>
 
-<p>A realização da ERES 2022 pretende oferecer aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de Engenharia de Software por meio da apresentação de palestras ministradas por pesquisadores e profissionais renomados da indústria. Dessa forma, este evento irá possibilitar a divulgação de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando, assim, o gosto pela pesquisa científica e prática de ES aos participantes.</p>
-
-<p>Esperamos vocês na ERES 2022!</p>
+<p>Saiba mais em: <a href="https://faculdadesenaisc.com.br/sobre_nos/">UniSENAI</a>.
