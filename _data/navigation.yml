@@ -61,7 +61,7 @@
 
 
 - title: "Local do Evento"
-  url: "/local_evento/"
+  url: ""
   side: left
   dropdown:
   - title: "FURB"
