@@ -60,20 +60,20 @@
 #    url: "/voluntarios/"
 
 
-#- title: "Local do Evento"
-#  url: "/local_evento/"
-#  side: left
-#  dropdown:
-#  - title: "UEM"
-#    url: "/uem/"
-#  - title: "Como Chegar à ERES"
-#    url: "/como_chegar/"
-#  - title: "Hospedagem"
-#    url: "/hospedagem/"
-#  - title: "Refeições"
-#    url: "/refeicoes/"
-#  - title: "Sobre Maringá"
-#    url: "/maringa/"
+- title: "Local do Evento"
+  url: "/local_evento/"
+  side: left
+  dropdown:
+  - title: "FURB"
+    url: "/furb/"
+  - title: "UniSENAI"
+    url: "/unisenai/"
+  - title: "Como Chegar à ERES"
+    url: "/como_chegar/"
+  - title: "Hospedagem"
+    url: "/hospedagem/"
+  - title: "Sobre Blumenau"
+    url: "/blumenau/"
 
 
 - title: "Contato"
