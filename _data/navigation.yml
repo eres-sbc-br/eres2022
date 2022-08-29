@@ -21,21 +21,10 @@
   url: ""
   side: left
   dropdown:
-- title: "Palestras"
-  url: "/palestras/"
-- title: "Minicursos"
-  url: "/minicursos/"
-
-#- title: "Oficinas e Painel"
-#  url: ""
-#  side: left
-#  dropdown:
-#  - title: "Oficina Engenheiras de Software"
-#    url: "/oficina_engenheiras/"
-#  - title: "Oficina Ensino/Aprendizagem de Engenharia de Software"
-#    url: "/oficina_ensino/"
-#  - title: "Painel Currículo de Engenharia de Software"
-#    url: "/painel/"
+  - title: "Palestras"
+    url: "/palestras/"
+  - title: "Minicursos"
+    url: "/minicursos/"
 
 - title: "Inscrições"
   url: "/inscricoes/"
