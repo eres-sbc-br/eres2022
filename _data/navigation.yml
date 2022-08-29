@@ -21,11 +21,8 @@
 - title: "Palestras"
   url: "/palestras/"
   side: left
-#  dropdown:
-#  - title: "Palestras"
-#    url: "/palestras/"
-#  - title: "Minicursos"
-#    url: "/minicursos/"
+- title: "Minicursos"
+  url: "/minicursos/"
 
 #- title: "Oficinas e Painel"
 #  url: ""
