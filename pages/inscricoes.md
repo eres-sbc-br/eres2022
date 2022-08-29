@@ -19,7 +19,7 @@ header:
 <table style="width:100%" border="1" align="center">
   <tr bgcolor="#FFFF00">
 	<th style="text-align:center" style="vertical-align:middle" width="20%" colspan="2">CATEGORIAS</th>
-    <th width="5%">Até 05/09/2022</th>
+    <th width="5%">Até 09/09/2022</th>
     <th width="5%">Até 05/10/2022</th>
     <th width="5%">Até 20/10/2022</th>
   </tr>
