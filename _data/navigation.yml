@@ -17,11 +17,10 @@
   url: "/programacao/"
   side: left
 
-#- title: "Palestras e Minicursos"
-- title: "Palestras"
+- title: "Palestras e Minicursos"
   url: ""
   side: left
-  #  dropdown:
+  dropdown:
 - title: "Palestras"
   url: "/palestras/"
 - title: "Minicursos"
