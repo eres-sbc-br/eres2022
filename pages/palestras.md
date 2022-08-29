@@ -93,7 +93,7 @@ header:
 	<h4>Título: Relação Academia Empresa: um Ecossistema para Formação de Recursos Humanos, Pesquisa, Desenvolvimento e Inovação</h4>
 	<br>
   <!--    <img src="https://eres-sbc-br.github.io/eres2022/images/img-italo.png" alt="" align="center"><br> -->
-      <b>José Carlos Maldonado (ICMC-USP)</b><br>	
+      <!-- <b>José Carlos Maldonado (ICMC-USP)</b><br>-->	
 	<b>Raul Sidney Waslawick (UFSC)</b><br>
 	<b>Bruno Tiergarten (BLUSOFT/ACATE)</b><br>
 
