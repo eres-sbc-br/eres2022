@@ -41,7 +41,7 @@ header:
 	
 <h2>Minicurso 3</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-victor.png" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-veber.png" alt="" align="center"><br>
       <b>Filipe Guilherme Veber</b><br>				
   <h4>Título: Flutter: O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</h4>		
   <b>Data:</b> 19/Out/2022 (Quarta-Feira) <br>
