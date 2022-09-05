@@ -1,106 +1,90 @@
 ---
 layout: page-fullwidth
-title: "Palestras da ERES 2022"
+title: "Minicursos da ERES 2022"
 subheadline: ""
-permalink: "/palestras/"
+permalink: "/minicursos/"
 header:
    image_fullwidth: banner_eres2021.png
 ---
 
 <div class="row t30" id="palestra_a">
-<h2>Palestra 1</h2>
-<div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/img-christina.png" alt="" align="center"><br>
-      <b>Christina von Flach Garcia Chavez</b><br>		
-  <a href="http://lattes.cnpq.br/1827829018668226" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Software Livre: pré-requisito para a ciência aberta </h4>		
-  <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
-  <b>Hora:</b> 18:30 - 20:00 <br>
-  <br>
-  <p><b>Resumo:</b> Em breve.</p>
-  <br>
-  <p><b>Bio:</b> Em breve.</p>
-</div>	
-<p>&nbsp;</p>
 	
-	
-<h2>Palestra 2</h2>
+<h2>Minicurso 1</h2>
 <div class="medium-16 columns">
-      <!--<img src="https://eres-sbc-br.github.io/eres2022/images/img-christina.png" alt="" align="center"><br>-->
-      <b>Em breve</b><br>		
-  <!--<a href="http://lattes.cnpq.br/1827829018668226" target="_blank">Currículo Lattes</a><br>	-->	
-  <h4>Título: Em breve </h4>		
+      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-victor.png" alt="" align="center"><br>
+      <b>Victor Bona</b><br>		
+  <a href="http://lattes.cnpq.br/7891605672847811" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Sistemas Distribuídos</h4>		
   <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
-  <b>Hora:</b> 20:30 - 22:00 <br>
+  <b>Hora:</b> 14:00 - 17:30 <br>
   <br>
-  <p><b>Resumo:</b> Em breve.</p>
+  <p><b>Resumo:</b>Sistemas distribuídos vêm ganhando cada vez mais espaço na Engenharia de Software dês de os anos 80, chegamos cada vez mais perto do limite que uma única máquina pode escalar sua performance, nos obrigando a juntarmos mais máquinas visando aumentar o poder de processamento, e em um mundo cada vez mais competitivo, com mais dados e cada vez mais rápido. Sistemas distribuídos vieram para ficar, continuarão sua tendencia e irão dominar os mercados de trabalho em Eng. de Software, neste workshop, você irá aprender sobre o que são SDs, como funcionam, como melhor trabalhar com essa tecnologia e como implementar na prática alguns exemplos comumente utilizados nas grandes empresas.</p>
   <br>
-  <p><b>Bio:</b> Em breve.</p>
+  <p><b>Bio:</b>Victor Bona é Engenheiro de Software na Amazon, atua arquitetando e desenvolvendo soluções de software para processamento de alto volume de dados, arquitetura de sistemas e infraestrutura em cloud e desenvolvimento de sistemas críticos para suportar o crescimento do business da Amazon no Brazil. Cursa bacharelado em Ciências da computação na FURB, bolsista no Laboratório de desenvolvimento e transferência de tecnologia da FURB. Arquiteto certificado de soluções Cloud AWS.</p>
 </div>	
 <p>&nbsp;</p>
 
-<h2>Palestra 3</h2>
+<h2>Minicurso 2</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/img-monalessa.png" alt="" align="center"><br>
-      <b>Monalessa Perini Barcellos</b><br>		
-  <a href="http://lattes.cnpq.br/8826584877205264" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Engenharia de Software Contínua: Visão Geral, Desafios e Perspectivas </h4>		
-  <b>Data:</b> 19/Out/2022 (Quarta-Feira) <br>
-  <b>Hora:</b> 18:30 - 20:00 <br>
+      <img src="https://eres-sbc-br.github.io/eres2022/images/em-breve.png" alt="" align="center"><br>
+      <b></b><br>		
+  <a href="http://lattes.cnpq.br/embreve" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Em breve</h4>		
+  <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
+  <b>Hora:</b> 14:00 - 17:30 <br>
   <br>
-  <p><b>Resumo:</b> As características e exigências da sociedade moderna e digital transformaram o cenário de desenvolvimento de software e apresentaram novos desafios aos desenvolvedores e engenheiros de software, tais como a necessidade de entregas mais rápidas, mudanças frequentes nos requisitos, menor tolerância a falhas e a necessidade de adaptação aos modelos de negócios contemporâneos.  A adoção de práticas ágeis tem permitido às organizações encurtar os ciclos de desenvolvimento e aumentar a colaboração dos clientes. Entretanto, isso não tem sido suficiente. Ações contínuas de planejamento, construção, operação, implantação e avaliação são necessárias para produzir produtos que atendam às necessidades e comportamentos dos clientes, tomar decisões bem-informadas e identificar oportunidades de negócio. Assim, organizações deveriam evoluir para um desenvolvimento contínuo e orientado por dados, em uma abordagem contínua de engenharia de software. A necessidade de continuidade no desenvolvimento de software pode ser percebida, por exemplo, na ampla adoção de iniciativas como Integração Contínua e DevOps. Mas, há vários outros aspectos que também precisam ser considerados para que se alcance continuidade no desenvolvimento de software como um todo. A Engenharia de Software Contínua consiste em um conjunto de práticas e ferramentas que suportam uma visão holística do desenvolvimento de software com o objetivo de torná-lo mais ágil, iterativo, integrado, contínuo e alinhado ao negócio. É um tópico recente da Engenharia de Software, portanto, há ainda muitas questões em aberto. Nesta palestra será apresentado um panorama geral da Engenharia de Software Contínua, serão abordados alguns desafios existentes e discutidas perspectivas de pesquisas futuras para o avanço do estado da arte, de forma a também contribuir para o estado da prática. Por fim, serão apresentadas algumas propostas relacionadas ao tema que vêm sendo produzidas em projetos de pesquisa desenvolvidos no NEMO.</p>
+  <p><b>Resumo:</b>Em breve.</p>
   <br>
-  <p><b>Bio:</b> Professora do Departamento de Informática da Universidade Federal do Espírito Santo, onde é membro sênior do Núcleo de Estudos em Modelagem Conceitual e Ontologias (NEMO) e coordenadora do Laboratório de Práticas em Engenharia de Software “Ricardo de Almeida Falbo” (LabES). É doutora em Engenharia de Sistemas e Computação pela COPPE/UFRJ. Atua como membro do comitê de programa de conferências nacionais e internacionais relevantes em sua área de atuação (ESEM, EASE, PROFES,  SBES, CIbSE, SBQS, ONTOBRAS, ACM SAC, entre outras), tendo sido coordenadora do comitê de programa em várias delas. Atualmente, é membro do comitê diretivo do SBQS, evento mais importante na área de qualidade de software no Brasil, do CIbSE, evento de referência em Engenharia de Software na Ibero-América, e do ONTOBRAS, evento de maior expressão para a pesquisa e aplicações em ontologias no Brasil. Também atua como revisora de diversos periódicos (Applied Ontology Journal, Empirical Software Engineering Journal, Journal of Software Evolution and Process, Journal of Systems and Software, Information and Software Technology, entre outros). Seus principais interesses de pesquisa incluem Engenharia de Software, Engenharia de Ontologias e Ontologias aplicadas à Engenharia de Software. Tópicos nos quais ela tem trabalhado nos últimos anos incluem, entre outros: Processo de Software, Qualidade de Software, Medição de Software, Gerenciamento de Projetos de Software, Desenvolvimento Ágil, Engenharia de Software Contínua, Ontologias aplicadas à Interação Humano-Computador, Interoperabilidade Semântica e Engenharia de Ontologias. Outras informações em: <a href="http://www.inf.ufes.br/~monalessa/">http://www.inf.ufes.br/~monalessa/</a>.</p>
-  </div>
+  <p><b>Bio:</b>Em breve.</p>
+</div>	
 <p>&nbsp;</p>
 	
-	
-<h2>Palestra 4</h2>
+<h2>Minicurso 3</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/img-italo.png" alt="" align="center"><br>
-      <b>Ítalo Santos - Gerente de Engenharia/SRE na Loggi</b><br>		
-  <a href="https://br.linkedin.com/in/italosantos" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Evolução de SRE na Loggi:  Como rodamos sistemas em produção em larga escala</h4>		
+      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-victor.png" alt="" align="center"><br>
+      <b>Filipe Guilherme Veber</b><br>				
+  <h4>Título: Flutter: O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</h4>		
   <b>Data:</b> 19/Out/2022 (Quarta-Feira) <br>
-  <b>Hora:</b> 20:30 - 22:00 <br>
+  <b>Hora:</b> 14:00 - 17:30 <br>
   <br>
-  <p><b>Resumo:</b> Apesar do crescimento expressivo no Brasil, o setor de e-commerce ainda tem muito a melhorar quando comparado a grandes economias mundiais.  A Loggi, criada em 2013, é uma das empresas unicórnios no Brasil, com soluções inovadoras e relevantes no setor de logística, com forte base em tecnologias digitais. A Loggi tem se posicionado, de maneira inédita, para revolucionar o setor logístico no Brasil facilitando o crescimento de um novo comércio, com economia, agilidade e confiabilidade.   Nesta palestra daremos uma visão geral de SRE (Site Reliability Engineering) na Loggi, conceitos e  evolução da disciplina de SRE, exemplos de atividades de monitoramento e de métricas para apoiar o oferecimento de soluções de software e serviços de alta qualidade de forma a atender aos requisitos de qualidade no domínio de logística. Falaremos sobre as lições aprendidas e desafios. Para saber mais, acesse: <a href="loggi.com/venha">loggi.com/venha</a>.</p>
+  <p><b>Resumo:</b>Flutter é um framework cross-platform criado pela Google que começou com a proposta de ser utilizado para desenvolvimento móvel. Hoje, com suporte para Web, Desktop e sistemas embarcados, conceitos como Responsividade e Adaptabilidade ganham ainda mais destaque e importância. Vamos ver como podemos unir estes conceitos e como rodar nosso app em várias plataformas utilizando o mesmo código base do Flutter.</p>
   <br>
-  <p><b>Bio:</b> Gerente Senior de Engenharia na Loggi e lidera a tribo de plataforma que contempla os times responsáveis pela construção da tecnologia base para todos os times de Engenharia e Dados da companhia. Com mais de 10 anos de experiência, é apaixonado por problemas e sistemas em produção.</p>
-  </div>
-<p>&nbsp;</p>	
-	
+  <p><b>Bio:</b>Desde 2013 trabalhando na área de TI, já atuei na parte de front-end, back-end, desktop e mobile. Atualmente trabalho na ZipDev, empresa que atua na área de outsourcing de profissionais LATAM para empresas do Canadá e Estados Unidos. Há alguns meses venho pegando gosto de desenvolver aplicativos móveis novamente, porém, dessa vez, utilizando o Flutter, tecnologia criada pela Google.</p>
+</div>	
+<p>&nbsp;</p>
 
-<h2>Palestra 5</h2>
+<h2>Minicurso 4</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/img-raul.png" alt="" align="center"><br>
-      <b>Raul Sidnei Wazlawick</b><br>		
-  <a href="http://lattes.cnpq.br/7541399131195077" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</h4>	
+      <img src="https://eres-sbc-br.github.io/eres2022/images/em-breve.png" alt="" align="center"><br>
+      <b></b><br>		
+  <a href="http://lattes.cnpq.br/embreve" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Em breve</h4>		
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
-  <b>Hora:</b> 18:30 - 20:00 <br>
+  <b>Hora:</b> 14:00 - 17:30 <br>
   <br>
-  <p><b>Resumo:</b> Nesta palestra apresentamos um case de sucesso em engenharia de software, o Laboratório Bridge da UFSC, vencedor do Prêmio Labutantes - Melhor Laboratório de Inovação da Região Sul, e responsável por vários projetos de informatização do Ministério da Saúde desde 2013. Em especial, apresentaremos algumas das práticas de desenvolvimento ágil que permitiram que essa equipe de mais de 160 pessoas esteja criando produtos fabulosos para a gestão da saúde pública no Brasil, impactando mais de 650 mil usuários e 150 milhões de habitantes. <a href="www.bridge.ufsc.br" target="_blank">www.bridge.ufsc.br</a>.</p>
+  <p><b>Resumo:</b>Em breve.</p>
   <br>
-  <p><b>Bio:</b> Professor Titular da UFSC em Engenharia de Software. Coordenador Geral do Laboratório Bridge. Bacharel e Mestre em Ciência da Computação e Doutor em Engenharia (1993). Vencedor do Prêmio Francisco Romeu Landi - Pesquisador Inovador no Setor Público (2021). Menção honrosa no Prêmio Luiz Fernando Gomes Soares – SBC (2021). Finalista do 59º Prêmio Jabuti (Excelência em Produção Literária Nacional) com o livro História da Computação (2017). Professor Honoris Causa pelo Centro de Instrução de Guerra Eletrônica do Exército Brasileiro (2013). Autor de cinco livros e mais de uma centena de artigos científicos.</p>
-  </div>
+  <p><b>Bio:</b>Em breve.</p>
+</div>	
+<p>&nbsp;</p>
+	
+<h2>Minicurso 5</h2>
+<div class="medium-16 columns">
+      <img src="https://eres-sbc-br.github.io/eres2022/images/em-breve.png" alt="" align="center"><br>
+      <b></b><br>		
+  <a href="http://lattes.cnpq.br/embreve" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Em breve</h4>		
+  <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
+  <b>Hora:</b> 14:00 - 17:30 <br>
+  <br>
+  <p><b>Resumo:</b>Em breve.</p>
+  <br>
+  <p><b>Bio:</b>Em breve.</p>
+</div>	
 <p>&nbsp;</p>
 
 
-
-<h2>Painel</h2>
-<div class="medium-16 columns">
-	<h4>Título: Relação Academia Empresa: um Ecossistema para Formação de Recursos Humanos, Pesquisa, Desenvolvimento e Inovação</h4>
-	<br>
-      <!-- <b>José Carlos Maldonado (ICMC-USP)</b><br> -->	
-	<b>Raul Sidney Waslawick (UFSC)</b><br>
-	<b>Bruno Tiergarten (BLUSOFT/ACATE)</b><br>
-
-  <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
-  <b>Hora:</b> 20:30 - 22:00 <br>
-  <br>
-
-  </div>
+</div>
 	
 	
 	
