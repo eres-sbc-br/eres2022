@@ -52,10 +52,16 @@
   url: ""
   side: left
   dropdown:
-  - title: "FURB"
-    url: "/furb/"
-  - title: "UniSENAI"
-    url: "/unisenai/"
+  - title: "Como chegar à ERES"
+    url: "/comochegar/
+  - title: "Hospedagem e Alojamento"
+    url: "/hospedagem/
+  - title: "Sobre Blumenau"
+    url: "/blumenau/"
+#  - title: "FURB"
+#    url: "/furb/"
+#  - title: "UniSENAI"
+#    url: "/unisenai/"
 #  - title: "Como Chegar à ERES"
 #    url: "/como_chegar/"
 #  - title: "Hospedagem"
