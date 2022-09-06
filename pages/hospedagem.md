@@ -10,18 +10,11 @@ header:
 ---
 <hr>
 
-<p>A <strong>Hospedagem</strong> é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A sexta edição da escola, a ERES 2022, ocorrerá de forma <strong>PRESENCIAL</strong>, no período de 18 a 20 de outubro de 2022 em Blumenau (SC) durante a realização da Oktoberfest, maior festa germânica das Américas. Blumenau é reconhecida nacionalmente por ser um Polo de Desenvolvimento de Software. Esta edição está sendo organizada pela Universidade Regional de Blumenau (FURB) em parceria com o Centro Universitário SENAI Blumenau </p>
-
-<h5>Datas Importante - <strong>NOVAS DATAS</strong></h5>
+<p>Aos participantes da ERES 2022 e tamb&eacute;m &agrave;s caravanas de outras cidades/estados, ser&aacute; ofertado alojamento no <strong>SESI Centro Esportivo Bernardo Werner</strong> (R. Itaja&iacute;, 3434 - Vorstadt, Blumenau - SC, 89015-201).</p>
 <ul>
-  <li><strong>Submissão de Abstract</strong>: 05 de setembro de 2022 até as 23h:55m (horário de Brasília).</li>
-  <li><strong>Submissão de artigos</strong>: 12 de setembro de 2022 até as 23h:55m (horário de Brasília).</li>
-  <li><strong>Notificação aos autores</strong>: 30 de setembro de 2022.</li>
-  <li><strong>Envio da versão final</strong>: 07 de outubro de 2022.</li>
+<li>O alojamento oferecido ser&aacute; sem roupa de cama (isto &eacute;, o participante dever&aacute; providenciar len&ccedil;ol, cobertor, travesseiro e fronha);</li>
+<li>O valor da di&aacute;ria no &eacute; de <strong>R$ 35,00</strong>, sendo permitido no m&aacute;ximo 3 di&aacute;rias (conforme datas do evento: entrada a qualquer momento de ter&ccedil;a-feira, e sa&iacute;da na sexta-feira).</li>
 </ul>
-
-<p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2022 é um espaço para que possam ser apresentados os resultados de pesquisas de graduação e pós-graduação e relatos de experiência na indústria. Além disso, a escola possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES nas instituições de ensino superior, especialmente da Região Sul do Brasil</p>
-
-<p>A realização da ERES 2022 pretende oferecer aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de Engenharia de Software por meio da apresentação de palestras ministradas por pesquisadores e profissionais renomados da indústria. Dessa forma, este evento irá possibilitar a divulgação de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando, assim, o gosto pela pesquisa científica e prática de ES aos participantes.</p>
+<p>Reserva e pagamento dever&atilde;o ser feitas diretamente com a RECEP&Ccedil;&Atilde;O DO SESI por interm&eacute;dio do n&uacute;mero WahstApp <a href="https://api.whatsapp.com/send/?phone=554732315212">+55 47 3231-5212</a>.</p>
 
 <p>Esperamos vocês na ERES 2022!</p>
