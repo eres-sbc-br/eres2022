@@ -15,6 +15,6 @@ header:
 <li>O alojamento oferecido ser&aacute; sem roupa de cama (isto &eacute;, o participante dever&aacute; providenciar len&ccedil;ol, cobertor, travesseiro e fronha);</li>
 <li>O valor da di&aacute;ria no &eacute; de <strong>R$ 35,00</strong>, sendo permitido no m&aacute;ximo 3 di&aacute;rias (conforme datas do evento: entrada a qualquer momento de ter&ccedil;a-feira, e sa&iacute;da na sexta-feira).</li>
 </ul>
-<p>Reserva e pagamento dever&atilde;o ser feitas diretamente com a RECEP&Ccedil;&Atilde;O DO SESI por interm&eacute;dio do n&uacute;mero WahstApp <a href="https://api.whatsapp.com/send/?phone=554732315212">+55 47 3231-5212</a>.</p>
+<p>Reserva e pagamento dever&atilde;o ser feitas diretamente com a RECEP&Ccedil;&Atilde;O DO SESI por interm&eacute;dio do n&uacute;mero WahstApp <a href="https://api.whatsapp.com/send/?phone=554732315212">+55 47 3231-5212</a>. No ato da reserva do alojamento, deverá ser informado a participação no evento #ERES2022.</p>
 
 <p>Esperamos vocês na ERES 2022!</p>
