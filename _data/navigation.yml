@@ -53,9 +53,9 @@
   side: left
   dropdown:
   - title: "Como chegar à ERES"
-    url: "/como_chegar/
+    url: "/como_chegar/"
   - title: "Hospedagem e Alojamento"
-    url: "/hospedagem/
+    url: "/hospedagem/"
   - title: "Sobre Blumenau"
     url: "/blumenau/"
 #  - title: "FURB"
