@@ -26,16 +26,16 @@ header:
 	
 <h2>Palestra 2</h2>
 <div class="medium-16 columns">
-      <!--<img src="https://eres-sbc-br.github.io/eres2022/images/img-christina.png" alt="" align="center"><br>-->
+      <img src="https://eres-sbc-br.github.io/eres2022/images/palestra-edson.jpeg" alt="" align="center"><br>
       <b>Em breve</b><br>		
-  <!--<a href="http://lattes.cnpq.br/1827829018668226" target="_blank">Currículo Lattes</a><br>	-->	
-  <h4>Título: Em breve </h4>		
+  <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Engenharia de Linhas de Produto de Software com UML e Experimentação Controlada </h4>		
   <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
   <b>Hora:</b> 20:30 - 22:00 <br>
   <br>
-  <p><b>Resumo:</b> Em breve.</p>
+  <p><b>Resumo:</b> nesta palestra eu apresento os conceitos básicos de Linhas de Produto de Software (LPS) como o seu ciclo de vida, gerência de variabilidade e geração de produtos específicos, fundamentos de UML para a criação de LPSs e gerência de variabilidades e a ferramenta SMartyModeling que compõe a abordagem Stereotype-based Management of Variability (SMarty). Também apresento conceitos básicos de experimentação controlada e a sua aplicação em LPSs de acordo com SMarty. Finalizo a palestra apresentando trabalhos em andamento de experimentos controlados em LPS adotando conceitos de Ciência Aberta.</p>
   <br>
-  <p><b>Bio:</b> Em breve.</p>
+  <p><b>Bio:</b> Possui graduação em Informática e mestrado em Ciência da Computação pela Universidade Estadual de Maringá e doutorado em Ciências de Computação e Matemática Computacional pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC-USP). Estágio Pós-Doutoral em Experimentação em Forense Digital na PUC-RS. Atualmente é Professor Visitante na PUCRS. Professor Associado do Departamento de Informática (DIN) da Universidade Estadual de Maringá (UEM). Possui experiência na área de Ciência da Computação, com ênfase em Engenharia de Software, atuando principalmente nos seguintes temas: Processos de Software, Linha de Produto de Software, Avaliação de Arquitetura de Software e de Linhas de Produto, Linha de Processo de Software, Gerenciamento de Variabilidades, Métricas e Modelos de Software, Frameworks, Modelagem e Metamodelagem UML, Ambientes de Desenvolvimento e Tecnologias Java. Também possui experiência em Forense Digital, atuando em: Experimentação, Requisitos, Ontologias, Modelos Conceituais e Ferramentas para Forense Digital. Tem investigado e adotado princípios de Ciência Aberta, os quais têm regido as suas atividades de pesquisa.</p>
 </div>	
 <p>&nbsp;</p>
 
