@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Hospedagem"
+title: "Hospedagem e Alojamento"
 #meta_title: "Dúvidas? Entre em contato conosco"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
@@ -9,6 +9,8 @@ header:
    image_fullwidth: banner_eres2021.png
 ---
 <hr>
+
+<p>Confira uma lista de locais para acomodações em Blumenau: <a href="https://www.turismoblumenau.com.br/onde-ficar-hostels-hoteis-pousadas-em-blumenau/">hostels/hotéis/posadas</a>.
 
 <p>Aos participantes da ERES 2022 e tamb&eacute;m &agrave;s caravanas de outras cidades/estados, ser&aacute; ofertado alojamento no <strong>SESI Centro Esportivo Bernardo Werner</strong> (R. Itaja&iacute;, 3434 - Vorstadt, Blumenau - SC, 89015-201).</p>
 <ul>
