@@ -17,4 +17,4 @@ header:
 
 <iframe width="683" height="384" src="https://www.youtube.com/embed/hL1gQJew9sQ" title="Blumenau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Saiba mais em <a href="https://www.turismoblumenau.com.br/">https://www.turismoblumenau.com.br/</a>.
+<p>Saiba mais em <a href="https://www.turismoblumenau.com.br/">https://www.turismoblumenau.com.br/</a>.</p>
