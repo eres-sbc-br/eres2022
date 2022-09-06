@@ -90,11 +90,12 @@ header:
 
 <h2>Painel</h2>
 <div class="medium-16 columns">
-	<h4>Título: Relação Academia Empresa: um Ecossistema para Formação de Recursos Humanos, Pesquisa, Desenvolvimento e Inovação</h4>
+	<h4>Título: Relação Academia Empresa e a Formação de Recursos Humanos</h4>
 	<br>
-      <!-- <b>José Carlos Maldonado (ICMC-USP)</b><br> -->	
+        <b>Bruno Tiergarten (BLUSOFT/ACATE)</b><br>
+	<b>Maicon Bernardino (UNIPAMPA)</b><br>
 	<b>Raul Sidney Waslawick (UFSC)</b><br>
-	<b>Bruno Tiergarten (BLUSOFT/ACATE)</b><br>
+	<br>
 
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
   <b>Hora:</b> 20:30 - 22:00 <br>
