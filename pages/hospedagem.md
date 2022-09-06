@@ -10,7 +10,7 @@ header:
 ---
 <hr>
 
-<p>Confira uma lista de locais para acomodações em Blumenau: <a href="https://www.turismoblumenau.com.br/onde-ficar-hostels-hoteis-pousadas-em-blumenau/">hostels/hotéis/posadas</a>.
+<p>Confira uma lista de locais para acomodações em Blumenau: <a href="https://www.turismoblumenau.com.br/onde-ficar-hostels-hoteis-pousadas-em-blumenau/">hostels/hotéis/pousadas</a>.
 
 <p>Aos participantes da ERES 2022 e tamb&eacute;m &agrave;s caravanas de outras cidades/estados, ser&aacute; ofertado alojamento no <strong>SESI Centro Esportivo Bernardo Werner</strong> (R. Itaja&iacute;, 3434 - Vorstadt, Blumenau - SC, 89015-201).</p>
 <ul>
