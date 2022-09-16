@@ -55,7 +55,7 @@ header:
 
 <h2>Minicurso 4</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/foto-raphael.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2022/images/foto-raphael.jpg" alt="" align="center" style="height: 250px"><br>
       <b>Raphael Dias</b><br>		
 	
   <h4>Título: Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</h4>		
