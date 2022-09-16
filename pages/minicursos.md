@@ -55,9 +55,9 @@ header:
 
 <h2>Minicurso 4</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/em-breve.png" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2022/images/foto-raphael.jpg" alt="" align="center"><br>
       <b>Raphael Dias</b><br>		
-  <a href="http://lattes.cnpq.br/embreve" target="_blank">Currículo Lattes</a><br>		
+	
   <h4>Título: Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</h4>		
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
   <b>Hora:</b> 14:00 - 17:30 <br>
