@@ -15,7 +15,7 @@ header:
 <h5>Datas Importante - <strong>NOVAS DATAS</strong></h5>
 <ul>
   <li><strong>Submissão de Abstract</strong>: 05 de setembro de 2022 até as 23h:55m (horário de Brasília).</li>
-  <li><strong>Submissão de artigos</strong>: 12 de setembro de 2022 até as 23h:55m (horário de Brasília).</li>
+  <li><strong>Submissão de artigos</strong>: 19 de setembro de 2022 até as 12h:00m (meio dia, horário de Brasília).</li>
   <li><strong>Notificação aos autores</strong>: 30 de setembro de 2022.</li>
   <li><strong>Envio da versão final</strong>: 07 de outubro de 2022.</li>
 </ul>
