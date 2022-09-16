@@ -27,7 +27,7 @@ header:
 <h2>Palestra 2</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/palestra-edson.jpeg" alt="" align="center"><br>
-      <b>Em breve</b><br>		
+      <b>Edson Alves de Oliveira Junior</b><br>		
   <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Engenharia de Linhas de Produto de Software com UML e Experimentação Controlada </h4>		
   <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
