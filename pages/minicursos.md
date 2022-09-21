@@ -26,16 +26,16 @@ header:
 
 <h2>Minicurso 2</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/em-breve.png" alt="" align="center"><br>
-      <b></b><br>		
-  <a href="http://lattes.cnpq.br/embreve" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Em breve</h4>		
+      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-cesar.png" alt="" align="center"><br>
+      <b>Cesar Betoni</b><br>		
+  <a href="https://lattes.cnpq.br/4299035159922781" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Princípios de design de experiência do usuário (UX Design)</h4>		
   <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
   <b>Hora:</b> 14:00 - 17:30 <br>
   <br>
-  <p><b>Resumo:</b>Em breve.</p>
+  <p><b>Resumo:</b>O trabalho de UX Designer foca na construção de produtos através de um processo centrado na pessoa usuária, removendo fricções e melhorando fluxos para que a pessoa realize seus objetivos de forma intuitiva e eficiente. O objetivo será focar em processos de design para escala com boas práticas e facilidades para manutenção, aliado a uma prática de teste de usabilidade.</p>
   <br>
-  <p><b>Bio:</b>Em breve.</p>
+  <p><b>Bio:</b>Cesar Betoni é UX Designer no Farmácias APP - by Grupo SC, desenha interfaces desde 2014 e é bacharel em Artes Visuais - Multimídia pela UNOPAR - PR.</p>
 </div>	
 <p>&nbsp;</p>
 	
