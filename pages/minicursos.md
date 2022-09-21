@@ -26,7 +26,7 @@ header:
 
 <h2>Minicurso 2</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-cesar.png" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-cesar.png" alt="" align="center" style="height: 250px"><br>
       <b>Cesar Betoni</b><br>		
   <a href="https://lattes.cnpq.br/4299035159922781" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Princípios de design de experiência do usuário (UX Design)</h4>		
