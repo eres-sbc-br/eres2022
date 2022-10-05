@@ -62,6 +62,8 @@ header:
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
   <b>Hora:</b> 14:00 - 17:30 <br>
   <br>
+  <p><b>Resumo:</b>Neste treinamento, vamos conhecer como uma plataforma ALM apoia no desenvolvimento de um software, passando por todas as fases, desde a construção do código até a entrega em produção, de forma automatizada e com todo o rastreamento das tarefas que foram necessárias para a solução acontecer.</p>
+  <br>
   <p><b>Bio:</b>Raphael Dias é formado em Análise e Desenvolvimento de Sistemas e pós graduado em Engenharia e Arquitetura de Software. Desenvolve software há mais de 15 anos, sempre focado nas melhores práticas de programação. Entusiasta de testes de software e orientação a objetos, hoje atua como Principal Software Architect da AMcom, apoiando os demais arquitetos em suas demandas, bem como contratações, treinamentos e soluções para os mais diversos clientes.</p>
 </div>	
 <p>&nbsp;</p>
