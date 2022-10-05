@@ -8,8 +8,8 @@
   dropdown:
   - title: "Chamada de Trabalhos"
     url: "/chamada/"
-#  - title: "Artigos Aceitos"
-#    url: "/aceitos/"
+  - title: "Artigos Aceitos"
+    url: "/aceitos/"
 #  - title: "Anais"
 #    url: "/anais/"
 
