@@ -68,16 +68,16 @@ header:
 	
 <h2>Minicurso 5</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/em-breve.png" alt="" align="center"><br>
-      <b></b><br>		
+      <img src="https://eres-sbc-br.github.io/eres2022/images/foto-luiz.jpeg" alt="" align="center"><br>
+      <b>Luiz Antonio Santana da Silva </b><br>		
   <a href="http://lattes.cnpq.br/embreve" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Em breve</h4>		
+  <h4>Título: Desenvolvendo soluções usando low code com o X Platform</h4>		
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
   <b>Hora:</b> 14:00 - 17:30 <br>
   <br>
-  <p><b>Resumo:</b>Em breve.</p>
+  <p><b>Resumo:</b>Neste minicurso vamos mostrar como é possível desenvolver uma solução completa para automação de processos de negócio de forma integrada usando ferramentas low code de forma rápida e sem complexidade.</p>
   <br>
-  <p><b>Bio:</b>Em breve.</p>
+  <p><b>Bio:</b>Graduado em Ciência da Computação pela UNISUL, Pós-graduado em Gestão Empresarial, MBA Em Estratégias Cooperativas com ênfase em Negócios e Finanças. Certificações: TKP, SFPC, TEAM LEADER. Já atuou como desenvolver, analista de sistemas, Product Owner e Squad Leader. Atualmente ocupa o cargo de Coordenador de Tecnologia no time da Pesquisa e Arquitetura da Senior Sistemas.</p>
 </div>	
 <p>&nbsp;</p>
 
