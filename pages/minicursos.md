@@ -70,7 +70,7 @@ header:
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/foto-luiz.jpeg" alt="" align="center"><br>
       <b>Luiz Antonio Santana da Silva </b><br>		
-  <a href="http://lattes.cnpq.br/embreve" target="_blank">Currículo Lattes</a><br>		
+  <a href="http://lattes.cnpq.br/9951007059425516" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Desenvolvendo soluções usando low code com o X Platform</h4>		
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
   <b>Hora:</b> 14:00 - 17:30 <br>
