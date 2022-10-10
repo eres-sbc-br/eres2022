@@ -353,3 +353,107 @@ Autores, chair e participantes
       </table>
 </section>
 
+
+<section id='sessao_tecnica_2'>
+  <h4>Sessão Técnica 2</h4>
+  <table width="100%">
+    <col style="width:7%">
+    <col style="width:50%">
+    <col style="width:43%">
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+18/10 - Terça-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+Requisitos de Software e Desenvolvimento Ágil
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+TBA
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>16:00</strong>
+        </td>
+        <td>
+Requisitos de um Aplicativo Móvel para Apoiar Atividades de Letramento Literário
+        </td>
+        <td>
+&#8226; Ilgner de Deus (UNIPAMPA - Brasil)<br> 
+&#8226; Amanda Melo (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>16:15</strong>
+        </td>
+        <td>
+Engenharia de Requisitos em Empresas da Região Sul do Brasil: um Survey
+        </td>
+        <td>
+&#8226; Mateus Soares (UEM - Brasil)<br> 
+&#8226; Edson OliveiraJr (UEM - Brasil)<br> 
+&#8226; Nelson Tenório (UEM e UniCesumar - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>16:30</strong>
+        </td>
+        <td>
+Análise de Pontos de Função e Métricas Ágeis baseadas em Scrum sob a Perspectiva de Desenvolvedores
+        </td>
+        <td>
+&#8226; Igor Castilho Valenciano (UFMT - Brazil)<br> 
+&#8226; Joyce Aline Marins (UFMT - Brazil)<br> 
+&#8226; Vanice Cunha (UFMT - Brazil)<br>
+		&#8226; Saulo Reis (UFMT- Brazil)<br>
+		&#8226; Mariana Donato (UFMT - Brazil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>16:45</strong>
+        </td>
+        <td>
+Discussão
+        </td>
+        <td>
+Autores, chair e participantes
+        </td>
+      </tr>
+	    	    
+      
+    </tbody>
+      </table>
+</section>
+
