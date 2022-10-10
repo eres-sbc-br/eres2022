@@ -457,3 +457,263 @@ Autores, chair e participantes
       </table>
 </section>
 
+
+
+
+
+
+<section id='sessao_tecnica_3'>
+  <h4>Sessão Técnica 3</h4>
+  <table width="100%">
+    <col style="width:7%">
+    <col style="width:50%">
+    <col style="width:43%">
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+19/10 - Quarta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+Educação em ES e Aspectos Sociais
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+TBA
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>14:00</strong>
+        </td>
+        <td>
+Pedagogia Sistêmica: experiência do SENAI/SC Campus Joinville no ensino de Arquitetura e Desenvolvimento de Software
+        </td>
+        <td>
+&#8226; Alisson de Souza (PURPR - Brasil)<br> 
+&#8226; Dhyonatan Freitas (Centro Universitário Senai/SC Campus Joinville - Brasil)<br> 
+&#8226; Denise Rengel (Centro Universitário Senai Santa Catarina - Brasil)<br>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>14:15</strong>
+        </td>
+        <td>
+Avaliando a Aceitação de Aplicativos de Lógica Matemática Sob a Perspectiva de Docentes e Discentes
+        </td>
+        <td>
+&#8226; Bruna Dias (UNIPAMPA - Brasil)<br> 
+&#8226; Alice Finger (UNIPAMPA - Brasil)<br> 
+&#8226; Williamson Silva (UNIPAMPA - Brasil)<br>
+&#8226; João Pablo S. da Silva (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>14:30</strong>
+        </td>
+        <td>
+Desenvolvimento e Validação de um Fórum Multidisciplinar em um Curso de Engenharia de Software
+        </td>
+        <td>
+&#8226; Pablo Schoeffel (UDESC - Brasil)<br> 
+&#8226; João Pedro Schmitz (UDESC - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>14:45</strong>
+        </td>
+        <td>
+Desenvolvimento Socialmente Responsável de Software
+        </td>
+        <td>
+&#8226; Michel Marques (UNIPAMPA - Brasil)<br> 
+&#8226; Amanda Melo (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>15:00</strong>
+        </td>
+        <td>
+Discussão
+        </td>
+        <td>
+Autores, chair e participantes
+        </td>
+      </tr>
+	    	    
+      
+    </tbody>
+      </table>
+</section>
+
+
+<section id='sessao_tecnica_4'>
+  <h4>Sessão Técnica 4</h4>
+  <table width="100%">
+    <col style="width:7%">
+    <col style="width:50%">
+    <col style="width:43%">
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+19/10 - Quarta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+Engenharia de Software Inteligente e Verificação e Validação
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+TBA
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>16:00</strong>
+        </td>
+        <td>
+Engenharia de Software Inteligente para a Predição de Notícias Falsas: Representações de Codificador Bidirecional de Transformadores
+        </td>
+        <td>
+&#8226; Lara Moreira (UNIPAMPA - Brasil)<br> 
+&#8226; Vitor Siqueira (UNIPAMPA - Brasil)<br>
+&#8226; Matheus Ribeiro (UNIPAMPA - Brasil)<br> 
+&#8226; Eduardo A. O. Jesus (UNIPAMPA - Brasil)<br>
+&#8226; Cassio Ceolin Junior (UNIPAMPA - Brasil)<br> 
+&#8226; Fábio Basso (UNIPAMPA - Brasil)<br>
+&#8226; Williamson Silva (UNIPAMPA - Brasil)<br> 
+&#8226; Gabriel Machado Lunardi (UFRGS - Brasil)<br>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>16:15</strong>
+        </td>
+        <td>
+FugaPet-Rotas: Um algoritmo inteligente para recomendação de rotas visando buscar animais desaparecidos
+        </td>
+        <td>
+&#8226; Francisco Carlos Souza (UTFPR - Brazil)<br> 
+&#8226; Elio Costa (FugaPet - Brazil)<br> 
+&#8226; Alexandre Martinelli (FugaPet - Brazil)<br>
+		&#8226; Lincoln Costa (UFRJ - Brazil)<br>
+		&#8226; Alinne Souza (UTFPR - Brazil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>16:30</strong>
+        </td>
+        <td>
+Avaliação das ferramentas de análise estática de códigos PHP utilizando templates de websites eGov baseados em CMS
+        </td>
+        <td>
+&#8226; Diego dos Santos Comis (UNIPAMPA - Brasil)<br> 
+&#8226; Samuel Müller Forrati (UNIPAMPA - Brasil)<br> 
+&#8226; Maicon Bernardino (UNIPAMPA - Brasil)<br>
+		&#8226; Elder Rodrigues (UNIPAMPA - Brasil)<br>
+		&#8226; João Pablo S. da Silva (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>16:45</strong>
+        </td>
+        <td>
+Proposição de um Guia de Automação de Testes de Software para o TCE-MT: um Estudo de Caso
+        </td>
+        <td>
+&#8226; Mariana Donato (UFMT - Brazil)<br> 
+&#8226; Douglas da Silva (UFMT - Brazil)<br> 
+&#8226; Joyce Aline Marins (UFMT - Brazil)<br>
+		&#8226; Vanice Cunha (UFMT - Brazil)<br>
+		&#8226; Saulo dos Reis (UFMT - Brazil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>17:00</strong>
+        </td>
+        <td>
+Teste de desempenho em soluções SAP: um estudo de caso
+        </td>
+        <td>
+&#8226; Raul Neves (Universidade Federal do Pampa - Brazil)<br> 
+&#8226; Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>17:15</strong>
+        </td>
+        <td>
+Discussão
+        </td>
+        <td>
+Autores, chair e participantes
+        </td>
+      </tr>
+	    	    
+      
+    </tbody>
+      </table>
+</section>
