@@ -78,7 +78,7 @@ header:
   <a href="http://lattes.cnpq.br/7541399131195077" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</h4>	
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
-  <b>Hora:</b> 18:30 - 20:00 <br>
+  <b>Hora:</b> 18:30 - 19:45 <br>
   <br>
   <p><b>Resumo:</b> Nesta palestra apresentamos um case de sucesso em engenharia de software, o Laboratório Bridge da UFSC, vencedor do Prêmio Labutantes - Melhor Laboratório de Inovação da Região Sul, e responsável por vários projetos de informatização do Ministério da Saúde desde 2013. Em especial, apresentaremos algumas das práticas de desenvolvimento ágil que permitiram que essa equipe de mais de 160 pessoas esteja criando produtos fabulosos para a gestão da saúde pública no Brasil, impactando mais de 650 mil usuários e 150 milhões de habitantes. <a href="www.bridge.ufsc.br" target="_blank">www.bridge.ufsc.br</a>.</p>
   <br>
@@ -100,7 +100,7 @@ header:
 	<br>
 
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
-  <b>Hora:</b> 20:30 - 22:00 <br>
+  <b>Hora:</b> 19:45 - 20:30 <br>
   <br>
 
   </div>
