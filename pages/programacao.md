@@ -241,3 +241,115 @@ header:
         </tr>
     </tbody>
 </table>
+
+
+
+
+
+<section id='sessao_tecnica_1'>
+  <h4>Sessão Técnica 1</h4>
+  <table width="100%">
+    <col style="width:7%">
+    <col style="width:50%">
+    <col style="width:43%">
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+18/10 - Terça-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+IHC/UX
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+Williamson Silva
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>14:00</strong>
+        </td>
+        <td>
+Práticas de IHC como Apoio à Engenharia de Requisitos: Um Relato de Experiência
+        </td>
+        <td>
+&#8226; Igor Carreira (UEM - Brasil)<br> 
+&#8226; Guilherme Guerino (UEM - Brasil)<br> 
+&#8226; Heloise Manica Paris Teixeira (UEM - Brasil)<br>
+&#8226; Pedro Henrique Dias Valle (UFJF - Brasil)<br>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>14:15</strong>
+        </td>
+        <td>
+Um Estudo Exploratório sobre Métodos de Avaliação de User Experience em Chatbots
+        </td>
+        <td>
+&#8226; Marcus Barbosa (UNIPAMPA - Brasil)<br> 
+&#8226; Pedro Henrique Dias Valle (UFJF - Brasil)<br> 
+&#8226; Walter Nakamura (UTFPR - Brasil)<br>
+&#8226; Guilherme Guerino (UEM - Brasil)<br>
+		&#8226; Alice Finger (UNIPAMPA - Brasil)<br>
+		&#8226; Gabriel Lunardi (UFRGS - Brasil)<br>
+		&#8226; Williamson Silva (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>14:30</strong>
+        </td>
+        <td>
+Um Estudo Exploratório sobre a Aceitação do UX Curve aplicado a Ambientes Virtuais de Aprendizagem
+        </td>
+        <td>
+&#8226; Leonardo Silva (UNIPAMPA - Brasil)<br> 
+&#8226; Alice Finger (UNIPAMPA - Brasil)<br> 
+&#8226; Williamson Silva (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>14:45</strong>
+        </td>
+        <td>
+Discussão
+        </td>
+        <td>
+Autores, chair e participantes
+        </td>
+      </tr>
+	    	    
+      
+    </tbody>
+      </table>
+</section>
+
