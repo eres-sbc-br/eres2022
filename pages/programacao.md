@@ -214,29 +214,29 @@ header:
         </tr>
         <tr>
             <td bgcolor='#ffffff'>
-                18:30 - 20:00
+                18:30 - 19:45
             </td>
             <td bgcolor='#ffffff'>
                 <a href='../palestras#palestra_e'>Palestra E</a><br> <strong>Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</strong> <br>Raul Sidnei Wazlawick (UFSC)
             </td>           
-        </tr>
-  
-        <tr>
-            <td bgcolor='#d3d3d3'>
-                20:00 - 20:30
-            </td>
-            <td  bgcolor='#d3d3d3'>
-                Intervalo
-            </td>
-        </tr>
+	</tr>
 
         <tr>
           <td bgcolor='#ffffff'>
-            20:30 - 22:00
+            19:45 - 20:30
           </td>
           <td bgcolor='#ffffff'>
            <a href='../palestras#painel'>Painel</a><br> <strong>Relação Academia Empresa e a Formação de Recursos Humanos</strong> <br>Bruno Tiergarten (BLUSOFT/ACATE), Maicon Bernardino (UNIPAMPA), Raul Sidney Waslawick (UFSC)
           </td>
+        </tr>
+	    
+	            <tr>
+            <td bgcolor='#d3d3d3'>
+                20:30 - 20:45
+            </td>
+            <td  bgcolor='#d3d3d3'>
+                Encerramento
+            </td>
         </tr>
     </tbody>
 </table>
