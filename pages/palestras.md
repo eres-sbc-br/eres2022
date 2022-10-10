@@ -25,7 +25,7 @@ header:
 	
 	
 <h2>Palestra 2</h2>
-<div class="medium-16 columns">
+<div class="medium-16 columns" id="palestra_b">
       <img src="https://eres-sbc-br.github.io/eres2022/images/palestra-edson.jpeg" alt="" align="center"><br>
       <b>Edson Alves de Oliveira Junior</b><br>		
   <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>		
@@ -40,7 +40,7 @@ header:
 <p>&nbsp;</p>
 
 <h2>Palestra 3</h2>
-<div class="medium-16 columns">
+<div class="medium-16 columns" id="palestra_c">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-monalessa.png" alt="" align="center"><br>
       <b>Monalessa Perini Barcellos</b><br>		
   <a href="http://lattes.cnpq.br/8826584877205264" target="_blank">Currículo Lattes</a><br>		
@@ -56,7 +56,7 @@ header:
 	
 	
 <h2>Palestra 4</h2>
-<div class="medium-16 columns">
+<div class="medium-16 columns" id="palestra_d">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-italo.png" alt="" align="center"><br>
       <b>Ítalo Santos - Gerente de Engenharia/SRE na Loggi</b><br>		
   <a href="https://br.linkedin.com/in/italosantos" target="_blank">Currículo Lattes</a><br>		
@@ -72,7 +72,7 @@ header:
 	
 
 <h2>Palestra 5</h2>
-<div class="medium-16 columns">
+<div class="medium-16 columns" id="palestra_e">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-raul.png" alt="" align="center"><br>
       <b>Raul Sidnei Wazlawick</b><br>		
   <a href="http://lattes.cnpq.br/7541399131195077" target="_blank">Currículo Lattes</a><br>		
@@ -90,7 +90,7 @@ header:
 		
 
 <h2>Painel</h2>
-<div class="medium-16 columns">
+<div class="medium-16 columns" id="painel">
 	      <img src="https://eres-sbc-br.github.io/eres2022/images/painel-eres.jpeg" alt="" align="center" style="height: 400px"><br>
 	<h4>Título: Relação Academia Empresa e a Formação de Recursos Humanos</h4>
 	<br>
