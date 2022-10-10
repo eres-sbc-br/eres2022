@@ -717,3 +717,251 @@ Autores, chair e participantes
     </tbody>
       </table>
 </section>
+
+
+
+
+
+
+
+<section id='sessao_tecnica_5'>
+  <h4>Sessão Técnica 5</h4>
+  <table width="100%">
+    <col style="width:7%">
+    <col style="width:50%">
+    <col style="width:43%">
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+20/10 - Quinta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+Desenvolvimento de Software
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+Elder Rodrigues
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>14:00</strong>
+        </td>
+        <td>
+SAVE: uma ferramenta para coleta, atualização e visualização de informações dos egressos
+        </td>
+        <td>
+&#8226; William Ramos Oliveira (UNIPAMPA - Brasil)<br> 
+&#8226; Aline Mello (UNIPAMPA - Brasil)<br> 
+&#8226; Alice Finger (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>14:15</strong>
+        </td>
+        <td>
+CONECTAR: Uma plataforma colaborativa para conectar projetos a um time ideal
+        </td>
+        <td>
+&#8226; Jefferson Souza (UTFPR - Brasil)<br> 
+&#8226; Cinglair Capello (UTFPR - Brasil)<br> 
+&#8226; Cristian Matias (UTFPR - Brasil)<br>
+&#8226; Gabrieli Machado (UTFPR - Brasil)<br>
+		&#8226; Maynara Walter (UTFPR - Brasil)<br>
+		&#8226; Lincoln Costa (UFRJ - Brasil)<br>
+		&#8226; Alinne Souza (UTFPR - Brasil)<br>
+		&#8226; Francisco Carlos Souza (UTFPR - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>14:30</strong>
+        </td>
+        <td>
+EstomAM: um aplicativo para auxiliar no autocuidado de pessoas com estomias intestinais
+        </td>
+        <td>
+&#8226; Matheus Ribeiro (UNIPAMPA - Brasil)<br> 
+&#8226; Aline Albuquerque (UFAM - Brasil)<br>
+		
+&#8226; Saskia Sampaio (UFAM - Brasil)<br>
+		
+&#8226; Nariani Souza Galvão (UFAM - Brasil)<br>
+		
+&#8226; Williamson Silva (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+	    
+
+<tr>
+        <td>
+          <strong>14:45</strong>
+        </td>
+        <td>
+Discussão
+        </td>
+        <td>
+Autores, chair e participantes
+        </td>
+      </tr>
+	    	    
+      
+    </tbody>
+      </table>
+</section>
+
+
+<section id='sessao_tecnica_6'>
+  <h4>Sessão Técnica 6</h4>
+  <table width="100%">
+    <col style="width:7%">
+    <col style="width:50%">
+    <col style="width:43%">
+    <tbody>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Data:</strong>
+        </td>
+        <td colspan='2'>
+20/10 - Quinta-feira
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Tema:</strong>
+        </td>
+        <td colspan='2'>
+Estudos Empíricos
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Chair:</strong>
+        </td>
+        <td colspan='2'>
+Maicon Bernardino
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor='#d3d3d3'>
+          <strong>Horário</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Artigo</strong>
+        </td>
+        <td bgcolor='#d3d3d3'>
+          <strong>Autores</strong>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>16:00</strong>
+        </td>
+        <td>
+Cinco anos da Escola Regional de Engenharia de Software: Uma Análise Bibliométrica
+        </td>
+        <td>
+&#8226; Andrea Bordin (UFSC - Brasil)<br> 
+&#8226; Ramom Guth (UFSC - Brasil)<br>
+        </td>
+      </tr>
+
+<tr>
+        <td>
+          <strong>16:15</strong>
+        </td>
+        <td>
+Revisão da Literatura sobre Aplicativos para Gerenciar Informações Pessoais de Saúde
+        </td>
+        <td>
+&#8226; Amanda Spolaor (UNIPAMPA - Brasil)<br> 
+&#8226; Aline Mello (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>16:30</strong>
+        </td>
+        <td>
+A chatbot system to support visually impaired students: a pilot experiment
+        </td>
+        <td>
+&#8226; Leonardo Padilha (UTFPR - Brasil)<br> 
+&#8226; Alinne Souza (UTFPR - Brasil)<br> 
+&#8226; Francisco Carlos Souza (UTFPR - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>16:45</strong>
+        </td>
+        <td>
+Análise dos Estudos de Gerenciamento de Projetos de Jogos Digitais: Uma Revisão Sistemática da Literatura
+        </td>
+        <td>
+&#8226; Lucas Pieva (UNIPAMPA - Alegrete - Brasil)<br> 
+&#8226; Maicon Bernardino (UNIPAMPA - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>17:00</strong>
+        </td>
+        <td>
+Validação de um Dicionário Colaborativo da Língua Brasileira de Sinais utilizando Design Sprint
+        </td>
+        <td>
+&#8226; Reginaldo Matias (UDESC - Brasil)<br> 
+&#8226; Carla Berkenbrock (UDESC - Brasil)<br>
+		&#8226; Eric Silveira (UDESC - Brasil)<br>
+		&#8226; Fabíola Sell (UDESC  - Brasil)<br>
+        </td>
+      </tr>
+	    
+<tr>
+        <td>
+          <strong>17:15</strong>
+        </td>
+        <td>
+Discussão
+        </td>
+        <td>
+Autores, chair e participantes
+        </td>
+      </tr>
+	    	    
+      
+    </tbody>
+      </table>
+</section>
