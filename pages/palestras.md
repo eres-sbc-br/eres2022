@@ -10,16 +10,16 @@ header:
 <div class="row t30" id="palestra_a">
 <h2>Palestra 1</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/img-christina.png" alt="" align="center"><br>
-      <b>Christina von Flach Garcia Chavez</b><br>		
-  <a href="http://lattes.cnpq.br/1827829018668226" target="_blank">Currículo Lattes</a><br>		
+      <img src="https://eres-sbc-br.github.io/eres2022/images/prof-paulo.png" alt="" align="center"><br>
+      <b>Paulo Roberto Miranda Meirelles</b><br>		
+  <a href="http://lattes.cnpq.br/2193972715230641" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Software Livre: pré-requisito para a ciência aberta </h4>		
   <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
   <b>Hora:</b> 18:30 - 20:00 <br>
   <br>
   <p><b>Resumo:</b> Em breve.</p>
   <br>
-  <p><b>Bio:</b> Em breve.</p>
+  <p><b>Bio:</b>Professor adjunto na Universidade Federal do ABC (UFABC). Também atua como pesquisador colaborador no Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP). Foi docente na Universidade de Brasília (2013-2018) e na Universidade Federal de São Paulo (2018-2021). Atuou como pesquisador em regime de pós-doutorado no IME-USP (2016-2018). Doutor em Ciência da Computação pelo IME-USP (2013). Mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (2008). Tecnólogo em Desenvolvimento de Software (2005) e Técnico em Informática (2001) pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). Seus principais interesses de pesquisa incluem: engenharia de software, análise estática de código-fonte, software livre, métodos ágeis, DevOps e mineração de repositórios de software.</p>
 </div>	
 <p>&nbsp;</p>
 	
