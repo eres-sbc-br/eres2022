@@ -7,7 +7,7 @@ header:
    image_fullwidth: banner_eres2021.png
 ---
 
-<div class="row t30" id="palestra_a">
+<div class="row t30" id="minicurso_1">
 	
 <h2>Minicurso 1</h2>
 <div class="medium-16 columns">
@@ -24,6 +24,7 @@ header:
 </div>	
 <p>&nbsp;</p>
 
+	<div class="row t30" id="minicurso_2">
 <h2>Minicurso 2</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-cesar.png" alt="" align="center" style="height: 250px"><br>
@@ -39,6 +40,7 @@ header:
 </div>	
 <p>&nbsp;</p>
 	
+		<div class="row t30" id="minicurso_3">
 <h2>Minicurso 3</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-veber.png" alt="" align="center"><br>
@@ -53,6 +55,7 @@ header:
 </div>	
 <p>&nbsp;</p>
 
+			<div class="row t30" id="minicurso_4">
 <h2>Minicurso 4</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/foto-raphael.jpg" alt="" align="center" style="height: 250px"><br>
@@ -68,6 +71,7 @@ header:
 </div>	
 <p>&nbsp;</p>
 	
+				<div class="row t30" id="minicurso_5">
 <h2>Minicurso 5</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/foto-luiz.jpeg" alt="" align="center"><br>
