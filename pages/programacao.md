@@ -127,65 +127,74 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#d3d3d3'>
+                <strong>Visita Técnica ao Centro de Inovação de Blumenau</strong> <br>http://centrosdeinovacao.sc.gov.br/centro-de-inovacao-de-blumenau/
+            </td>
+		        </tr>
+	    
+	    <tr>
+            <td bgcolor='#ffffff'>
+                14:00 - 17:30
+            </td>
+            <td bgcolor='#ffffff'>
                 <a href='../minicursos#minicurso_3'>Minicurso 3</a><br><strong>O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</strong> <br>Filipe Guilherme Veber
             </td>
 		        </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 14:00 - 15:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='#sessao_tecnica_3'>Sessão Técnica 3</a>
             </td>
         </tr>
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 15:30 - 16:00
             </td>
-            <td  bgcolor='#d3d3d3'>
+            <td  bgcolor='#ffffff'>
                 Intervalo
             </td>
         </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 16:00 - 17:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='#sessao_tecnica_4'>Sessão Técnica 4</a>
             </td>
         </tr>
         
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 17:30 - 18:30
             </td>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 Intervalo
             </td>
         </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 18:30 - 20:00
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='../palestras#palestra_c'>Palestra C</a><br> <strong>Engenharia de Software Contínua: Visão Geral, Desafios e Perspectivas</strong> <br>Monalessa Perini Barcellos (UFES)
             </td>           
         </tr>
   
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 20:00 - 20:30
             </td>
-            <td  bgcolor='#d3d3d3'>
+            <td  bgcolor='#ffffff'>
                 Intervalo
             </td>
         </tr>
 
         <tr>
-          <td bgcolor='#ffffff'>
+          <td bgcolor='#d3d3d3'>
             20:30 - 22:00
           </td>
-          <td bgcolor='#ffffff'>
+          <td bgcolor='#d3d3d3'>
            <a href='../palestras#palestra_d'>Palestra D</a><br> <strong>Evolução de SRE na Loggi: Como rodamos sistemas em produção em larga escala</strong> <br>Ítalo Santos (Loggi)
           </td>
         </tr>
@@ -210,72 +219,82 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='../minicursos#minicurso_4'>Minicurso 4</a><br><strong>Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</strong> <br>Raphael Dias
+                <strong>Visita Técnica à Senior Sistemas</strong> <br>https://www.senior.com.br/
             </td>
 		        </tr>
+	    
+	    
 	    <tr>
             <td bgcolor='#ffffff'>
                 14:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
+                <a href='../minicursos#minicurso_4'>Minicurso 4</a><br><strong>Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</strong> <br>Raphael Dias
+            </td>
+		        </tr>
+	    <tr>
+            <td bgcolor='#d3d3d3'>
+                14:00 - 17:30
+            </td>
+            <td bgcolor='#d3d3d3'>
                 <a href='../minicursos#minicurso_5'>Minicurso 5</a><br><strong>Desenvolvendo soluções usando low code com o X Platform</strong> <br>Filipe Luiz Antonio Santana da Silva
             </td>
 		        </tr>
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 14:00 - 15:30
             </td>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 <a href='#sessao_tecnica_5'>Sessão Técnica 5</a>
             </td>
         </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 15:30 - 16:00
             </td>
-            <td  bgcolor='#ffffff'>
+            <td  bgcolor='#d3d3d3'>
                 Intervalo
             </td>
         </tr>
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 16:00 - 17:30
             </td>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 <a href='#sessao_tecnica_6'>Sessão Técnica 6</a>
             </td>
         </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 17:30 - 18:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 Intervalo
             </td>
         </tr>
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 18:30 - 19:45
             </td>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 <a href='../palestras#palestra_e'>Palestra E</a><br> <strong>Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</strong> <br>Raul Sidnei Wazlawick (UFSC)
             </td>           
 	</tr>
 
         <tr>
-          <td bgcolor='#ffffff'>
+          <td bgcolor='#d3d3d3'>
             19:45 - 20:30
           </td>
-          <td bgcolor='#ffffff'>
+          <td bgcolor='#d3d3d3'>
            <a href='../palestras#painel'>Painel</a><br> <strong>Relação Academia Empresa e a Formação de Recursos Humanos</strong> <br>Bruno Tiergarten (BLUSOFT/ACATE), Maicon Bernardino (UNIPAMPA), Raul Sidney Waslawick (UFSC)
           </td>
         </tr>
 	    
 	            <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 20:30 - 20:45
             </td>
-            <td  bgcolor='#d3d3d3'>
+            <td  bgcolor='#ffffff'>
                 Encerramento
             </td>
         </tr>
