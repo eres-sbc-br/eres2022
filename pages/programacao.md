@@ -124,7 +124,7 @@ header:
     <tbody>
 	    <tr>
             <td bgcolor='#d3d3d3'>
-                14:00 - 17:30
+                09:30 - 11:30
             </td>
             <td bgcolor='#d3d3d3'>
                 <strong>Visita Técnica ao Centro de Inovação de Blumenau</strong> <br>http://centrosdeinovacao.sc.gov.br/centro-de-inovacao-de-blumenau/
@@ -216,7 +216,7 @@ header:
     <tbody>
 	    <tr>
             <td bgcolor='#d3d3d3'>
-                14:00 - 17:30
+                09:30 - 11:30
             </td>
             <td bgcolor='#d3d3d3'>
                 <strong>Visita Técnica à Senior Sistemas</strong> <br>https://www.senior.com.br/
