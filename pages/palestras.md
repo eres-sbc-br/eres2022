@@ -8,14 +8,14 @@ header:
 ---
 
 <div class="row t30" id="palestra_a">
-<h2>Palestra 1</h2>
+<h2>Palestra A</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/prof-paulo.png" alt="" align="center"><br>
       <b>Paulo Roberto Miranda Meirelles</b><br>		
   <a href="http://lattes.cnpq.br/2193972715230641" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Software Livre: pré-requisito para a ciência aberta </h4>		
   <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
-  <b>Hora:</b> 18:30 - 20:00 <br>
+  <b>Hora:</b> 18:45 - 20:00 <br>
   <br>
   <p><b>Resumo:</b> Em breve.</p>
   <br>
@@ -24,7 +24,7 @@ header:
 <p>&nbsp;</p>
 	
 	
-<h2>Palestra 2</h2>
+<h2>Palestra B</h2>
 <div class="medium-16 columns" id="palestra_b">
       <img src="https://eres-sbc-br.github.io/eres2022/images/palestra-edson.jpeg" alt="" align="center"><br>
       <b>Edson Alves de Oliveira Junior</b><br>		
@@ -39,7 +39,7 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-<h2>Palestra 3</h2>
+<h2>Palestra C</h2>
 <div class="medium-16 columns" id="palestra_c">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-monalessa.png" alt="" align="center"><br>
       <b>Monalessa Perini Barcellos</b><br>		
@@ -55,7 +55,7 @@ header:
 <p>&nbsp;</p>
 	
 	
-<h2>Palestra 4</h2>
+<h2>Palestra D</h2>
 <div class="medium-16 columns" id="palestra_d">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-italo.png" alt="" align="center"><br>
       <b>Ítalo Santos - Gerente de Engenharia/SRE na Loggi</b><br>		
@@ -71,7 +71,7 @@ header:
 <p>&nbsp;</p>	
 	
 
-<h2>Palestra 5</h2>
+<h2>Palestra E</h2>
 <div class="medium-16 columns" id="palestra_e">
       <img src="https://eres-sbc-br.github.io/eres2022/images/img-raul.png" alt="" align="center"><br>
       <b>Raul Sidnei Wazlawick</b><br>		
@@ -91,7 +91,7 @@ header:
 
 <h2>Painel</h2>
 <div class="medium-16 columns" id="painel">
-	      <img src="https://eres-sbc-br.github.io/eres2022/images/painel-eres.jpeg" alt="" align="center" style="height: 400px"><br>
+	     
 	<h4>Título: Relação Academia Empresa e a Formação de Recursos Humanos</h4>
 	<br>
         <b>Bruno Tiergarten (BLUSOFT/ACATE)</b><br>
