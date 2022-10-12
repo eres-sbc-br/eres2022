@@ -24,6 +24,22 @@ header:
     <tbody>
         <tr>
             <td bgcolor='#ffffff'>
+                14:00 - 17:30
+            </td>
+            <td bgcolor='#ffffff'>
+                <a href='../minicursos#minicurso_1'>Minicurso 1</a><br><strong>Sistemas Distribuídos</strong> <br>Victor Bona
+            </td>
+		        </tr>
+		<tr>
+            <td bgcolor='#ffffff'>
+                14:00 - 17:30
+            </td>
+            <td bgcolor='#ffffff'>
+                <a href='../minicursos#minicurso_2'>Minicurso 2</a><br><strong>Princípios de design de experiência do usuário (UX Design)</strong> <br>Cesar Betoni
+            </td>
+        </tr>
+	    <tr>
+            <td bgcolor='#ffffff'>
                 14:00 - 15:30
             </td>
             <td bgcolor='#ffffff'>
@@ -106,6 +122,14 @@ header:
         </tr>
     </thead>
     <tbody>
+	    <tr>
+            <td bgcolor='#ffffff'>
+                14:00 - 17:30
+            </td>
+            <td bgcolor='#ffffff'>
+                <a href='../minicursos#minicurso_3'>Minicurso 3</a><br><strong>O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</strong> <br>Filipe Guilherme Veber
+            </td>
+		        </tr>
         <tr>
             <td bgcolor='#ffffff'>
                 14:00 - 15:30
@@ -181,6 +205,22 @@ header:
         </tr>
     </thead>
     <tbody>
+	    <tr>
+            <td bgcolor='#ffffff'>
+                14:00 - 17:30
+            </td>
+            <td bgcolor='#ffffff'>
+                <a href='../minicursos#minicurso_4'>Minicurso 4</a><br><strong>Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</strong> <br>Raphael Dias
+            </td>
+		        </tr>
+	    <tr>
+            <td bgcolor='#ffffff'>
+                14:00 - 17:30
+            </td>
+            <td bgcolor='#ffffff'>
+                <a href='../minicursos#minicurso_5'>Minicurso 5</a><br><strong>Desenvolvendo soluções usando low code com o X Platform</strong> <br>Filipe Luiz Antonio Santana da Silva
+            </td>
+		        </tr>
         <tr>
             <td bgcolor='#ffffff'>
                 14:00 - 15:30
