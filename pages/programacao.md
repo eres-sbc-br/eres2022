@@ -23,10 +23,10 @@ header:
     </thead>
     <tbody>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 14:00 - 17:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='../minicursos#minicurso_1'>Minicurso 1</a><br><strong>Sistemas Distribuídos</strong> <br>Victor Bona
             </td>
 		        </tr>
@@ -39,26 +39,26 @@ header:
             </td>
         </tr>
 	    <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 14:00 - 15:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='#sessao_tecnica_1'>Sessão Técnica 1</a>
             </td>
         </tr>
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 15:30 - 16:00
             </td>
-            <td  bgcolor='#d3d3d3'>
+            <td  bgcolor='#ffffff'>
                 Intervalo
             </td>
         </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 16:00 - 17:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='#sessao_tecnica_2'>Sessão Técnica 2</a>
             </td>
         </tr>
@@ -79,28 +79,28 @@ header:
           </td>
         </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 18:45 - 20:00
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='../palestras#palestra_a'>Palestra A</a><br> <strong>Software Livre: pré-requisito para a ciência aberta</strong> <br>Paulo Roberto Miranda Meirelles (UFABC)
             </td>           
         </tr>
   
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 20:00 - 20:30
             </td>
-            <td  bgcolor='#d3d3d3'>
+            <td  bgcolor='#ffffff'>
                 Intervalo
             </td>
         </tr>
 
         <tr>
-          <td bgcolor='#ffffff'>
+          <td bgcolor='#d3d3d3'>
             20:30 - 22:00
           </td>
-          <td bgcolor='#ffffff'>
+          <td bgcolor='#d3d3d3'>
            <a href='../palestras#palestra_b'>Palestra B</a><br> <strong>Engenharia de Linhas de Produto de Software com UML e Experimentação Controlada</strong> <br>Edson Alves de Oliveira Junior (UEM)
           </td>
         </tr>
@@ -123,10 +123,10 @@ header:
     </thead>
     <tbody>
 	    <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 14:00 - 17:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='../minicursos#minicurso_3'>Minicurso 3</a><br><strong>O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</strong> <br>Filipe Guilherme Veber
             </td>
 		        </tr>
@@ -206,10 +206,10 @@ header:
     </thead>
     <tbody>
 	    <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 14:00 - 17:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='../minicursos#minicurso_4'>Minicurso 4</a><br><strong>Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</strong> <br>Raphael Dias
             </td>
 		        </tr>
@@ -222,42 +222,42 @@ header:
             </td>
 		        </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 14:00 - 15:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='#sessao_tecnica_5'>Sessão Técnica 5</a>
             </td>
         </tr>
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 15:30 - 16:00
             </td>
-            <td  bgcolor='#d3d3d3'>
+            <td  bgcolor='#ffffff'>
                 Intervalo
             </td>
         </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 16:00 - 17:30
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='#sessao_tecnica_6'>Sessão Técnica 6</a>
             </td>
         </tr>
         <tr>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 17:30 - 18:30
             </td>
-            <td bgcolor='#d3d3d3'>
+            <td bgcolor='#ffffff'>
                 Intervalo
             </td>
         </tr>
         <tr>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 18:30 - 19:45
             </td>
-            <td bgcolor='#ffffff'>
+            <td bgcolor='#d3d3d3'>
                 <a href='../palestras#palestra_e'>Palestra E</a><br> <strong>Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</strong> <br>Raul Sidnei Wazlawick (UFSC)
             </td>           
 	</tr>
