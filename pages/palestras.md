@@ -17,7 +17,7 @@ header:
   <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
   <b>Hora:</b> 18:45 - 20:00 <br>
   <br>
-  <p><b>Resumo:</b> Em breve.</p>
+  <p><b>Resumo:</b>A ciência sempre pautou- se pela disseminação do conhecimento, com destaque para a reprodutibilidade de experimentos. Entretanto,  há limites práticos – e mesmo éticos – para o que pode ser compartilhado e reproduzido. A ciência aberta busca expandir esses limites, e requer que as ferramentas e os instrumentos necessários para a prática científica estejam disponíveis para todos, de modo que os experimentos possam ser reproduzidos e os resultados verificados por terceiros. Software é usado para limpeza, processamento e visualização de dados, bem como para criar modelos e realizar previsões. Algoritmos especializados são codificados na forma de bibliotecas, scripts e metadados. Sem compartilhar todos esses artefatos, é muito difícil e custoso reproduzir a pesquisa científica e validar sua correção. O Software Livre tem sido o principal componente da pesquisa em Ciência da Computação nas últimas décadas. Há centenas de exemplos de sistemas, de bibliotecas e de ferramentas que têm promovido o rápido desenvolvimento da pesquisa em Computação. Nesse contexto, o objetivo desta palestra é apresentar o que é software livre e como seu uso e compartilhamento (incluindo disponibilizar o que é produzido pelos pesquisadores como software livre) é um pré-requisito para a ciência aberta.</p>
   <br>
   <p><b>Bio:</b>Professor adjunto na Universidade Federal do ABC (UFABC). Também atua como pesquisador colaborador no Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP). Foi docente na Universidade de Brasília (2013-2018) e na Universidade Federal de São Paulo (2018-2021). Atuou como pesquisador em regime de pós-doutorado no IME-USP (2016-2018). Doutor em Ciência da Computação pelo IME-USP (2013). Mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (2008). Tecnólogo em Desenvolvimento de Software (2005) e Técnico em Informática (2001) pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). Seus principais interesses de pesquisa incluem: engenharia de software, análise estática de código-fonte, software livre, métodos ágeis, DevOps e mineração de repositórios de software.</p>
 </div>	
@@ -96,7 +96,7 @@ header:
 	<br>
         <b>Bruno Tiergarten (BLUSOFT/ACATE)</b><br>
 	<b>Maicon Bernardino (UNIPAMPA)</b><br>
-	<b>Raul Sidney Waslawick (UFSC)</b><br>
+	<b>Raul Sidnei Wazlawick (UFSC)</b><br>
 	<br>
 
   <b>Data:</b> 20/Out/2022 (Quinta-Feira) <br>
