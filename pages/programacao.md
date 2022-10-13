@@ -27,7 +27,7 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='../minicursos#minicurso_1'>Minicurso 1</a><br><strong>Sistemas Distribuídos</strong> <br>Victor Bona
+                <a href='../minicursos#minicurso_1'>Minicurso 1</a><br><strong>Sistemas Distribuídos</strong> <br>Victor Bona<br>FURB, Sala S-101
             </td>
 		        </tr>
 		<tr>
@@ -35,7 +35,7 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../minicursos#minicurso_2'>Minicurso 2</a><br><strong>Princípios de design de experiência do usuário (UX Design)</strong> <br>Cesar Betoni
+                <a href='../minicursos#minicurso_2'>Minicurso 2</a><br><strong>Princípios de design de experiência do usuário (UX Design)</strong> <br>Cesar Betoni<br>FURB, Sala S-307
             </td>
         </tr>
 	    <tr>
@@ -43,7 +43,7 @@ header:
                 14:00 - 15:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='#sessao_tecnica_1'>Sessão Técnica 1</a>
+                <a href='#sessao_tecnica_1'>Sessão Técnica 1</a><br>FURB, Sala S-214
             </td>
         </tr>
         <tr>
@@ -59,7 +59,7 @@ header:
                 16:00 - 17:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='#sessao_tecnica_2'>Sessão Técnica 2</a>
+                <a href='#sessao_tecnica_2'>Sessão Técnica 2</a><br>FURB, Sala S-214
             </td>
         </tr>
         <tr>
@@ -75,7 +75,7 @@ header:
               18:30 - 18:45
           </td>
           <td bgcolor='#ffffff'>
-              <strong>Abertura</strong><br>
+              <strong>Abertura</strong><br>UniSENAI, Auditório Multiuso
           </td>
         </tr>
         <tr>
@@ -83,7 +83,7 @@ header:
                 18:45 - 20:00
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='../palestras#palestra_a'>Palestra A</a><br> <strong>Software Livre: pré-requisito para a ciência aberta</strong> <br>Paulo Roberto Miranda Meirelles (UFABC)
+                <a href='../palestras#palestra_a'>Palestra A</a><br> <strong>Software Livre: pré-requisito para a ciência aberta</strong> <br>Paulo Roberto Miranda Meirelles (UFABC)<br>UniSENAI, Auditório Multiuso
             </td>           
         </tr>
   
@@ -101,7 +101,7 @@ header:
             20:30 - 22:00
           </td>
           <td bgcolor='#d3d3d3'>
-           <a href='../palestras#palestra_b'>Palestra B</a><br> <strong>Engenharia de Linhas de Produto de Software com UML e Experimentação Controlada</strong> <br>Edson Alves de Oliveira Junior (UEM)
+           <a href='../palestras#palestra_b'>Palestra B</a><br> <strong>Engenharia de Linhas de Produto de Software com UML e Experimentação Controlada</strong> <br>Edson Alves de Oliveira Junior (UEM)<br>UniSENAI, Auditório Multiuso
           </td>
         </tr>
         
@@ -136,7 +136,7 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../minicursos#minicurso_3'>Minicurso 3</a><br><strong>O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</strong> <br>Filipe Guilherme Veber
+                <a href='../minicursos#minicurso_3'>Minicurso 3</a><br><strong>O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</strong> <br>Filipe Guilherme Veber<br>FURB, Sala S-101
             </td>
 		        </tr>
         <tr>
@@ -144,7 +144,7 @@ header:
                 14:00 - 15:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='#sessao_tecnica_3'>Sessão Técnica 3</a>
+                <a href='#sessao_tecnica_3'>Sessão Técnica 3</a><br>FURB, Sala S-214
             </td>
         </tr>
         <tr>
@@ -160,7 +160,7 @@ header:
                 16:00 - 17:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='#sessao_tecnica_4'>Sessão Técnica 4</a>
+                <a href='#sessao_tecnica_4'>Sessão Técnica 4</a><br>FURB, Sala S-214
             </td>
         </tr>
         
@@ -177,7 +177,7 @@ header:
                 18:30 - 20:00
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='../palestras#palestra_c'>Palestra C</a><br> <strong>Engenharia de Software Contínua: Visão Geral, Desafios e Perspectivas</strong> <br>Monalessa Perini Barcellos (UFES)
+                <a href='../palestras#palestra_c'>Palestra C</a><br> <strong>Engenharia de Software Contínua: Visão Geral, Desafios e Perspectivas</strong> <br>Monalessa Perini Barcellos (UFES)<br>UniSENAI, Auditório Multiuso
             </td>           
         </tr>
   
@@ -195,7 +195,7 @@ header:
             20:30 - 22:00
           </td>
           <td bgcolor='#d3d3d3'>
-           <a href='../palestras#palestra_d'>Palestra D</a><br> <strong>Evolução de SRE na Loggi: Como rodamos sistemas em produção em larga escala</strong> <br>Ítalo Santos (Loggi)
+           <a href='../palestras#palestra_d'>Palestra D</a><br> <strong>Evolução de SRE na Loggi: Como rodamos sistemas em produção em larga escala</strong> <br>Ítalo Santos (Loggi)<br>UniSENAI, Auditório Multiuso
           </td>
         </tr>
     </tbody>
@@ -229,7 +229,7 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../minicursos#minicurso_4'>Minicurso 4</a><br><strong>Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</strong> <br>Raphael Dias
+                <a href='../minicursos#minicurso_4'>Minicurso 4</a><br><strong>Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</strong> <br>Raphael Dias<br>FURB, Sala S-307
             </td>
 		        </tr>
 	    <tr>
@@ -237,7 +237,7 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='../minicursos#minicurso_5'>Minicurso 5</a><br><strong>Desenvolvendo soluções usando low code com o X Platform</strong> <br>Filipe Luiz Antonio Santana da Silva
+                <a href='../minicursos#minicurso_5'>Minicurso 5</a><br><strong>Desenvolvendo soluções usando low code com o X Platform</strong> <br>Filipe Luiz Antonio Santana da Silva<br>FURB, Sala S-309
             </td>
 		        </tr>
         <tr>
@@ -245,7 +245,7 @@ header:
                 14:00 - 15:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='#sessao_tecnica_5'>Sessão Técnica 5</a>
+                <a href='#sessao_tecnica_5'>Sessão Técnica 5</a><br>FURB, Sala S-214
             </td>
         </tr>
         <tr>
@@ -261,7 +261,7 @@ header:
                 16:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='#sessao_tecnica_6'>Sessão Técnica 6</a>
+                <a href='#sessao_tecnica_6'>Sessão Técnica 6</a><br>FURB, Sala S-214
             </td>
         </tr>
         <tr>
@@ -277,7 +277,7 @@ header:
                 18:30 - 19:45
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../palestras#palestra_e'>Palestra E</a><br> <strong>Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</strong> <br>Raul Sidnei Wazlawick (UFSC)
+                <a href='../palestras#palestra_e'>Palestra E</a><br> <strong>Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</strong> <br>Raul Sidnei Wazlawick (UFSC)<br>UniSENAI, Auditório Multiuso
             </td>           
 	</tr>
 
@@ -286,7 +286,7 @@ header:
             19:45 - 20:30
           </td>
           <td bgcolor='#d3d3d3'>
-           <a href='../palestras#painel'>Painel</a><br> <strong>Relação Academia Empresa e a Formação de Recursos Humanos</strong> <br>Bruno Tiergarten (BLUSOFT/ACATE), Maicon Bernardino (UNIPAMPA), Raul Sidney Waslawick (UFSC)
+           <a href='../palestras#painel'>Painel</a><br> <strong>Relação Academia Empresa e a Formação de Recursos Humanos</strong> <br>Bruno Tiergarten (BLUSOFT/ACATE), Maicon Bernardino (UNIPAMPA), Raul Sidnei Wazlawick (UFSC)<br>UniSENAI, Auditório Multiuso
           </td>
         </tr>
 	    
