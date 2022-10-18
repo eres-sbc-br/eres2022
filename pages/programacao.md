@@ -27,7 +27,8 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='../minicursos#minicurso_1'>Minicurso 1</a><br><strong>Sistemas Distribuídos</strong> <br>Victor Bona<br>FURB, Sala S-101
+                <a href='../minicursos#minicurso_1'>Minicurso 1</a><br><strong>Sistemas Distribuídos</strong> <br>Victor Bona<br>FURB, Sala S-101<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/minicurso1.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>
 		        </tr>
 		<tr>
@@ -35,7 +36,8 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../minicursos#minicurso_2'>Minicurso 2</a><br><strong>Princípios de design de experiência do usuário (UX Design)</strong> <br>Cesar Betoni<br>FURB, Sala S-307
+                <a href='../minicursos#minicurso_2'>Minicurso 2</a><br><strong>Princípios de design de experiência do usuário (UX Design)</strong> <br>Cesar Betoni<br>FURB, Sala S-307<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/minicurso2.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>
         </tr>
 	    <tr>
@@ -83,7 +85,8 @@ header:
                 18:45 - 20:00
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='../palestras#palestra_a'>Palestra A</a><br> <strong>Software Livre: pré-requisito para a ciência aberta</strong> <br>Paulo Roberto Miranda Meirelles (UFABC)<br>UniSENAI, Auditório Multiuso
+                <a href='../palestras#palestra_a'>Palestra A</a><br> <strong>Software Livre: pré-requisito para a ciência aberta</strong> <br>Paulo Roberto Miranda Meirelles (UFABC)<br>UniSENAI, Auditório Multiuso<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/palestraA.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>           
         </tr>
   
@@ -101,7 +104,8 @@ header:
             20:30 - 22:00
           </td>
           <td bgcolor='#d3d3d3'>
-           <a href='../palestras#palestra_b'>Palestra B</a><br> <strong>Engenharia de Linhas de Produto de Software com UML e Experimentação Controlada</strong> <br>Edson Alves de Oliveira Junior (UEM)<br>UniSENAI, Auditório Multiuso
+           <a href='../palestras#palestra_b'>Palestra B</a><br> <strong>Engenharia de Linhas de Produto de Software com UML e Experimentação Controlada</strong> <br>Edson Alves de Oliveira Junior (UEM)<br>UniSENAI, Auditório Multiuso<br>
+		  <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/palestraB.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
           </td>
         </tr>
         
