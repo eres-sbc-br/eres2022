@@ -140,7 +140,8 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../minicursos#minicurso_3'>Minicurso 3</a><br><strong>O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</strong> <br>Filipe Guilherme Veber<br>FURB, Sala S-101
+                <a href='../minicursos#minicurso_3'>Minicurso 3</a><br><strong>O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</strong> <br>Filipe Guilherme Veber<br>FURB, Sala S-101<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/minicurso3.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>
 		        </tr>
         <tr>
@@ -181,7 +182,8 @@ header:
                 18:30 - 20:00
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='../palestras#palestra_c'>Palestra C</a><br> <strong>Engenharia de Software Contínua: Visão Geral, Desafios e Perspectivas</strong> <br>Monalessa Perini Barcellos (UFES)<br>UniSENAI, Auditório Multiuso
+                <a href='../palestras#palestra_c'>Palestra C</a><br> <strong>Engenharia de Software Contínua: Visão Geral, Desafios e Perspectivas</strong> <br>Monalessa Perini Barcellos (UFES)<br>UniSENAI, Auditório Multiuso<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/palestraC.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>           
         </tr>
   
@@ -199,7 +201,8 @@ header:
             20:30 - 22:00
           </td>
           <td bgcolor='#d3d3d3'>
-           <a href='../palestras#palestra_d'>Palestra D</a><br> <strong>Evolução de SRE na Loggi: Como rodamos sistemas em produção em larga escala</strong> <br>Ítalo Santos (Loggi)<br>UniSENAI, Auditório Multiuso
+           <a href='../palestras#palestra_d'>Palestra D</a><br> <strong>Evolução de SRE na Loggi: Como rodamos sistemas em produção em larga escala</strong> <br>Ítalo Santos (Loggi)<br>UniSENAI, Auditório Multiuso<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/palestraD.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
           </td>
         </tr>
     </tbody>
@@ -233,7 +236,8 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../minicursos#minicurso_4'>Minicurso 4</a><br><strong>Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</strong> <br>Raphael Dias<br>FURB, Sala S-307
+                <a href='../minicursos#minicurso_4'>Minicurso 4</a><br><strong>Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</strong> <br>Raphael Dias<br>FURB, Sala S-307<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/minicurso4.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>
 		        </tr>
 	    <tr>
@@ -241,7 +245,8 @@ header:
                 14:00 - 17:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <a href='../minicursos#minicurso_5'>Minicurso 5</a><br><strong>Desenvolvendo soluções usando low code com o X Platform</strong> <br>Filipe Luiz Antonio Santana da Silva<br>FURB, Sala S-309
+                <a href='../minicursos#minicurso_5'>Minicurso 5</a><br><strong>Desenvolvendo soluções usando low code com o X Platform</strong> <br>Filipe Luiz Antonio Santana da Silva<br>FURB, Sala S-309<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/minicurso5.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>
 		        </tr>
         <tr>
@@ -281,7 +286,8 @@ header:
                 18:30 - 19:45
             </td>
             <td bgcolor='#ffffff'>
-                <a href='../palestras#palestra_e'>Palestra E</a><br> <strong>Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</strong> <br>Raul Sidnei Wazlawick (UFSC)<br>UniSENAI, Auditório Multiuso
+                <a href='../palestras#palestra_e'>Palestra E</a><br> <strong>Desenvolvimento ágil e Informatização da Saúde Pública no Brasil</strong> <br>Raul Sidnei Wazlawick (UFSC)<br>UniSENAI, Auditório Multiuso<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/palestraE.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>           
 	</tr>
 
@@ -290,7 +296,8 @@ header:
             19:45 - 20:30
           </td>
           <td bgcolor='#d3d3d3'>
-           <a href='../palestras#painel'>Painel</a><br> <strong>Relação Academia Empresa e a Formação de Recursos Humanos</strong> <br>Bruno Tiergarten (BLUSOFT/ACATE), Maicon Bernardino (UNIPAMPA), Raul Sidnei Wazlawick (UFSC)<br>UniSENAI, Auditório Multiuso
+           <a href='../palestras#painel'>Painel</a><br> <strong>Relação Academia Empresa e a Formação de Recursos Humanos</strong> <br>Bruno Tiergarten (BLUSOFT/ACATE), Maicon Bernardino (UNIPAMPA), Raul Sidnei Wazlawick (UFSC)<br>UniSENAI, Auditório Multiuso<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/painel.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
           </td>
         </tr>
 	    
