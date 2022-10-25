@@ -131,7 +131,8 @@ header:
                 09:30 - 11:30
             </td>
             <td bgcolor='#d3d3d3'>
-                <strong>Visita Técnica ao Centro de Inovação de Blumenau</strong> <br>http://centrosdeinovacao.sc.gov.br/centro-de-inovacao-de-blumenau/
+                <strong>Visita Técnica ao Centro de Inovação de Blumenau</strong> <br>http://centrosdeinovacao.sc.gov.br/centro-de-inovacao-de-blumenau/<br>
+		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/visita_CIB.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
             </td>
 		        </tr>
 	    
@@ -296,8 +297,7 @@ header:
             19:45 - 20:30
           </td>
           <td bgcolor='#d3d3d3'>
-           <a href='../palestras#painel'>Painel</a><br> <strong>Relação Academia Empresa e a Formação de Recursos Humanos</strong> <br>Bruno Tiergarten (BLUSOFT/ACATE), Maicon Bernardino (UNIPAMPA), Raul Sidnei Wazlawick (UFSC)<br>UniSENAI, Auditório Multiuso<br>
-		    <img src="https://eres-sbc-br.github.io/eres2021/images/pdf.png" alt="Slides" align="center" /><a href="https://eres-sbc-br.github.io/eres2022/images/painel.pdf" target="_blank" style="border-bottom: none;"> Slides</a>
+           <a href='../palestras#painel'>Painel</a><br> <strong>Relação Academia Empresa e a Formação de Recursos Humanos</strong> <br>Bruno Tiergarten (BLUSOFT/ACATE), Maicon Bernardino (UNIPAMPA), Raul Sidnei Wazlawick (UFSC)<br>UniSENAI, Auditório Multiuso
           </td>
         </tr>
 	    
